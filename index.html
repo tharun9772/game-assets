@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Math Hub</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Roboto', sans-serif;
+      background-color: #f4f6f9;
+      color: #333;
+    }
+    header {
+      background-color: #003366;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.2em;
+    }
+    nav {
+      background-color: #0055a5;
+      display: flex;
+      justify-content: center;
+      padding: 10px 0;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+      transition: 0.3s;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    .hero {
+      background: url('https://images.unsplash.com/photo-1609992320905-6cc88ecad75f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80') center/cover no-repeat;
+      height: 300px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: white;
+      font-size: 2em;
+      font-weight: bold;
+      text-shadow: 2px 2px 8px rgba(0,0,0,0.7);
+    }
+    .container {
+      max-width: 1100px;
+      margin: 30px auto;
+      padding: 0 20px;
+      display: grid;
+      grid-template-columns: 2fr 1fr;
+      gap: 20px;
+    }
+    .card {
+      background: white;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      margin-bottom: 20px;
+    }
+    .card h2 {
+      margin-top: 0;
+      color: #003366;
+    }
+    footer {
+      background-color: #003366;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Math Hub</h1>
+    <p>Excellence • Integrity • Community</p>
+  </header>
+
+  <nav>
+    <a href="/">Home</a>
+    <a href="https://bloxcraftiubg.pages.dev/games">Math Games</a>
+    <a href="/math-sheets">Math Sheets</a>
+    <a href="/about">About Us</a>
+    <a href="/math">Math</a>
+  </nav>
+
+  <div class="hero">
+    Welcome to Math Hub!
+  </div>
+
+  <div class="container">
+    <div>
+      <div class="card">
+        <h2>Message</h2>
+        <p>Welcome to the site! print cool worksheets and play math games!</p>
+      </div>
+
+      <div class="card">
+        <h2>Top Math Games</h2>
+        <ul>
+          <li>Partnering</li>
+          <li>2048</li>
+          <li>Long Divison</li>
+        </ul>
+      </div>
+    </div>
+
+    <div>
+      <div class="card">
+        <h2>Announcements</h2>
+        <p>New math games! we added fun and educational games!</p>
+        <p>New math worksheets!</p>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <p>Math Hub - Ultimate Place To Do Math</p>
+  </footer>
+</body>
+</html>
