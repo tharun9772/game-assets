@@ -1,3 +1,0 @@
-IMPORT=tiny-fishing
-JS=html4game
-ID=tiny-fishing-assets
