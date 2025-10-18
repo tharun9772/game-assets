@@ -1,0 +1,104 @@
+<!-- Copyright (c) Bloxcraft Studios 2025 -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Bloxcraft UBG - App Viewer</title>
+  <style>
+
+    #viewerOverlay {
+      position: fixed;
+      top: 0; left: 0;
+      width: 100vw; height: 100vh;
+      background: rgba(0, 0, 0, 0.85);
+      backdrop-filter: blur(6px);
+      display: none;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      z-index: 9999;
+    }
+
+    #viewerFrame {
+      width: 90%;
+      height: 85%;
+      border: none;
+      border-radius: 20px;
+      box-shadow: 0 0 30px rgba(0,0,0,0.5);
+      background: #111;
+    }
+
+    #viewerControls {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      display: flex;
+      gap: 10px;
+    }
+
+    .viewer-btn {
+      background: linear-gradient(135deg, #4f46e5, #6d28d9);
+      border: none;
+      color: white;
+      padding: 10px 14px;
+      border-radius: 12px;
+      cursor: pointer;
+      font-weight: 600;
+      transition: all 0.2s ease;
+    }
+
+    .viewer-btn:hover {
+      background: linear-gradient(135deg, #6d28d9, #4f46e5);
+      transform: scale(1.05);
+    }
+
+
+  </style>
+</head>
+<body>
+
+  
+    <h1>Patse Your Main Content Here!</h1>
+ 
+
+  <div id="viewerOverlay">
+    <div id="viewerControls">
+      <button class="viewer-btn" id="fullscreenBtn">🖵 Fullscreen</button>
+      <button class="viewer-btn" id="closeBtn">✖ Close</button>
+    </div>
+    <iframe id="viewerFrame"></iframe>
+  </div>
+
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const gamePath = params.get("game");
+    const viewer = document.getElementById("viewerOverlay");
+    const frame = document.getElementById("viewerFrame");
+
+    
+    function isInternalPath(path) {
+      return path.startsWith("/") && !path.startsWith("//") && !path.includes("http");
+    }
+
+    if (gamePath && isInternalPath(gamePath)) {
+      viewer.style.display = "flex";
+      frame.src = gamePath;
+      document.body.style.overflow = "hidden";
+    }
+
+    document.getElementById("closeBtn").addEventListener("click", () => {
+
+      const url = new URL(window.location.href);
+      url.searchParams.delete("game");
+      window.location.href = url.pathname; 
+    });
+
+    document.getElementById("fullscreenBtn").addEventListener("click", () => {
+      if (frame.requestFullscreen) frame.requestFullscreen();
+      else if (frame.webkitRequestFullscreen) frame.webkitRequestFullscreen();
+      else if (frame.msRequestFullscreen) frame.msRequestFullscreen();
+    });
+  </script>
+</body>
+</html>
