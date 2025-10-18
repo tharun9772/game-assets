@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Bloxcraft UBG - Games</title>
+  <title>Bloxcraft UBG - App Viewer</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <style>
@@ -13,12 +13,11 @@
       left: 0;
       width: 100%;
       height: 55px;
-      background: var(--bar-bg);
+      background: #5555FF;
       backdrop-filter: blur(10px);
       border-bottom: 1px solid rgba(255,255,255,0.1);
       display: flex;
       align-items: center;
-      justify-content: space-between;
       padding: 0 20px;
       z-index: 9999;
     }
@@ -36,7 +35,7 @@
     .viewer-btn {
       background: transparent;
       border: 1px solid rgba(255,255,255,0.2);
-      color: var(--text);
+      color: #fff);
       padding: 7px 13px;
       border-radius: 10px;
       font-size: 14px;
@@ -59,13 +58,13 @@
       background: #000;
     }
   </style>
-
-  <link rel="icon" href="/favicon.ico">
+  <link rel="icon" href="/bloxcraft.png">
+  
 </head>
 <body>
   <div id="viewerBar">
     <div id="viewerTitle">Loading...</div>
-    <button class="viewer-btn" id="closeViewer">✖</button>
+    <button class="viewer-btn" id="closeViewer">Close</button>
   </div>
 
   <iframe id="viewerFrame"></iframe>
@@ -91,7 +90,7 @@
         }
       });
     } else {
-      viewerTitle.textContent = "No app loaded";
+      viewerTitle.textContent = "ERROR: 4o4 Game/App Not Found";
     }
 
     closeViewer.addEventListener("click", () => {
