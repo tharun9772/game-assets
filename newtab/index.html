@@ -247,8 +247,7 @@ setInterval(changeWord,2200);
     </div>
     
         
-      <input class="search-input" placeholder="Search Google or type a URL">
-   
+      <input class="search-input" placeholder="Type Somthing And Search.">
 
     <div class="shortcuts" id="shortcuts"></div>
   </div>
@@ -348,7 +347,7 @@ setInterval(changeWord,2200);
           e.preventDefault(); 
           const value = input.value.trim();
           if (!value) return; 
-          const url = 'https://www.google.com/?q=' + encodeURIComponent(value);
+          const url = 'https://www.google.com/search?q=' + encodeURIComponent(value);
          
           window.location.href = url;
         }
