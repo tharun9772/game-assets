@@ -1,0 +1,18 @@
+{
+  "ads": [
+    {
+      "id": "1",
+      "title": "Bloxcraft Unblocked Hub | Many Unblocked Games!",
+      "image": "img/bloxcraft_transparent.png",
+      "link": "https://example.com/play",
+      "description": "Game Site With Many Apps And Easy To Use!"
+    },
+    {
+      "id": "2",
+      "title": "Join Our Discord!",
+      "image": "img/discord_banner.png",
+      "link": "https://discord.gg/sqPFYEsz8F",
+      "description": "Hang out, chat, and get updates."
+    }
+  ]
+}
