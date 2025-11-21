@@ -5,7 +5,9 @@
       "title": "Bloxcraft Unblocked Hub | Many Unblocked Games!",
       "image": "img/bloxcraft_transparent.png",
       "link": "https://example.com/play",
-      "description": "Game Site With Many Apps And Easy To Use!"
+      "description": "Game Site With Many Apps And Easy To Use!",
+      "mode": "square",
+      "spots": "all"
     },
     {
       "id": "2",
@@ -13,6 +15,8 @@
       "image": "img/discord_banner.png",
       "link": "https://discord.gg/sqPFYEsz8F",
       "description": "Hang out, chat, and get updates."
+      "mode": "rectangle",
+      "spots": "all"
     }
   ]
 }
