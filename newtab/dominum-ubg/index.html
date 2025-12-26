@@ -5,8 +5,8 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Bloxcraft - New Tab</title>
-  <link rel="icon" href="/bloxcraft_transparent.png" type="image/png">
+  <title>Dominum UBG - New Tab</title>
+  <link rel="icon" href="https://cdn.jsdelivr.net/gh/dominum-ubg/dominum-ubg.github.io@main/dominum-ubg.png" type="image/png">
   <style>
     :root{
       --tile-bg: rgba(255,255,255,0.85);
@@ -338,7 +338,7 @@ for(let i=0;i<numDots;i++){
 <div class="container">
   <div class="text-section">
     <div class="text-container">
-      <h1 style="color:#E1D9D1;">Dominum UBG <span style="color:white;">New Tab</span></h1>
+      <h1 style="color:#E1D9D1;">Dominum UBG x Bloxcraft UBG<span style="color:white;">New Tab</span></h1>
       <h2><span id="Changing-Text" style="color:#E1D9D1;">Searching</span></h2>
       <div class="underline"></div>
     </div>
@@ -393,7 +393,7 @@ setInterval(changeWord,2200);
 
     const defaultShortcuts = [
       {name:"Bloxcraft UBG", url:"https://bloxcraft-ubg.pages.dev", icon:"https://bloxcraft-ubg.pages.dev/bloxcraft_transparent.png"},
-      name:"Dominum UBG", url:"https://dominum-ubg.pages.dev", icon:"https://cdn.jsdelivr.net/gh/dominum-ubg/dominum-ubg.github.io@main/dominum-ubg.png"},
+      {name:"Dominum UBG", url:"https://dominum-ubg.pages.dev", icon:"https://cdn.jsdelivr.net/gh/dominum-ubg/dominum-ubg.github.io@main/dominum-ubg.png"},
       {name:"YouTube", url:"https://www.youtube.com", icon:"https://www.youtube.com/favicon.ico"},
       {name:"DuckDuckGo", url:"https://duckduckgo.com", icon:"https://duckduckgo.com/assets/home_logo_dark.svg"}
     ];
@@ -416,7 +416,7 @@ setInterval(changeWord,2200);
         a.target='_blank';
         a.innerHTML=`
           <div class="remove-btn" title="Remove">×</div>
-          <img class="fav" src="${s.icon || 'https://cdn-icons-png.flaticon.com/512/545/545682.pn'}" alt="">
+          <img class="fav" src="${s.icon || 'https://cdn-icons-png.flaticon.com/512/545/545682.png'}" alt="">
           <span>${s.name}</span>
         `;
         a.querySelector('.remove-btn').addEventListener('click',(e)=>{
