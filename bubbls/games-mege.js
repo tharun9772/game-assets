@@ -50,8 +50,8 @@
 
     const lines = [
       '<div style="font-size: 18px; margin-bottom: 15px;">loading...</div>',
-      '<a href="https://bloxcraft-ubg.pages.dev/" style="font-size: 15px; color: #d42222; text-decoration: underline; margin-bottom: 10px; display: block;">Bloxcraft UBG</a>',
-      '<a href="https://discord.gg/sqPFYEsz8F" style="font-size: 15px; color: #ff6600; text-decoration: underline; margin-bottom: 10px; display: block;">Bloxcraft Studios | Discord</a>',
+      '<a href="https://bloxcraft-ubg.pages.dev/" style="font-size: 15px; color: #5555FF; text-decoration: underline; margin-bottom: 10px; display: block;">Bloxcraft UBG</a>',
+      '<a href="https://discord.gg/sqPFYEsz8F" style="font-size: 15px; color: #5865F2; text-decoration: underline; margin-bottom: 10px; display: block;">Bloxcraft Studios | Discord</a>',
     ];
 
     config.files.forEach((file) => {
