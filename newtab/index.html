@@ -276,7 +276,7 @@ setInterval(changeWord,2200);
     const defaultShortcuts = [
       {name:"Bloxcraft UBG", url:"https://bloxcraft-ubg.pages.dev", icon:"https://bloxcraft-ubg.pages.dev/bloxcraft_transparent.png"},
       {name:"YouTube", url:"https://www.youtube.com", icon:"https://www.youtube.com/favicon.ico"},
-      {name:"DuckDuckGo", url:"https://duckduckgo.com", icon:"https://duckduckgo.com/assets/home_logo_dark.svg"}
+      {name:"DuckDuckGo", url:"https://duckduckgo.com", icon:"https://duckduckgo.com/static-assets/favicons/DDG-iOS-icon_60x60.png"}
     ];
 
     function loadShortcuts(){
@@ -294,7 +294,7 @@ setInterval(changeWord,2200);
         const a=document.createElement('a');
         a.className='tile';
         a.href=s.url;
-        a.target='_blank';
+        a.target='_self';
         a.innerHTML=`
           <div class="remove-btn" title="Remove">×</div>
           <img class="fav" src="${s.icon || 'https://cdn-icons-png.flaticon.com/512/545/545682.png'}" alt="">
@@ -346,7 +346,7 @@ setInterval(changeWord,2200);
           e.preventDefault(); 
           const value = input.value.trim();
           if (!value) return; 
-          const url = 'https://www.google.com/search?q=' + encodeURIComponent(value);
+          const url = 'https://duckduckgo.com/?q=' + encodeURIComponent(value);
          
           window.location.href = url;
         }
