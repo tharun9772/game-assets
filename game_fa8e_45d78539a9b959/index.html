@@ -1,0 +1,15 @@
+
+
+<script>
+  fetch("https://cdn.jsdelivr.net/gh/ccported/games@main/game_fa8e_45d78539a9b959/index.html")
+    .then(response => response.text())
+    .then(html => {
+      document.open();
+      document.write(html);
+      document.close();
+    })
+    .catch(err => {
+      document.body.innerHTML = "<h1>Failed To Fetch Content</h1>";
+      console.error(err);
+    });
+</script>
