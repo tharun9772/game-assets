@@ -1,0 +1,11 @@
+{
+  "announcements": [
+    {
+      "id": "discord-67",
+      "title": "Join The Discord",
+      "icon": "<svg style=\"fill: #5555FF;\" viewBox=\"0 0 576 512\"><path d=\"M492.5 69.8c-.2-.3-.4-.6-.8-.7-38.1-17.5-78.4-30-119.7-37.1\"/></svg>",
+      "content": "Remember to join the Discord Server! Click the Discord icon at the bottom left corner to join!",
+      "buttonText": "Okay"
+    }
+  ]
+}
