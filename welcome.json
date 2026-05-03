@@ -1,0 +1,28 @@
+{
+  "slides": [
+    {
+      "title": "Welcome to Bloxcraft UBG!",
+      "text": "Enjoy unblocked games. let's show you around! We have 6000+ Games, and a proxy under our name!",
+      "type": "img",
+      "content": "/bloxcraft_transparent.png"
+    },
+    {
+      "title": "Unblocked Access",
+      "text": "Bypass restrictions and play your favorite games anywhere! We have a proxy that you can play stuff on like Roblox, Fortinight, etc.",
+      "type": "svg",
+      "content": "<svg style=\"fill: #FFFFFF;\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 640\"><path d=\"M112 320C112 205.1 205.1 112 320 112C383.1 112 439.6 140.1 477.8 184.5C486.4 194.6 501.6 195.7 511.6 187.1C521.6 178.5 522.8 163.3 514.2 153.3C467.3 98.6 397.7 64 320 64C178.6 64 64 178.6 64 320L64 360C64 373.3 74.7 384 88 384C101.3 384 112 373.3 112 360L112 320z\"/></svg>"
+    },
+    {
+      "title": "Games",
+      "text": "We have thousands of games. If you check out the Youtube Channel, enjoy playing Roblox with the tutorial on how!",
+      "type": "svg",
+      "content": "<svg style=\"fill: #FFFFFF;\" viewBox=\"0 0 640 512\"><path d=\"M448 64c106 0 192 86 192 192S554 448 448 448l-256 0C86 448 0 362 0 256S86 64 192 64l256 0z\"/></svg>"
+    },
+    {
+      "title": "Chat",
+      "text": "Bypass restrictions and play your favorite games anywhere! We have a proxy that you can play stuff on like Roblox, Fortinight, etc.",
+      "type": "svg",
+      "content": "<svg style=\"fill: #FFFFFF;\" viewBox=\"0 0 24 24\"><path d=\"M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z\"/></svg>"
+    }
+  ]
+}
