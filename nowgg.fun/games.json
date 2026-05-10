@@ -1,57 +1,57 @@
 [
   {
     "name": "Road Block (roadblock)",
-    "img": "/img/roadblock.png",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/img//img/roadblock.png",
     "url": "nowgg.lol/apps/a/19900/b.html"
   },
   {
     "name": "Stumble Guys",
-    "img": "/img/stumbleguys.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/img//img/stumbleguys.jpg",
     "url": "nowgg.lol/apps/a/10011/b.html"
   },
   {
     "name": "Fortnight",
-    "img": "/img/fortnite.png",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/img/fortnite.png",
     "url": "nowgg.lol/apps/aptoide/5874/aptoide.html?deep_link=aptoidesearch://com.epicgames.fortnite"
   },
     {
     "name": "Call of Duty (Mobile)",
-    "img": "/img/cod.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/img/cod.jpg",
     "url": "nowgg.lol/apps/a/10008/b.html"
   },
     {
-    "name": "Melon Sandbox",
-    "img": "/img/melon-sandbox.png",
+    "name": "Melon Sandbox"
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/img/melon-sandbox.png",
     "url": "nowgg.lol/apps/playducky/7199/melon-sandbox.html"
   },
     {
     "name": "Aptoide (Android launcher)",
-    "img": "/img/aptoide.png",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/img/aptoide.png",
     "url": "nowgg.lol/apps/aptoide/5874/aptoide.html"
   },
     {
     "name": "Android (VM AKA Virtual Machine)",
-    "img": "/img/android.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/img/android.jpg",
     "url": "nowgg.lol/apps/uncube/7074/now.html"
   },
     {
     "name": "CookieRun (Cookie Run) Kingdom",
-    "img": "/img/cookierun.jpg",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/img/cookierun.jpg",
     "url": "nowgg.lol/apps/a/10019/b.html"
   },
     {
     "name": "Geometry Dash",
-    "img": "/img/geodash.png",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/img/geodash.png",
     "url": "nowgg.lol/apps/robtop-games/1400/geometry-dash.html"
   },
     {
     "name": "Rocket League",
-    "img": "/img/rocketleague.webp",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/img/rocketleague.webp",
     "url": "nowgg.lol/apps/psyonix-studios/4656/rocket-league.html"
   },
   {
     "name": "Minecraft (Trial)",
-    "img": "/img/minecraft.png",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/img/minecraft.png",
     "url": "nowgg.lol/apps/aptoide/5874/aptoide.html?deep_link=aptoidesearch://com.mojang.minecrafttrialpe"
   }
 ]
