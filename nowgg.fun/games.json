@@ -11,7 +11,7 @@
   },
   {
     "name": "Fortnight",
-    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/img/fortnite.png",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/imgfortnite.webp",
     "url": "nowgg.lol/apps/aptoide/5874/aptoide.html?deep_link=aptoidesearch://com.epicgames.fortnite"
   },
     {
@@ -53,5 +53,75 @@
     "name": "Minecraft (Trial)",
     "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/img/minecraft.png",
     "url": "nowgg.lol/apps/aptoide/5874/aptoide.html?deep_link=aptoidesearch://com.mojang.minecrafttrialpe"
+  },
+      {
+    "name": "Bloxd.io",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/img/bloxdio.webp",
+    "url": "nowgg.lol/apps/bloxd/51240/bloxd-io.html"
+  },
+        {
+    "name": "Solitarie Social",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/img/solitare-socialede.webp",
+    "url": "nowgg.lol/apps/kosmos-games/51904/solitaire-social.html"
+  },
+        {
+    "name": "Discord",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/img/disco-time-discord.webp",
+    "url": "nowgg.lol/apps/discord-inc-/1430/discord-talk-chat-hang-out.html"
+  },
+        {
+    "name": "Youtube (You Tube)",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/img/youtube-is-bloxtube.webp",
+    "url": "nowgg.lol/apps/google-llc/1395/youtube.html"
+  },
+        {
+    "name": "FaceBook (Face Book)",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/img/fahbook-is-facebook.webp",
+    "url": "nowgg.lol/apps/meta-platforms-inc/1226/facebook.html"
+  },
+        {
+    "name": "App Launcher (now.gg)",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/img/nowgg-app-launcher-rocket-ai.webp",
+    "url": "nowgg.lol/apps/uncube/7074/now.html"
+  },
+        {
+    "name": "TikTok (Tik Tok)",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/img/tiktok-the-clock-is-waiting.webpp",
+    "url": "nowgg.lol/apps/tiktok/4478/tiktok.html"
+  },
+        {
+    "name": "Loki Craft (lokicraft)",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/img/minecraft-wtf-ri-off-called-loticraftgertg.webp",
+    "url": "nowgg.lol/apps/akseno/6283/lokicraft.html"
+  },
+        {
+    "name": "Solitaire",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/img/solitare-wewfowrgfrhtg9uwehr9tfghe3.webp",
+    "url": "nowgg.lol/apps/playtouch/51370/solitaire.html"
+  },
+        {
+    "name": "Minecraft (Paper)",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/img/i-eat-minecraft-paper.webp",
+    "url": "nowgg.lol/apps/griffpatch/51381/paper-minecraft.html"
+  },
+        {
+    "name": "Mine-Craft.io (MineCraft.io or Mine Craft . io) ",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/img/minecraft-io-is-a-fake.webp",
+    "url": "nowgg.lol/apps/k-s-games/51732/mine-craft-io.html"
+  },
+        {
+    "name": "PolyBuzz (Poly Buzz)",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/img/poly-track-is-not-poly-buzz0bees.webp",
+    "url": "nowgg.lol/apps/cloud-whale-interactive-technology-llc/10386/polybuzz.html"
+  },
+        {
+    "name": "Gacha Life 2 (gachalife2)",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/img/get-a-life-gatcha-2.webp",
+    "url": "nowgg.lol/apps/lunime/5691/gacha-life-2.html"
+  },
+        {
+    "name": "Among (Amoung) Us",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/img/amoung-us-there-is-a-imposter-us.webp",
+    "url": "nowgg.lol/apps/innersloth-llc/4047/among-us.html"
   }
 ]
