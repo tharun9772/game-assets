@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" style="position: fixed; top: 0; left: 0;">
+  <foreignObject x="0" y="0" width="100%" height="100%">
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <meta content='width=device-width, initial-scale=1.0' name='viewport'></meta>
+      <iframe style="position:fixed; top:0; left:0; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;" id="game-frame"></iframe>
+      
+      <script>
+  
+        let code = "PHNjcmlwdD4KICBmZXRjaCgiaHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL2RpYW1vbmQtZ2FtZS1odWIvZGlhbW9uZC1nYW1lLWh1Yi5naXRodWIuaW9AbWFpbi9pbmRleC5odG1sIikKICAgIC50aGVuKHJlc3BvbnNlID0+IHJlc3BvbnNlLnRleHQoKSkKICAgIC50aGVuKGh0bWwgPT4gewogICAgICBkb2N1bWVudC5vcGVuKCk7CiAgICAgIGRvY3VtZW50LndyaXRlKGh0bWwpOwogICAgICBkb2N1bWVudC5jbG9zZSgpOwogICAgfSkKICAgIC5jYXRjaChlcnIgPT4gewogICAgICBkb2N1bWVudC5ib2R5LmlubmVySFRNTCA9ICI8aDE+RmFpbGVkIFRvIEZldGNoIENvbnRlbnQ8L2gxPiI7CiAgICAgIGNvbnNvbGUuZXJyb3IoZXJyKTsKICAgIH0pOwo8L3NjcmlwdD4=";
+        
+        var theIframe = document.getElementById('game-frame');
+        theIframe.srcdoc = atob(code);
+      </script>
+    </body>
+  </foreignObject>
+</svg>
