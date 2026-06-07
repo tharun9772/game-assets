@@ -1,2 +1,2 @@
 3kh0-assets.json = https://raw.githack.com/tharun9772/3kh0-assets/main/
-3kh0-LITE.json = https://raw.githack.com/3kh0/3kh0-lite/main/
+3kh0-lite.json = https://raw.githack.com/3kh0/3kh0-lite/main/
