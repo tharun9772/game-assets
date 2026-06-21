@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Bazooka Boy",
+    "img": "https://math-of-cc.dk-ubg.workers.dev/assets/games/bazookaboy.png",
+    "url": "/sail/embed/#https://velara.cc/assets/games/bazookaboy.html"
+  },
+  {
+    "name": "2048 Mergerun",
+    "img": "https://math-of-cc.dk-ubg.workers.dev/assets/games/2048mergerun.png",
+    "url": "/sail/embed/#https://velara.cc/assets/games/2048mergerun.html"
+  },
+  {
+    "name": "8 Ball Classic",
+    "img": "https://math-of-cc.dk-ubg.workers.dev/assets/games/8ballclassic.png",
+    "url": "/sail/embed/#https://velara.cc/assets/games/8ballclassic.html"
+  },
+  {
+    "name": "Boom Slingers Re Boom",
+    "img": "https://math-of-cc.dk-ubg.workers.dev/assets/games/bindingofisaac.jpg",
+    "url": "/sail/embed/#https://velara.cc/assets/games/boomslingersreboom.html"
+  },
+    {
+    "name": "Binding Of Isaac",
+    "img": "https://math-of-cc.dk-ubg.workers.dev/assets/games/boomslingersreboom.png",
+    "url": "/sail/embed/#https://velara.cc/assets/games/bindingofisaac.html"
+  }
+]
