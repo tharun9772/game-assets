@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Evil Glitch",
+    "img": "https://raw.githack.com/3kh0/3kh0-lite/main/projects/evil-glitch/evil.png",
+    "url": "/app-viewer/3kh0/lite/?view=projects%2Fevil-glitch%2Findex.html"
+  },
+  {
+    "name": "Cell Machine",
+    "img": "https://raw.githack.com/3kh0/3kh0-lite/main/projects/cell-machine/img/te9nDu.png",
+    "url": "/app-viewer/3kh0/lite/?view=projects%2Fcell-machine%2Findex.html"
+  },
+  {
+    "name": "Gimme the Airpod",
+    "img": "https://raw.githack.com/3kh0/3kh0-lite/main/projects/gimme-the-airpod/img/logo.png",
+    "url": "/app-viewer/3kh0/lite/?view=projects%2Fgimme-the-airpod%2Findex.html"
+  },
+  {
+    "name": "Champion Archer",
+    "img": "https://raw.githack.com/3kh0/3kh0-lite/main/projects/championarcher/championarcher.png",
+    "url": "/app-viewer/3kh0/lite/?view=projects%2Fchampionarcher%2Findex.html"
+  },
+    {
+    "name": "CraftMine",
+    "img": "https://raw.githack.com/3kh0/3kh0-lite/main/projects/craftmine/images/craftmine.png",
+    "url": "/app-viewer/3kh0/lite/?view=projects%2Fcraftmine%2Findex.html"
+  }
+]
