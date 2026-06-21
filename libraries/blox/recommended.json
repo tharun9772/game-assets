@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Google Baseball",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/google-baseball.jpg",
+    "url": "/app-viewer/?view=/gameFiles/google-baseball"
+  },
+  {
+    "name": "Balatro",
+    "img": "/gameFiles/balatro/baltro.jpg",
+    "url": "/app-viewer/?view=/gameFiles/balatro"
+  },
+  {
+    "name": "Minecraft 1.20.1",
+    "img": "https://cdn.jsdelivr.net/gh/tharun-official-web/games@main/minecraft.jpg",
+    "url": "/app-viewer/?view=/gameFiles/mc-craft"
+  },
+  {
+    "name": "Duck Duck Clicker",
+    "img": "/gameFiles/duck-duck-clicker/bloxcraft-ubg-is-ubg.png",
+    "url": "/app-viewer/?view=/gameFiles/duck-duck-clicker/"
+  },
+    {
+    "name": "Baldi's Basics : Birthday bash/dash (Baldis Basic's)",
+    "img": "/gameFiles/baldi-basic-bday/bday.jpeg",
+    "url": "/app-viewer/?view=/gameFiles/baldi-basic-bday/"
+  }
+]
