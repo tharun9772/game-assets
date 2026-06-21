@@ -1,0 +1,27 @@
+[
+  {
+    "name": "anti-terrorist-rush",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/LupineVault@main/assets/images/games/tile/anti-terrorist-rush.png",
+    "url": "/app-viewer/LupineVault/?view=anti-terrorist-rush"
+  },
+  {
+    "name": "backrooms",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/LupineVault@main/assets/images/games/tile/backrooms.png",
+    "url": "/app-viewer/LupineVault/?view=backrooms"
+  },
+  {
+    "name": "bad-ice-cream",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/LupineVault@main/assets/images/games/tile/bad-ice-cream.png",
+    "url": "/app-viewer/LupineVault/?view=bad-ice-cream"
+  },
+  {
+    "name": "back-country",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/LupineVault@main/assets/images/games/tile/back-country.png",
+    "url": "/app-viewer/LupineVault/?view=back-country"
+  },
+    {
+    "name": "blocky-snakes",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/LupineVault@main/assets/images/games/tile/blocky-snakes.png",
+    "url": "/app-viewer/LupineVault/?view=blocky-snakes"
+  }
+]
