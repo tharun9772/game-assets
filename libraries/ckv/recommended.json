@@ -1,0 +1,27 @@
+[
+  {
+    "name": "A Game About Feeding A Black Hole",
+    "img": "https://cdn.jsdelivr.net/gh/carbonicality/ChickenKingsVault@main/gameimages/agameaboutfeedingablackhole.png",
+    "url": "/app-viewer/chicken-kings-vault/?view=agameaboutfeedingablackhole.html"
+  },
+  {
+    "name": "Solitaire",
+    "img": "https://cdn.jsdelivr.net/gh/carbonicality/ChickenKingsVault@main/gameimages/solitaire.jpg",
+    "url": "/app-viewer/chicken-kings-vault/?view=solitairegame.html"
+  },
+  {
+    "name": "Bad Piggies",
+    "img": "https://cdn.jsdelivr.net/gh/carbonicality/ChickenKingsVault@main/gameimages/badpiggies.webp",
+    "url": "/app-viewer/chicken-kings-vault/?view=badpiggies.html"
+  },
+  {
+    "name": "Doge Miner",
+    "img": "https://cdn.jsdelivr.net/gh/carbonicality/ChickenKingsVault@main/gameimages/dogeminer.png",
+    "url": "/app-viewer/chicken-kings-vault/?view=dogeminer.html"
+  },
+    {
+    "name": "Doge Miner 2",
+    "img": "https://cdn.jsdelivr.net/gh/carbonicality/ChickenKingsVault@main/gameimages/dogeminer2.png",
+    "url": "/app-viewer/chicken-kings-vault/?view=dogeminer2.html"
+  }
+]
