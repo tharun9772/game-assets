@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Five Nights At Freddy's",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/Bloxcraft-UBG@main/Google_Classroom_Logo.svg.png",
+    "url": "/app-viewer/google-class/?view=five-nights-at-freddys.html"
+  },
+    {
+    "name": "Prismarine Web Client",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/Bloxcraft-UBG@main/Google_Classroom_Logo.svg.png",
+    "url": "/app-viewer/google-class/?view=minecraft.html"
+  },
+  {
+    "name": "CrazyCattle3D",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/Bloxcraft-UBG@main/Google_Classroom_Logo.svg.png",
+    "url": "/app-viewer/google-class/?view=cc3d.html"
+  },
+  {
+    "name": "Nova Craft",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/Bloxcraft-UBG@main/Google_Classroom_Logo.svg.png",
+    "url": "/app-viewer/google-class/?view=nova-craft.html"
+  },
+    {
+    "name": "Drive Mad",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/Bloxcraft-UBG@main/Google_Classroom_Logo.svg.png",
+    "url": "/app-viewer/google-class/?view=drive-mad.html"
+  }
+]
