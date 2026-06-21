@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Cheese Rolling",
+    "img": "https://math-quests-cc.dk-ubg.workers.dev/resources/semag/cheeserolling/chese.webp",
+    "url": "/sail/embed/#https://selenite.cc/resources/semag/cheeserolling/index.html"
+  },
+  {
+    "name": "Clover Pit",
+    "img": "https://math-quests-cc.dk-ubg.workers.dev/resources/semag/cloverpit/cloverpit.webp",
+    "url": "/sail/embed/#https://selenite.cc/resources/semag/cloverpit/index.html"
+  },
+  {
+    "name": "Your Only Move Is Hustle",
+    "img": "https://math-quests-cc.dk-ubg.workers.dev/resources/semag/yomihustle/cover.webp",
+    "url": "/sail/embed/#https://selenite.cc/resources/semag/yomihustle/index.html"
+  },
+  {
+    "name": "Goober Dash",
+    "img": "https://math-quests-cc.dk-ubg.workers.dev/resources/semag/gooberdash/favicon.png",
+    "url": "/sail/embed/#https://selenite.cc/resources/semag/gooberdash/index.html"
+  },
+    {
+    "name": "Minecraft Pocket Edition",
+    "img": "https://math-quests-cc.dk-ubg.workers.dev/resources/semag/mcpe/mcpe.webp",
+    "url": "/sail/embed/#https://selenite.cc/resources/semag/mcpe/index.html"
+  }
+]
