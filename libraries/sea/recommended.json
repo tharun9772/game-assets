@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Achievement Unlocked 2",
+    "img": "https://cdn.jsdelivr.net/gh/sea-bean-unblocked/Singlemile@main/Icon/10.png",
+    "url": "/app-viewer/sea-bean?view=10"
+  },
+  {
+    "name": "Achievement Unlocked 3",
+    "img": "https://cdn.jsdelivr.net/gh/sea-bean-unblocked/Singlemile@main/Icon/11.png",
+    "url": "/app-viewer/sea-bean?view=11"
+  },
+  {
+    "name": "Angry Birds",
+    "img": "https://cdn.jsdelivr.net/gh/sea-bean-unblocked/Singlemile@main/Icon/16.png",
+    "url": "/app-viewer/sea-bean?view=16"
+  },
+  {
+    "name": "Brawl Stars",
+    "img": "https://cdn.jsdelivr.net/gh/sea-bean-unblocked/Singlemile@main/Icon/32.png",
+    "url": "/app-viewer/sea-bean?view=32"
+  },
+    {
+    "name": "Basket Battle",
+    "img": "https://cdn.jsdelivr.net/gh/sea-bean-unblocked/Singlemile@main/Icon/24.png",
+    "url": "/app-viewer/sea-bean?view=24"
+  }
+]
