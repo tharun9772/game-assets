@@ -1,0 +1,27 @@
+[
+  {
+    "name": "connect3",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/LupineVault@main/assets/images/games/tile/connect3.png",
+    "url": "/app-viewer/LupineVault/?view=connect3"
+  },
+  {
+    "name": "backrooms",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/LupineVault@main/assets/images/games/tile/backrooms.png",
+    "url": "/app-viewer/LupineVault/?view=backrooms"
+  },
+  {
+    "name": "core-ball",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/LupineVault@main/assets/images/games/tile/core-ball.png",
+    "url": "/app-viewer/LupineVault/?view=core-ball"
+  },
+  {
+    "name": "back-country",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/LupineVault@main/assets/images/games/tile/back-country.png",
+    "url": "/app-viewer/LupineVault/?view=back-country"
+  },
+    {
+    "name": "blocky-snakes",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/LupineVault@main/assets/images/games/tile/blocky-snakes.png",
+    "url": "/app-viewer/LupineVault/?view=blocky-snakes"
+  }
+]
