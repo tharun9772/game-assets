@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Sketchbook",
+    "img": "https://math-question-generator.dk-ubg.workers.dev/assets/data/bundles/li.ico/sketchbook.png",
+    "url": "/sail/embed/#glseries.net/assets/applications/content/sketchbook/"
+  },
+  {
+    "name": "Swingo",
+    "img": "https://math-question-generator.dk-ubg.workers.dev/assets/data/bundles/li.ico/swingo.png",
+    "url": "/sail/embed/#glseries.net/assets/applications/content/swingo/"
+  },
+  {
+    "name": "Drag Racing Rivals",
+    "img": "https://math-question-generator.dk-ubg.workers.dev/assets/data/bundles/li.ico/drag-racing-rivals.png",
+    "url": "/sail/embed/#glseries.net/assets/applications/content/drag-racing-rivals/"
+  },
+  {
+    "name": "Tunnel Rush",
+    "img": "https://math-question-generator.dk-ubg.workers.dev/assets/data/bundles/li.ico/tunnel-rush.png",
+    "url": "/sail/embed/#glseries.net/assets/applications/content/tunnel-rush/"
+  },
+    {
+    "name": "Tomb Of The Mask",
+    "img": "https://math-question-generator.dk-ubg.workers.dev/assets/data/bundles/li.ico/tomb-of-the-mask.png",
+    "url": "/sail/embed/#glseries.net/assets/applications/content/tomb-of-the-mask/"
+  }
+]
