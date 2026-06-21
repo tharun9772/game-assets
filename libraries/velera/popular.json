@@ -1,0 +1,27 @@
+[
+  {
+    "name": "60 Second Burger Run",
+    "img": "https://math-of-cc.dk-ubg.workers.dev/assets/games/60secondburgerrun.jpg",
+    "url": "/sail/embed/#https://velara.cc/assets/games/60secondburgerrun.html"
+  },
+  {
+    "name": "2048 Mergerun",
+    "img": "https://math-of-cc.dk-ubg.workers.dev/assets/games/2048mergerun.png",
+    "url": "/sail/embed/#https://velara.cc/assets/games/2048mergerun.html"
+  },
+  {
+    "name": "8 Ball Classic",
+    "img": "https://math-of-cc.dk-ubg.workers.dev/assets/games/8ballclassic.png",
+    "url": "/sail/embed/#https://velara.cc/assets/games/8ballclassic.html"
+  },
+  {
+    "name": "Alien Hominid",
+    "img": "https://math-of-cc.dk-ubg.workers.dev/assets/games/bindingofisaac.jpg",
+    "url": "/sail/embed/#https://velara.cc/assets/games/alienhominid.html"
+  },
+    {
+    "name": "Binding Of Isaac",
+    "img": "/gameFiles/baldi-basic-bday/bday.jpeg",
+    "url": "/sail/embed/#https://velara.cc/assets/games/bindingofisaac.html"
+  }
+]
