@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Minecraft 1.21.4",
+    "img": "https://cdn.jsdelivr.net/gh/carbonicality/ChickenKingsVault@main/gameimages/minecraft.webp",
+    "url": "/app-viewer/chicken-kings-vault/?view=minecraft1.21.4.html"
+  },
+  {
+    "name": "Solitaire",
+    "img": "https://cdn.jsdelivr.net/gh/carbonicality/ChickenKingsVault@main/gameimages/solitaire.jpg",
+    "url": "/app-viewer/chicken-kings-vault/?view=solitairegame.html"
+  },
+  {
+    "name": "1v1.lol",
+    "img": "https://cdn.jsdelivr.net/gh/carbonicality/ChickenKingsVault@main/gameimages/1v1.lol.webp",
+    "url": "/app-viewer/chicken-kings-vault/?view=1v1lol.html"
+  },
+  {
+    "name": "Doge Miner",
+    "img": "https://cdn.jsdelivr.net/gh/carbonicality/ChickenKingsVault@main/gameimages/dogeminer.png",
+    "url": "/app-viewer/chicken-kings-vault/?view=dogeminer.html"
+  },
+    {
+    "name": "Minecraft Pocket Edition",
+    "img": "https://cdn.jsdelivr.net/gh/carbonicality/ChickenKingsVault@main/gameimages/minecraft.webp",
+    "url": "/app-viewer/chicken-kings-vault/?view=minecraftpocketedition.html"
+  }
+]
