@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Brawl 3D",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/Bloxcraft-UBG@main/Google_Classroom_Logo.svg.png",
+    "url": "/app-viewer/google-class/?view=brawl-3d.html"
+  },
+  {
+    "name": "CrazyCattle3D",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/Bloxcraft-UBG@main/Google_Classroom_Logo.svg.png",
+    "url": "/app-viewer/google-class/?view=cc3d.html"
+  },
+  {
+    "name": "Crossy Road",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/Bloxcraft-UBG@main/Google_Classroom_Logo.svg.png",
+    "url": "/app-viewer/google-class/?view=crossy-road.html"
+  },
+  {
+    "name": "Cut The Rope",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/Bloxcraft-UBG@main/Google_Classroom_Logo.svg.png",
+    "url": "/app-viewer/google-class/?view=cut-the-rope.html"
+  },
+    {
+    "name": "Drive Mad",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/Bloxcraft-UBG@main/Google_Classroom_Logo.svg.png",
+    "url": "/app-viewer/google-class/?view=drive-mad.html"
+  }
+]
