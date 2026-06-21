@@ -1,0 +1,27 @@
+[
+  {
+    "name": "slope",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/slope.jpg",
+    "url": "/app-viewer/seraph/?view=slope/index.html"
+  },
+  {
+    "name": "cookie clicker",
+    "img": "hhttps://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/cookieclick.jpg",
+    "url": "/app-viewer/seraph/?view=cookieclicker/index.html"
+  },
+  {
+    "name": "the impossible quiz",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/theimpossiblequiz.jpg",
+    "url": "/app-viewer/seraph/?view=theimpossiblequiz/index.html"
+  },
+    {
+    "name": "the impossible quiz 2",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/theimpossiblequiz2.jpg",
+    "url": "/app-viewer/seraph/?view=theimpossiblequiz2/index.html"
+  },
+   {
+    "name": "tetris",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/tetris.jpg",
+    "url": "/app-viewer/seraph/?view=tetris/index.html"
+  }
+]
