@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Bottle Jump 3D",
+    "img": "https://cdn.jsdelivr.net/gh/tharuniscool/hydra-assets@main/thumbs/bottle-jump-3d.avif",
+    "url": "/app-viewer/hydra-network/?view=bottle-jump-3d.html"
+  },
+  {
+    "name": "Adventure Capatalist",
+    "img": "https://cdn.jsdelivr.net/gh/tharuniscool/hydra-assets@main/thumbs/adventure-capitalism.avif",
+    "url": "/app-viewer/hydra-network/?view=adventure-capitalism.html"
+  },
+  {
+    "name": "Death Run 3D",
+    "img": "https://cdn.jsdelivr.net/gh/tharuniscool/hydra-assets@main/thumbs/death-run-3d.avif",
+    "url": "/app-viewer/hydra-network/?view=death-run-3d.html"
+  },
+    {
+    "name": "Duck Life Space",
+    "img": "https://cdn.jsdelivr.net/gh/tharuniscool/hydra-assets@main/thumbs/duck-life-space.avif",
+    "url": "/app-viewer/hydra-network/?view=duck-life-space.html"
+  },
+   {
+    "name": "Color Burst 3D",
+    "img": "https://cdn.jsdelivr.net/gh/tharuniscool/hydra-assets@main/thumbs/color-burst-3d.avif",
+    "url": "/app-viewer/hydra-network/?view=color-burst-3d.html"
+  }
+]
