@@ -1,0 +1,27 @@
+[
+  {
+    "name": "flappy bird",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/flappybird.jpg",
+    "url": "/app-viewer/seraph/?view=flappy/index.html"
+  },
+  {
+    "name": "cookie clicker",
+    "img": "hhttps://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/cookieclick.jpg",
+    "url": "/app-viewer/seraph/?view=cookieclicker/index.html"
+  },
+  {
+    "name": "subway surfers",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/subwaysurfers.jpeg",
+    "url": "/app-viewer/seraph/?view=subwaysurfers/index.html"
+  },
+    {
+    "name": "chrome dino game",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/chromedino.jpg",
+    "url": "/app-viewer/seraph/?view=dinogame/index.html"
+  },
+   {
+    "name": "tetris",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/tetris.jpg",
+    "url": "/app-viewer/seraph/?view=tetris/index.html"
+  }
+]
