@@ -1,0 +1,1112 @@
+[
+  {
+    "title": "roblox",
+    "IMG": "/stuff/games/roblox.png",
+    "URL": "now-gg.fun/apps/a/19900/b.html",
+    "tag": "nowgg"
+  },
+  {
+    "title": "call of duty mobile",
+    "IMG": "/stuff/games/cod.png",
+    "URL": "now-gg.fun/apps/a/10008/b.html",
+    "tag": "nowgg"
+  },
+  {
+    "title": "pubg mobile",
+    "IMG": "/stuff/games/pubg.png",
+    "URL": "now-gg.fun/apps/proxima-beta/2609/pubg-mobile-resistance.html",
+    "tag": "nowgg"
+  },
+  {
+    "title": "stumble guys",
+    "IMG": "/stuff/games/stumbleguys.jpg",
+    "URL": "now-gg.fun/apps/a/10011/b.html",
+    "tag": "nowgg"
+  },
+  {
+    "title": "melon sandbox",
+    "IMG": "/stuff/games/melonsandbox.png",
+    "URL": "now-gg.fun/apps/playducky/7199/melon-sandbox.html",
+    "tag": "nowgg"
+  },
+  {
+    "title": "fortnite",
+    "IMG": "/stuff/games/fortnite.png",
+    "URL": "now-gg.fun/apps/aptoide/5874/aptoide.html?deep_link=aptoidesearch://com.epicgames.fortnite",
+    "tag": "nowgg"
+  },
+  {
+    "title": "ea sports fc mobile",
+    "IMG": "/stuff/games/fcmobile.png",
+    "URL": "now-gg.fun/apps/electronic-arts/1353/ea-sports-fc-mobile-24-soccer.html",
+    "tag": "nowgg"
+  },
+  {
+    "title": "ea sports ufc mobile",
+    "IMG": "/stuff/games/ufcmobile.jpg",
+    "URL": "now-gg.fun/apps/electronic-arts/3288/ea-sports-ufc-mobile-2.html",
+    "tag": "nowgg"
+  },
+  {
+    "title": "cookie run kingdom",
+    "IMG": "/stuff/games/crk.jpg",
+    "URL": "now-gg.fun/apps/a/10019/b.html",
+    "tag": "nowgg"
+  },
+  {
+    "title": "genshin impact",
+    "IMG": "/stuff/games/genshin.png",
+    "URL": "now-gg.fun/apps/cognosphere-pte-ltd-/1773/genshin-impact.html",
+    "tag": "nowgg"
+  },
+  {
+    "title": "honkai star rail",
+    "IMG": "/stuff/games/honkai.png",
+    "URL": "now-gg.fun/apps/cognosphere-pte-ltd/1591/honkai-star-rail.html",
+    "tag": "nowgg"
+  },
+  {
+    "title": "among us",
+    "IMG": "/stuff/games/ayodiddy.png",
+    "URL": "now-gg.fun/apps/innersloth-llc/4047/among-us.html",
+    "tag": "nowgg"
+  },
+  {
+    "title": "pojavlauncher",
+    "IMG": "/stuff/games/pojavlauncher.png",
+    "URL": "now-gg.fun/apps/aptoide/5874/aptoide.html?deep_link=aptoidesearch://git.artdeell.mojo",
+    "tag": "nowgg"
+  },
+  {
+    "title": "geometry dash",
+    "IMG": "/stuff/games/geodash.png",
+    "URL": "/stuff/selfhosted/gdlite/",
+    "tag": "main"
+  },
+  {
+    "title": "getaway shootout",
+    "IMG": "/stuff/games/getaway-shootout.png",
+    "URL": "/stuff/selfhosted/rayvon-shootout/",
+    "tag": "main"
+  },
+  {
+    "title": "rooftop snipers",
+    "IMG": "/stuff/games/rooftop-snipers.jpg",
+    "URL": "/stuff/selfhosted/rooftop-snipers/",
+    "tag": "main"
+  },
+  {
+    "title": "rooftop snipers 2",
+    "IMG": "/stuff/games/rooftop-snipers2.jpg",
+    "URL": "/stuff/selfhosted/rooftop-snipers-2/",
+    "tag": "main"
+  },
+  {
+    "title": "tube jumpers",
+    "IMG": "/stuff/games/tubejumpers.png",
+    "URL": "/stuff/selfhosted/tube-jumpers",
+    "tag": "main"
+  },
+  {
+    "title": "five nights at freddys",
+    "IMG": "/stuff/games/fnaf1.png",
+    "URL": "/stuff/selfhosted/fnaf1",
+    "tag": "main"
+  },
+  {
+    "title": "five nights at freddys 2",
+    "IMG": "/stuff/games/fnaf2.png",
+    "URL": "/stuff/selfhosted/fnaf2",
+    "tag": "main"
+  },
+  {
+    "title": "five nights at freddys 3",
+    "IMG": "/stuff/games/fnaf3.png",
+    "URL": "/stuff/selfhosted/fnaf3",
+    "tag": "main"
+  },
+  {
+    "title": "five nights at freddys 4",
+    "IMG": "/stuff/games/fnaf4.png",
+    "URL": "/stuff/selfhosted/fnaf4",
+    "tag": "main"
+  },
+  {
+    "title": "five nights at freddys sister location",
+    "IMG": "/stuff/games/fnafsl.jpg",
+    "URL": "/stuff/selfhosted/sisterlocation",
+    "tag": "main"
+  },
+  {
+    "title": "pizzeria simulator",
+    "IMG": "/stuff/games/pizzeriasimulator.png",
+    "URL": "/stuff/selfhosted/pizzeriasimulator",
+    "tag": "main"
+  },
+  {
+    "title": "fnaf world",
+    "IMG": "/stuff/games/fnafworld.png",
+    "URL": "/stuff/selfhosted/fnafworld",
+    "tag": "main"
+  },
+  {
+    "title": "ultimate custom night",
+    "IMG": "/stuff/games/ucn.jpg",
+    "URL": "/stuff/selfhosted/ucn",
+    "tag": "main"
+  },
+  {
+    "title": "minecraft",
+    "IMG": "/stuff/games/minecraft.jpg",
+    "URL": "/stuff/selfhosted/minecraft/",
+    "tag": "main"
+  },
+  {
+    "title": "subway surfers",
+    "IMG": "/stuff/games/subway.png",
+    "URL": "/cdn/projects/subway-surfers/",
+    "tag": "main"
+  },
+  {
+    "title": "bloodmoney",
+    "IMG": "/stuff/games/bloodmoney.png",
+    "URL": "/stuff/selfhosted/bloodmoney/",
+    "tag": "main"
+  },
+  {
+    "title": "human expenditure program",
+    "IMG": "/stuff/games/hep.png",
+    "URL": "/stuff/selfhosted/hep/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "crossy road",
+    "IMG": "/stuff/games/crossyroad.jpeg",
+    "URL": "/stuff/selfhosted/crossyroad",
+    "tag": "main"
+  },
+  {
+    "title": "slowroads",
+    "IMG": "/stuff/games/slowroads.png",
+    "URL": "/stuff/selfhosted/slowroads",
+    "tag": "main"
+  },
+  {
+    "title": "happy wheels",
+    "IMG": "/stuff/games/happywheels.jpg",
+    "URL": "/stuff/selfhosted/happywheels",
+    "tag": "main"
+  },
+  {
+    "title": "polytrack",
+    "IMG": "/stuff/games/polytrack.jpg",
+    "URL": "/stuff/selfhosted/polytrack",
+    "tag": "main"
+  },
+  {
+    "title": "slope",
+    "IMG": "/stuff/games/slope.jpg",
+    "URL": "/stuff/selfhosted/slope",
+    "tag": "main"
+  },
+  {
+    "title": "a small world cup",
+    "IMG": "/stuff/games/aswc.png",
+    "URL": "/stuff/selfhosted/asmallworldcup",
+    "tag": "main"
+  },
+  {
+    "title": "bitlife",
+    "IMG": "/stuff/games/bitlife.jpg",
+    "URL": "/stuff/selfhosted/bitlife",
+    "tag": "main"
+  },
+  {
+    "title": "monkey mart",
+    "IMG": "/stuff/games/monkey-mart.jpg",
+    "URL": "/stuff/selfhosted/monkey-mart",
+    "tag": "main"
+  },
+  {
+    "title": "drive mad",
+    "IMG": "/stuff/games/drive-mad.png",
+    "URL": "/cdn/projects/drive-mad/",
+    "tag": "main"
+  },
+  {
+    "title": "monster tracks",
+    "IMG": "/stuff/games/monster-tracks.png",
+    "URL": "/stuff/selfhosted/monster-tracks",
+    "tag": "main"
+  },
+  {
+    "title": "a dance of fire and ice",
+    "IMG": "/stuff/games/adofai.png",
+    "URL": "/stuff/selfhosted/a-dance-of-fire-and-ice",
+    "tag": "main"
+  },
+  {
+    "title": "cannon basketball 4",
+    "IMG": "/stuff/games/cannonbasketball4.jpg",
+    "URL": "/stuff/selfhosted/cannon-basketball-4",
+    "tag": "main"
+  },
+  {
+    "title": "dragon vs icy bricks",
+    "IMG": "/stuff/games/dragondeeznuts.jpg",
+    "URL": "/stuff/selfhosted/dragon-vs-bricks",
+    "tag": "main"
+  },
+  {
+    "title": "dodge",
+    "IMG": "/stuff/games/dodge.png",
+    "URL": "/stuff/selfhosted/dodge",
+    "tag": "main"
+  },
+  {
+    "title": "baldis basics in education and learning",
+    "IMG": "/stuff/games/baldi.png",
+    "URL": "/stuff/selfhosted/baldis-basics",
+    "tag": "main"
+  },
+  {
+    "title": "100 player pong",
+    "IMG": "/stuff/games/100ng.jpg",
+    "URL": "/stuff/selfhosted/100ng",
+    "tag": "main"
+  },
+  {
+    "title": "burrito bison",
+    "IMG": "/stuff/games/burritobison.jpg",
+    "URL": "/stuff/selfhosted/burrito-bison",
+    "tag": "main"
+  },
+  {
+    "title": "rhythm hell",
+    "IMG": "/stuff/games/rhythmhell.png",
+    "URL": "/stuff/selfhosted/rhythm-hell",
+    "tag": "main"
+  },
+  {
+    "title": "bacon may die",
+    "IMG": "/stuff/games/baconmaydie.jpg",
+    "URL": "/stuff/selfhosted/bacon-may-die",
+    "tag": "main"
+  },
+  {
+    "title": "venge",
+    "IMG": "/stuff/games/venge.jpg",
+    "URL": "https://venge.io",
+    "tag": "main"
+  },
+  {
+    "title": "soccer random",
+    "IMG": "/stuff/games/soccerrandom.jpg",
+    "URL": "/stuff/selfhosted/soccer-random",
+    "tag": "main"
+  },
+  {
+    "title": "basket random",
+    "IMG": "/stuff/games/basketrandom.png",
+    "URL": "/stuff/selfhosted/basket-random",
+    "tag": "main"
+  },
+  {
+    "title": "boxing random",
+    "IMG": "/stuff/games/boxingrandom.png",
+    "URL": "/stuff/selfhosted/boxing-random",
+    "tag": "main"
+  },
+  {
+    "title": "volley random",
+    "IMG": "/stuff/games/volleyrandom.png",
+    "URL": "/stuff/selfhosted/volley-random",
+    "tag": "main"
+  },
+  {
+    "title": "bouncy basketball",
+    "IMG": "/stuff/games/bouncybasketball.png",
+    "URL": "/stuff/selfhosted/bouncy-basketball",
+    "tag": "main"
+  },
+  {
+    "title": "adventure drivers",
+    "IMG": "/stuff/games/adventuredrivers.png",
+    "URL": "/stuff/selfhosted/adventure-drivers",
+    "tag": "main"
+  },
+  {
+    "title": "cookie clicker",
+    "IMG": "/stuff/games/cookieclicker.png",
+    "URL": "/cdn/projects/cookie-clicker/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "stickman hook",
+    "IMG": "/stuff/games/stickmanhook.jpg",
+    "URL": "/cdn/projects/stickman-hook/",
+    "tag": "main"
+  },
+  {
+    "title": "ovo",
+    "IMG": "/stuff/games/ovo.png",
+    "URL": "/cdn/projects/ovo/",
+    "tag": "main"
+  },
+  {
+    "title": "doom",
+    "IMG": "/stuff/games/doom.jpg",
+    "URL": "/stuff/selfhosted/doom/",
+    "tag": "main"
+  },
+  {
+    "title": "tomb of the mask",
+    "IMG": "/stuff/games/totm.png",
+    "URL": "/stuff/selfhosted/tomb of the mask/",
+    "tag": "main"
+  },
+  {
+    "title": "big tower tiny square",
+    "IMG": "/stuff/games/btts.png",
+    "URL": "/cdn/projects/btts/",
+    "tag": "main"
+  },
+  {
+    "title": "half-life",
+    "IMG": "/stuff/games/halflife.jpg",
+    "URL": "/stuff/selfhosted/half-life/",
+    "tag": "main"
+  },
+  {
+    "title": "superhot",
+    "IMG": "/stuff/games/superhot.png",
+    "URL": "/stuff/selfhosted/super-hot/",
+    "tag": "main"
+  },
+  {
+    "title": "retro hellicopter",
+    "IMG": "/stuff/games/retrohellicopter.png",
+    "URL": "https://www.coolmathgames.com/0-retro-helicopter/play",
+    "tag": "main"
+  },
+  {
+    "title": "hexgl",
+    "IMG": "/stuff/games/hexgl.png",
+    "URL": "/stuff/selfhosted/hexgl/",
+    "tag": "main"
+  },
+  {
+    "title": "buckshot roulette",
+    "IMG": "/stuff/games/buckshot.jpg",
+    "URL": "stuff/selfhosted/buckshot-roulette/",
+    "tag": "main"
+  },
+  {
+    "title": "skribbl.io",
+    "IMG": "/stuff/games/skribbl.png",
+    "URL": "https://skribbl.io",
+    "tag": "main"
+  },
+  {
+    "title": "nazi zombies portable",
+    "IMG": "/stuff/games/nzp.png",
+    "URL": "/stuff/selfhosted/nzp/",
+    "tag": "main"
+  },
+  {
+    "title": "super fowlst",
+    "IMG": "/stuff/games/superfowlst.png",
+    "URL": "/stuff/selfhosted/super-foulist/",
+    "tag": "main"
+  },
+  {
+    "title": "basket bros",
+    "IMG": "/stuff/games/basket-bros.png",
+    "URL": "/cdn/projects/basketbros-io/",
+    "tag": "main"
+  },
+  {
+    "title": "quake",
+    "IMG": "/stuff/games/quake.jpg",
+    "URL": "/stuff/selfhosted/quake/",
+    "tag": "main"
+  },
+  {
+    "title": "run 3",
+    "IMG": "/stuff/games/run3.png",
+    "URL": "/stuff/selfhosted/run3/",
+    "tag": "main"
+  },
+  {
+    "title": "bob the robber 2",
+    "IMG": "/stuff/games/btr2.png",
+    "URL": "/cdn/projects/bobtherobber2/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "ev.io",
+    "IMG": "/stuff/games/evio.png",
+    "URL": "https://ev.io",
+    "tag": "main"
+  },
+  {
+    "title": "moto x3m",
+    "IMG": "/stuff/games/motox3m.jpg",
+    "URL": "/cdn/projects/motox3m/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "flappy bird",
+    "IMG": "/stuff/games/flappybird.png",
+    "URL": "/stuff/selfhosted/flappybird/",
+    "tag": "main"
+  },
+  {
+    "title": "tanuki sunset",
+    "IMG": "/stuff/games/tanuki.jpg",
+    "URL": "/stuff/selfhosted/tanuki-sunset/",
+    "tag": "main"
+  },
+  {
+    "title": "basketball stars",
+    "IMG": "/stuff/games/basketball-stars.png",
+    "URL": "/stuff/selfhosted/basketball-stars/",
+    "tag": "main"
+  },
+  {
+    "title": "tag",
+    "IMG": "/stuff/games/tag.png",
+    "URL": "https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://118473026-235917736205837253.preview.editmysite.com/uploads/b/146211889-618141766941606391/files/tag.xml&container=ig",
+    "tag": "main"
+  },
+  {
+    "title": "zombs royale",
+    "IMG": "/stuff/games/zombs.png",
+    "URL": "https://fortnite.io",
+    "tag": "main"
+  },
+  {
+    "title": "uno",
+    "IMG": "/stuff/games/uno.png",
+    "URL": "https://buddyboardgames.com/uno",
+    "tag": "main"
+  },
+  {
+    "title": "endless truck",
+    "IMG": "/stuff/games/endlesstruck.png",
+    "URL": "/stuff/selfhosted/endless-truck/",
+    "tag": "main"
+  },
+  {
+    "title": "retro bowl",
+    "IMG": "/stuff/games/retrobowl.png",
+    "URL": "/stuff/selfhosted/retro-bowl/",
+    "tag": "main"
+  },
+  {
+    "title": "block blast",
+    "IMG": "/stuff/games/blockblast.png",
+    "URL": "/stuff/selfhosted/blockblast/",
+    "tag": "main"
+  },
+  {
+    "title": "drift boss",
+    "IMG": "/stuff/games/driftboss.png",
+    "URL": "/stuff/selfhosted/drift-boss/",
+    "tag": "main"
+  },
+  {
+    "title": "pizza tower",
+    "IMG": "/stuff/games/pizzatower.jpg",
+    "URL": "/stuff/selfhosted/pizzatower/",
+    "tag": "main"
+  },
+  {
+    "title": "five nights at winstons",
+    "IMG": "/stuff/games/fnaw.jpg",
+    "URL": "/stuff/selfhosted/fnaw/",
+    "tag": "main"
+  },
+  {
+    "title": "we become what we behold",
+    "IMG": "/stuff/games/wbwwb.png",
+    "URL": "/stuff/selfhosted/wbwwb/",
+    "tag": "main"
+  },
+  {
+    "title": "burger and frights",
+    "IMG": "/stuff/games/baf.png",
+    "URL": "/cdn/projects/burger-and-frights/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "10 minutes till dawn",
+    "IMG": "/stuff/games/10mtd.png",
+    "URL": "/cdn/projects/10-minutes-till-dawn/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "slither.io",
+    "IMG": "/stuff/games/slither.jpg",
+    "URL": "https://slither.io",
+    "tag": "main"
+  },
+  {
+    "title": "ragdoll archers",
+    "IMG": "/stuff/games/ragdollarchers.jpg",
+    "URL": "/stuff/selfhosted/ragdoll-archers/",
+    "tag": "main"
+  },
+  {
+    "title": "r.e.p.o",
+    "IMG": "/stuff/games/repo.png",
+    "URL": "/stuff/selfhosted/repo/",
+    "tag": "main"
+  },
+  {
+    "title": "people playground",
+    "IMG": "/stuff/games/ppg.png",
+    "URL": "/stuff/selfhosted/ppgbog/",
+    "tag": "main"
+  },
+  {
+    "title": "bendy and the ink machine",
+    "IMG": "/stuff/games/batim.png",
+    "URL": "/stuff/selfhosted/batim/",
+    "tag": "main"
+  },
+  {
+    "title": "fused 240",
+    "IMG": "/stuff/games/fused240.jpg",
+    "URL": "/stuff/selfhosted/fused240/",
+    "tag": "main"
+  },
+  {
+    "title": "bad game",
+    "IMG": "/stuff/games/badgame.png",
+    "URL": "/stuff/selfhosted/badgame/",
+    "tag": "main"
+  },
+  {
+    "title": "karlson 2d",
+    "IMG": "/stuff/games/karlson.png",
+    "URL": "/stuff/selfhosted/karlson2d/",
+    "tag": "main"
+  },
+  {
+    "title": "re:run",
+    "IMG": "/stuff/games/rerun.jpg",
+    "URL": "/stuff/selfhosted/rerun/",
+    "tag": "main"
+  },
+  {
+    "title": "do not take this cat home",
+    "IMG": "/stuff/games/dnttch.png",
+    "URL": "/stuff/selfhosted/dnttch/",
+    "tag": "main"
+  },
+  {
+    "title": "testimonium",
+    "IMG": "/stuff/games/testimonium.png",
+    "URL": "/stuff/selfhosted/testimonium/",
+    "tag": "main"
+  },
+  {
+    "title": "cuphead",
+    "IMG": "/stuff/games/cuphead.png",
+    "URL": "/stuff/selfhosted/cuphead/decide.html",
+    "tag": "main"
+  },
+  {
+    "title": "hollow knight",
+    "IMG": "/stuff/games/hollow.png",
+    "URL": "/stuff/selfhosted/hollowknight/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "raft",
+    "IMG": "/stuff/games/raft.png",
+    "URL": "/stuff/selfhosted/raft/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "ragdoll hit",
+    "IMG": "/stuff/games/ragdoll.png",
+    "URL": "/stuff/selfhosted/ragdoll/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "sonic mania",
+    "IMG": "/stuff/games/sonicmania.jpg",
+    "URL": "/stuff/selfhosted/sonicmania/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "balatro",
+    "IMG": "/stuff/games/balatro.jpg",
+    "URL": "/stuff/selfhosted/balatro/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "gorilla tag",
+    "IMG": "/stuff/games/thetag.png",
+    "URL": "/stuff/selfhosted/gtag/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "omori",
+    "IMG": "/stuff/games/omori.png",
+    "URL": "/stuff/selfhosted/omori/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "terraria",
+    "IMG": "/stuff/games/terraria.png",
+    "URL": "/stuff/selfhosted/terraria/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "raldi's crackhouse",
+    "IMG": "/stuff/games/raldi.png",
+    "URL": "/stuff/selfhosted/raldi/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "slime rancher",
+    "IMG": "/stuff/games/slimerancher.png",
+    "URL": "/stuff/selfhosted/slimerancher/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "simple loot idle",
+    "IMG": "/stuff/games/simplelootidle.png",
+    "URL": "/stuff/selfhosted/simplelootidle/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "five nights at epsteins",
+    "IMG": "/stuff/games/fnae.png",
+    "URL": "/stuff/selfhosted/fnae/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "angry birds",
+    "IMG": "/stuff/games/angrybirds.png",
+    "URL": "/stuff/selfhosted/angrybirds/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "doki doki literature club plus",
+    "IMG": "/stuff/games/ddlcplus.png",
+    "URL": "/stuff/selfhosted/ddlcplus/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "needy streamer overload",
+    "IMG": "/stuff/games/nso.png",
+    "URL": "/stuff/selfhosted/nso/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "a difficult game about climbing",
+    "IMG": "/stuff/games/adgac.png",
+    "URL": "/stuff/selfhosted/adgac/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "delta traveler",
+    "IMG": "/stuff/games/deltatraveler.png",
+    "URL": "/stuff/selfhosted/deltatraveler/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "escape road",
+    "IMG": "/stuff/games/escape-road.png",
+    "URL": "/stuff/selfhosted/escape-road/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "class of '09",
+    "IMG": "/stuff/games/classof09.png",
+    "URL": "/stuff/selfhosted/co09loader/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "getting over it",
+    "IMG": "/stuff/games/gettingoverit.png",
+    "URL": "/stuff/selfhosted/gettingoverit/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "friday night funkin",
+    "IMG": "/stuff/games/fnf.png",
+    "URL": "/stuff/selfhosted/fnf/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "survivor.io",
+    "IMG": "/stuff/games/survivorio.png",
+    "URL": "/stuff/selfhosted/survivorio/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "undertale",
+    "IMG": "/stuff/games/undertale.jpg",
+    "URL": "/stuff/selfhosted/undertale/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "deltarune",
+    "IMG": "/stuff/games/deltarune.jpg",
+    "URL": "/stuff/selfhosted/deltarune/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "minecraft pocket edition",
+    "IMG": "/stuff/games/mcpe.png",
+    "URL": "/stuff/selfhosted/mcpe/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "little big planet",
+    "IMG": "/stuff/games/lbp.png",
+    "URL": "/stuff/selfhosted/lbp/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "oneshot",
+    "IMG": "/stuff/games/oneshot.png",
+    "URL": "/stuff/selfhosted/oneshot/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "bart blast",
+    "IMG": "/stuff/games/bartblast.png",
+    "URL": "/stuff/selfhosted/bartblast/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "drift hunters",
+    "IMG": "/stuff/games/drift-hunters.png",
+    "URL": "/stuff/selfhosted/drift-hunters/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "house of hazards",
+    "IMG": "/stuff/games/houseofhazards.png",
+    "URL": "/stuff/selfhosted/houseofhazards/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "achievement unlocked",
+    "IMG": "/stuff/games/au.jpg",
+    "URL": "/stuff/selfhosted/flash/game/achunlocked.html",
+    "tag": "main"
+  },
+  {
+    "title": "avalanche",
+    "IMG": "/stuff/games/avalanche.png",
+    "URL": "/stuff/selfhosted/flash/game/avalanche.html",
+    "tag": "main"
+  },
+  {
+    "title": "bloons tower defense 1",
+    "IMG": "/stuff/games/bloons.png",
+    "URL": "/stuff/selfhosted/flash/game/bloons-td-1.html",
+    "tag": "main"
+  },
+  {
+    "title": "bloons tower defense 2",
+    "IMG": "/stuff/games/bloons2.png",
+    "URL": "/stuff/selfhosted/flash/game/bloons-td-2.html",
+    "tag": "main"
+  },
+  {
+    "title": "diggy",
+    "IMG": "/stuff/games/diggy.png",
+    "URL": "/stuff/selfhosted/flash/game/diggy.html",
+    "tag": "main"
+  },
+  {
+    "title": "super fancy pants adventure",
+    "IMG": "/stuff/games/sfpa.jpg",
+    "URL": "/stuff/selfhosted/flash/game/fancy-pants-man.html",
+    "tag": "main"
+  },
+  {
+    "title": "gun mayhem",
+    "IMG": "/stuff/games/gun-mayhem.png",
+    "URL": "/stuff/selfhosted/flash/game/gun-mayhem.html",
+    "tag": "main"
+  },
+  {
+    "title": "gun mayhem 2: more mayhem",
+    "IMG": "/stuff/games/gun-mayhem2.jpg",
+    "URL": "/stuff/selfhosted/flash/game/gun-mayhem2.html",
+    "tag": "main"
+  },
+  {
+    "title": "learn tozeri fly",
+    "IMG": "/stuff/games/learn2fly.png",
+    "URL": "/stuff/selfhosted/flash/game/learn-to-fly.html",
+    "tag": "main"
+  },
+  {
+    "title": "papa's pizzeria",
+    "IMG": "/stuff/games/papas.png",
+    "URL": "/stuff/selfhosted/flash/game/papa/example/pizzeria.html",
+    "tag": "main"
+  },
+  {
+    "title": "portal: the flash version",
+    "IMG": "/stuff/games/portal.png",
+    "URL": "/stuff/selfhosted/flash/game/portal.html",
+    "tag": "main"
+  },
+  {
+    "title": "alien hominid",
+    "IMG": "/stuff/games/alien.png",
+    "URL": "/stuff/selfhosted/flash/game/alien_hominid.html",
+    "tag": "main"
+  },
+  {
+    "title": "1 on 1 soccer",
+    "IMG": "/stuff/games/1on1soccer.png",
+    "URL": "/stuff/selfhosted/flash/game/1on1soccer.html",
+    "tag": "main"
+  },
+  {
+    "title": "red ball 4",
+    "IMG": "/stuff/games/redball4.png",
+    "URL": "/stuff/selfhosted/flash/game/red-ball4.html",
+    "tag": "main"
+  },
+  {
+    "title": "toss the turtle",
+    "IMG": "/stuff/games/tosstheturtle.png",
+    "URL": "/cdn/projects/tosstheturtle/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "peggle",
+    "IMG": "/stuff/games/peggle.png",
+    "URL": "/stuff/selfhosted/flash/game/peggle.html",
+    "tag": "main"
+  },
+  {
+    "title": "gacha life",
+    "IMG": "/stuff/games/gachalife.png",
+    "URL": "/stuff/selfhosted/flash/game/gachalife.html",
+    "tag": "main"
+  },
+  {
+    "title": "gacha verse",
+    "IMG": "/stuff/games/gachaverse.png",
+    "URL": "/stuff/selfhosted/flash/game/gachaverse.html",
+    "tag": "main"
+  },
+  {
+    "title": "super mario 64",
+    "IMG": "/stuff/games/sm64.png",
+    "URL": "/stuff/selfhosted/mexiisamonkey/sm64.html",
+    "tag": "main"
+  },
+  {
+    "title": "banjo kazooie",
+    "IMG": "/stuff/games/banjo.jpg",
+    "URL": "/stuff/selfhosted/mexiisamonkey/banjo.html",
+    "tag": "main"
+  },
+  {
+    "title": "super smash bros",
+    "IMG": "/stuff/games/ssb.png",
+    "URL": "/stuff/selfhosted/mexiisamonkey/ssb.html",
+    "tag": "main"
+  },
+  {
+    "title": "danganronpa trigger happy havoc",
+    "IMG": "/stuff/games/danganronpa.png",
+    "URL": "/stuff/selfhosted/danganronpa/index.html",
+    "tag": "main"
+  },
+  {
+    "title": "the legend of zelda ocarina of time",
+    "IMG": "/stuff/games/lozoft.jpg",
+    "URL": "/stuff/selfhosted/mexiisamonkey/zelda-oot.html",
+    "tag": "main"
+  },
+  {
+    "title": "south park 64",
+    "IMG": "/stuff/games/southpark.jpg",
+    "URL": "/stuff/selfhosted/mexiisamonkey/south.html",
+    "tag": "main"
+  },
+  {
+    "title": "animal crossing wild world",
+    "IMG": "/stuff/games/acww.jpg",
+    "URL": "/stuff/selfhosted/mexiisamonkey/acww.html",
+    "tag": "main"
+  },
+  {
+    "title": "new super mario bros ds",
+    "IMG": "/stuff/games/nsmb.png",
+    "URL": "/stuff/selfhosted/mexiisamonkey/nsmb.html",
+    "tag": "main"
+  },
+  {
+    "title": "pokemon platinum version",
+    "IMG": "/stuff/games/ppv.png",
+    "URL": "/stuff/selfhosted/mexiisamonkey/pokemon.html",
+    "tag": "main"
+  },
+  {
+    "title": "mario kart ds",
+    "IMG": "/stuff/games/mkds.png",
+    "URL": "/stuff/selfhosted/mexiisamonkey/mkds.html",
+    "tag": "main"
+  },
+  {
+    "title": "cooking mama",
+    "IMG": "/stuff/games/cookingmama.png",
+    "URL": "/stuff/selfhosted/mexiisamonkey/cookingmama.html",
+    "tag": "main"
+  },
+  {
+    "title": "cooking mama 2",
+    "IMG": "/stuff/games/cookingmama2.png",
+    "URL": "/stuff/selfhosted/mexiisamonkey/cookingmama2.html",
+    "tag": "main"
+  },
+  {
+    "title": "cooking mama 3",
+    "IMG": "/stuff/games/cookingmama3.png",
+    "URL": "/stuff/selfhosted/mexiisamonkey/cookingmama3.html",
+    "tag": "main"
+  },
+  {
+    "title": "tomodachi collection",
+    "IMG": "/stuff/games/tomodachi.jpg",
+    "URL": "/stuff/selfhosted/mexiisamonkey/tomodachi.html",
+    "tag": "main"
+  },
+  {
+    "title": "super mario bros deluxe",
+    "IMG": "/stuff/games/smbd.jpg",
+    "URL": "/stuff/selfhosted/mexiisamonkey/smbd.html",
+    "tag": "main"
+  },
+  {
+    "title": "the legend of zelda links awakening dx",
+    "IMG": "/stuff/games/lozladx.png",
+    "URL": "/stuff/selfhosted/mexiisamonkey/links_awakening.html",
+    "tag": "main"
+  },
+  {
+    "title": "super mario bros",
+    "IMG": "/stuff/games/smb.png",
+    "URL": "/stuff/selfhosted/mexiisamonkey/smb.html",
+    "tag": "main"
+  },
+  {
+    "title": "kirby super star",
+    "IMG": "/stuff/games/kirbyss.jpg",
+    "URL": "/stuff/selfhosted/mexiisamonkey/kirbysuperstar.html",
+    "tag": "main"
+  },
+  {
+    "title": "super mario world",
+    "IMG": "/stuff/games/smw.png",
+    "URL": "/stuff/selfhosted/mexiisamonkey/smw.html",
+    "tag": "main"
+  },
+  {
+    "title": "super mario all stars",
+    "IMG": "/stuff/games/smas.png",
+    "URL": "/stuff/selfhosted/mexiisamonkey/smballstars.html",
+    "tag": "main"
+  },
+  {
+    "title": "sonic the hedgehog",
+    "IMG": "/stuff/games/sonic1.png",
+    "URL": "/stuff/selfhosted/mexiisamonkey/sonic1.html",
+    "tag": "main"
+  },
+  {
+    "title": "sonic the hedgehog 2",
+    "IMG": "/stuff/games/sonic2.png",
+    "URL": "/stuff/selfhosted/mexiisamonkey/sonic2.html",
+    "tag": "main"
+  },
+  {
+    "title": "sonic the hedgehog 3",
+    "IMG": "/stuff/games/sonic3.png",
+    "URL": "/stuff/selfhosted/mexiisamonkey/sonic3.html",
+    "tag": "main"
+  },
+  {
+    "title": "sonic cd",
+    "IMG": "/stuff/games/soniccd.png",
+    "URL": "/stuff/selfhosted/mexiisamonkey/soniccd.html",
+    "tag": "main"
+  },
+  {
+    "title": "advance wars",
+    "IMG": "/stuff/games/advancewars.jpg",
+    "URL": "/stuff/selfhosted/mexiisamonkey/AdvancedWars.html",
+    "tag": "main"
+  },
+  {
+    "title": "super mario advance 2",
+    "IMG": "/stuff/games/sma2.png",
+    "URL": "/stuff/selfhosted/mexiisamonkey/sma2.html",
+    "tag": "main"
+  },
+  {
+    "title": "super mario advance 4",
+    "IMG": "/stuff/games/sma4.png",
+    "URL": "/stuff/selfhosted/mexiisamonkey/sma4.html",
+    "tag": "main"
+  },
+  {
+    "title": "pokemon firered version",
+    "IMG": "/stuff/games/pokemonfirered.jpg",
+    "URL": "/stuff/selfhosted/mexiisamonkey/PokemonFireRed.html",
+    "tag": "main"
+  },
+  {
+    "title": "super monkey ball jr",
+    "IMG": "/stuff/games/supermonkeybj.png",
+    "URL": "/stuff/selfhosted/mexiisamonkey/super-monkey-ball.html",
+    "tag": "main"
+  },
+  {
+    "title": "crash bandicoot",
+    "IMG": "/stuff/games/crashbandi.png",
+    "URL": "/stuff/selfhosted/mexiisamonkey/crashbandi.html",
+    "tag": "main"
+  },
+  {
+    "title": "grand theft auto 2",
+    "IMG": "/stuff/games/gta2.png",
+    "URL": "/stuff/selfhosted/mexiisamonkey/gta2.html",
+    "tag": "main"
+  },
+  {
+    "title": "spiderman",
+    "IMG": "/stuff/games/spiderman.jpg",
+    "URL": "/stuff/selfhosted/mexiisamonkey/spiderman.html",
+    "tag": "main"
+  },
+  {
+    "title": "vib-ribbon",
+    "IMG": "/stuff/games/vib-ribbon.jpg",
+    "URL": "/stuff/selfhosted/mexiisamonkey/vib-ribbon.html",
+    "tag": "main"
+  },
+  {
+    "title": "parappa the rapper",
+    "IMG": "/stuff/games/para.png",
+    "URL": "/stuff/selfhosted/mexiisamonkey/parappa.html",
+    "tag": "main"
+  }
+]
