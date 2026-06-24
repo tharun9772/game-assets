@@ -1,0 +1,27 @@
+[
+      {
+    "name": "stumble guys",
+    "img": "https://frogs-questions.dk-ubg.workers.dev/stuff/games/stumbleguys.jpg",
+    "url": "/sail/embed/#nowgg.fun/apps/a/10011/b.html"
+  },
+   {
+    "name": "minecraft",
+    "img": "https://frogs-questions.dk-ubg.workers.dev/stuff/games/minecraft.jpg",
+    "url": "/sail/embed/#frogiesarcade.win/stuff/selfhosted/minecraft/"
+  },
+  {
+    "name": "monkey mart",
+    "img": "https://frogs-questions.dk-ubg.workers.dev/stuff/games/monkey-mart.jpg",
+    "url": "/sail/embed/#frogiesarcade.win/stuff/selfhosted/monkey-mart"
+  },
+    {
+    "name": "roblox",
+    "img": "https://frogs-questions.dk-ubg.workers.dev/stuff/games/roblox.png",
+    "url": "/sail/embed/#nowgg.fun/apps/a/19900/b.html"
+  },
+  {
+    "name": "fortnight",
+    "img": "https://frogs-questions.dk-ubg.workers.dev/stuff/games/fortnite.png",
+    "url": "/sail/embed/#nowgg.fun/apps/aptoide/5874/aptoide.html?deep_link=aptoidesearch://com.epicgames.fortnite"
+  }
+]
