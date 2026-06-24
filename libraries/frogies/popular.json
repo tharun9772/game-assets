@@ -1,0 +1,27 @@
+[
+  {
+    "name": "roblox",
+    "img": "https://frogs-questions.dk-ubg.workers.dev/stuff/games/roblox.png",
+    "url": "/sail/embed/#nowgg.fun/apps/a/19900/b.html"
+  },
+  {
+    "name": "fortnight",
+    "img": "https://frogs-questions.dk-ubg.workers.dev/stuff/games/fortnite.png",
+    "url": "/sail/embed/#nowgg.fun/apps/aptoide/5874/aptoide.html?deep_link=aptoidesearch://com.epicgames.fortnite"
+  },
+  {
+    "name": "among us",
+    "img": "https://frogs-questions.dk-ubg.workers.dev/stuff/games/ayodiddy.png",
+    "url": "/sail/embed/#nowgg.fun/apps/innersloth-llc/4047/among-us.html"
+  },
+    {
+    "name": "geometry dash",
+    "img": "https://frogs-questions.dk-ubg.workers.dev/stuff/games/geodash.png",
+    "url": "/sail/embed/#frogiesarcade.win/stuff/selfhosted/gdlite/"
+  },
+   {
+    "name": "minecraft",
+    "img": "https://frogs-questions.dk-ubg.workers.dev/stuff/games/minecraft.jpg",
+    "url": "/sail/embed/#frogiesarcade.win/stuff/selfhosted/minecraft/"
+  }
+]
