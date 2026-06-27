@@ -1,1 +1,27 @@
-
+[
+  {
+    "name": "Undertale",
+    "img": "https://aisian-calc.dk-ubg.workers.dev/core/gam-image/undertale.jpg",
+    "url": "/gam/frame/undertale.html"
+  },
+  {
+    "name": "Celeste",
+    "img": "https://aisian-calc.dk-ubg.workers.dev/core/gam-image/celeste.png",
+    "url": "/sail/embed/#https://wilway.today/core/gam-ported/celeste/"
+  },
+  {
+    "name": "Minecraft (1.8.8)",
+    "img": "https://aisian-calc.dk-ubg.workers.dev/core/gam-image/minecraft.jpg",
+    "url": "/sail/embed/#https://wilway.today/gam/frame/minecraft.html"
+  },
+  {
+    "name": "The Binding of Isaac: Wrath of the Lamb",
+    "img": "https://aisian-calc.dk-ubg.workers.dev/core/gam-image/tboi.png",
+    "url": "/sail/embed/#https://wilway.today/gam/frame/tboi.html"
+  },
+  {
+    "name": "Ultrakill",
+    "img": "https://aisian-calc.dk-ubg.workers.dev/core/gam-image/ultrakill.png",
+    "url": "/sail/embed/#https://wilway.today/core/gam-ported/ultrakill-demo/"
+  }
+]
