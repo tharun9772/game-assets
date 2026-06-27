@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Airline Tycoon Idle",
+    "img": "https://cdn.jsdelivr.net/gh/tharuniscool/elite-gamez.github.io@main/images/planevroom33.jpeg",
+    "url": "/app-viewer/elite-gamez?url=g%2FAirline%20Tycoon%20Idle",
+    "engine": "elite"
+  },
+  {
+    "name": "Idle Miner Tycoon",
+    "img": "https://cdn.jsdelivr.net/gh/tharuniscool/elite-gamez.github.io@main/images/ghostgirl.jpeg",
+    "url": "/app-viewer/elite-gamez?url=g%2FIdle%20Miner%20Tycoon.html",
+    "engine": "elite"
+  },
+  {
+    "name": "hardwaretycoon",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/5968517.png",
+    "url": "/app-viewer/ugs-files?view=clhardwaretycoon.html",
+    "engine": "elite"
+  },
+  {
+    "name": "idleminertycoon",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/5968517.png",
+    "url": "/app-viewer/ugs-files?view=clidleminertycoon.html",
+    "engine": "elite"
+  },
+  {
+    "name": "processortycoon",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/5968517.png",
+    "url": "/app-viewer/ugs-files?view=clprocessortycoon.html",
+    "engine": "elite"
+  },
+  {
+    "name": "airlinetycoonidle",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/5968517.png",
+    "url": "/app-viewer/ugs-files?view=clairlinetycoonidle.html",
+    "engine": "elite"
+  },
+  {
+    "name": "Hardware Tycoon",
+    "img": "https://cdn.jsdelivr.net/gh/tharuniscool/hydra-assets@main/thumbs/hardware-tycoon.avif",
+    "url": "/app-viewer/hydra-network/?view=hardware-tycoon.html",
+    "engine": "hydra"
+  },
+  {
+    "name": "Idle Miner Tycoon",
+    "img": "https://cdn.jsdelivr.net/gh/tharuniscool/hydra-assets@main/thumbs/idle-miner-tycoon.avif",
+    "url": "/app-viewer/hydra-network/?view=idle-miner-tycoon.html",
+    "engine": "hydra"
+  },
+  {
+    "name": "hardware-tycoon",
+    "img": "/1f3ae.png",
+    "url": "/app-viewer/3kh0/?view=hardware-tycoon",
+    "engine": "3kh0"
+  },
+  {
+    "name": "Grid Architect: GPU Tycoon",
+    "img": "https://math-question-generator.dk-ubg.workers.dev/assets/data/bundles/li.ico/grid-architect.png",
+    "url": "/sail/embed/#glseries.net/assets/applications/content/grid-architect/",
+    "engine": "tglsc"
+  },
+  {
+    "name": "Processor Tycoon",
+    "img": "https://math-quests-cc.dk-ubg.workers.dev/resources/semag/processortycoon/proctyc.png",
+    "url": "/sail/embed/#https://selenite.cc/resources/semag/processortycoon/index.html",
+    "engine": "selenite"
+  },
+  {
+    "name": "Hardware Tycoon",
+    "img": "https://math-quests-cc.dk-ubg.workers.dev/resources/semag/hardwaretycoon/icon-114.png",
+    "url": "/sail/embed/#https://selenite.cc/resources/semag/hardwaretycoon/index.html",
+    "engine": "selenite"
+  }
+  {
+    "name": "Ant Art Tycoon",
+    "img": "https://multible-questions.dk-ubg.workers.dev/bloxcraft/imagebloxy67/https://antarttycoon.github.io/images/img.png",
+    "url": "/sail/embed/#https://antarttycoon.github.io/game/index.html",
+    "engine": "ubg42"
+  },
+  {
+    "name": "webgl-fluid-simulation",
+    "img": "/1f3ae.png",
+    "url": "/app-viewer/3kh0/?view=webgl-fluid-simulation",
+    "engine": "3kh0"
+  },
+  {
+    "name": "Fluid Simulation",
+    "img": "/1f3ae.png",
+    "url": "/sail/embed/#https://paveldogreat.github.io/WebGL-Fluid-Simulation/",
+    "engine": "ubg42"
+  }
+]
