@@ -1,1 +1,27 @@
-
+[
+  {
+    "name": "Geometry Wave",
+    "img": "https://aisian-calc.dk-ubg.workers.dev/core/gam-image/geometry-wave.png",
+    "url": "/sail/embed/#https://wilway.today/core/gam-scripts/geometry-wave/"
+  },
+  {
+    "name": "Geometry Arrow",
+    "img": "https://aisian-calc.dk-ubg.workers.dev/core/gam-image/geometry-arrow.png",
+    "url": "/sail/embed/#https://wilway.today/core/gam-scripts/geometry-arrow/"
+  },
+  {
+    "name": "Drive Mad",
+    "img": "https://aisian-calc.dk-ubg.workers.dev/core/gam-image/drive-mad.png",
+    "url": "/sail/embed/#https://wilway.today/gam/frame/drive-mad.html"
+  },
+  {
+    "name": "Full Throttle",
+    "img": "https://aisian-calc.dk-ubg.workers.dev/core/gam-image/full-throttle.png",
+    "url": "/sail/embed/#https://wilway.today/core/gam-scripts/full-throttle/"
+  },
+  {
+    "name": "Geometry Dash",
+    "img": "https://aisian-calc.dk-ubg.workers.dev/core/gam-image/geom.jpg",
+    "url": "/sail/embed/#https://wilway.today/core/gam-special/geom/"
+  }
+]
