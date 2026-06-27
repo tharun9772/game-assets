@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Chiikawa Puzzle",
+    "img": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main//539.png",
+    "url": "/app-viewer/gn-math/?gn-id=539",
+    "engine": "gn"
+  },
+  {
+    "name": "superpuzzlefighter2turboalt",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/5968517.png",
+    "url": "/app-viewer/ugs-files?view=clsuperpuzzlefighter2turboalt.html",
+    "engine": "ugs"
+  },
+  {
+    "name": "Kim Jong Un Tile Puzzle",
+    "img": "/1f3ae.png",
+    "url": "/app-viewer/alexr-world-s/?view=Kim%20Jong%20Un%20Tile%20Puzzle",
+    "engine": "alexrworlds"
+  },
+  {
+    "name": "superpuzzlefighter2turbo",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/5968517.png",
+    "url": "/app-viewer/ugs-files?view=clsuperpuzzlefighter2turbo.html",
+    "engine": "ugs"
+  },
+  {
+    "name": "NutsandBoltsScrewingPuzzle",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/5968517.png",
+    "url": "/app-viewer/ugs-files?view=clNutsandBoltsScrewingPuzzle.html",
+    "engine": "ugs"
+  },
+  {
+    "name": "puzzle-ball",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/LupineVault@main/assets/images/games/tile/puzzle-ball.png",
+    "url": "/app-viewer/LupineVault/?view=puzzle-ball",
+    "engine": "lupine"
+  },
+  {
+    "name": "Brain Test Tricky Puzzles",
+    "img": "https://multible-questions.dk-ubg.workers.dev/bloxcraft/imagebloxy67/https://23azostore.github.io/img/brain-test-tricky-puzzles.png",
+    "url": "/sail/embed/#https://abinbins.github.io/a2/brain-test-tricky-puzzles/",
+    "engine": "ubg42"
+  },
+  {
+    "name": "Scary Maze Game",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/scarymaze.png",
+    "url": "/app-viewer/?view=/gameFiles/scary-maze-game",
+    "engine": "blox"
+  },
+  {
+    "name": "20 Small Mazes",
+    "img": "https://cdn.jsdelivr.gh/tharun9772/game-assets@main/aez33.jpg",
+    "url": "/app-viewer/?view=/gameFiles/20-small-mazes",
+    "engine": "blox"
+  },
+  {
+    "name": "Bloxy Maze",
+    "img": "/maze_game.png",
+    "url": "/app-viewer/?view=/gameFiles/maze",
+    "engine": "blox"
+  },
+  {
+    "name": "Amaze",
+    "img": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main//26.png",
+    "url": "/app-viewer/gn-math/?gn-id=26",
+    "engine": "gn"
+  },
+  {
+    "name": "Maze Speedrun",
+    "img": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main//324.png",
+    "url": "/app-viewer/gn-math/?gn-id=324",
+    "engine": "gn"
+  },
+  {
+    "name": "the-maze-of-space-goblins",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/LupineVault@main/assets/images/games/tile/the-maze-of-space-goblins.png",
+    "url": "/app-viewer/LupineVault/?view=the-maze-of-space-goblins",
+    "engine": "lupine"
+  },
+  {
+    "name": "The Maze",
+    "img": "https://multible-questions.dk-ubg.workers.dev/bloxcraft/imagebloxy67/https://ubg42.github.io/file/The_Maze.jpg",
+    "url": "/sail/embed/#https://ubg42.github.io/file/The_Maze.html",
+    "engine": "ubg42"
+  }
+]
