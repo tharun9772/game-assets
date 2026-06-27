@@ -2,26 +2,26 @@
   {
     "name": "Geometry Dash",
     "img": "https://cdn.jsdelivr.net/gh/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/images/417.jpg",
-    "url": "/app-viewer/?view=games/noah/417.html"
+    "url": "/app-viewer/noah/?view=games/417.html"
   },
   {
     "name": "Plants Vs Zombies",
     "img": "https://cdn.jsdelivr.net/gh/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/images/467.jpg",
-    "url": "/app-viewer/?view=games/noah/467.html"
+    "url": "/app-viewer/noah/?view=games/467.html"
   },
   {
     "name": "Minecraft 1.12.1",
     "img": "https://cdn.jsdelivr.net/gh/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/images/291.jpg",
-    "url": "/app-viewer/?view=games/noah/164.html"
+    "url": "/app-viewer/noah/?view=games/164.html"
   },
   {
     "name": "Cookie Clicker",
     "img": "https://cdn.jsdelivr.net/gh/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/images/428.jpg",
-    "url": "/app-viewer/?view=games/noah/428.html"
+    "url": "/app-viewer/noah/?view=games/428.html"
   },
   {
     "name": "The World's Hardest Game",
     "img": "https://cdn.jsdelivr.net/gh/NoahsAmazingTutoringHelp/Noahs-Calculus-Tutor/images/403.jpg",
-    "url": "/app-viewer/?view=games/noah/403.html"
+    "url": "/app-viewer/noah/?view=games/403.html"
   }
 ]
