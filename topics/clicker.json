@@ -90,18 +90,6 @@
     "engine": "elite"
   },
   {
-    "name": "Cookie Clicker",
-    "img": "/1f3ae.png",
-    "url": "/app-viewer/sea-bean?view=41",
-    "engine": "sea"
-  },
-  {
-    "name": "CS:GO Clicker",
-    "img": "/1f3ae.png",
-    "url": "/app-viewer/sea-bean?view=43",
-    "engine": "sea"
-  },
-  {
     "name": "cookie-clicker",
     "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/5968517.png",
     "url": "/app-viewer/ugs-files?view=clcookie-clicker.html",
