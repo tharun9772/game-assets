@@ -1,0 +1,50 @@
+[
+  {
+    "img": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main//90.png",
+    "name": "Granny",
+    "url": "/app-viewer/gn-math/?gn-id=90",
+    "engine": "gn"
+  },
+  {
+    "img": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main//125.png",
+    "name": "Granny 2",
+    "url": "/app-viewer/gn-math/?gn-id=125",
+    "engine": "gn"
+  },
+  {
+    "img": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main//126.png",
+    "name": "Granny 3",
+    "url": "/app-viewer/gn-math/?gn-id=126",
+    "engine": "gn"
+  },
+  {
+    "img": "https://math-question-generator.dk-ubg.workers.dev/assets/data/bundles/li.ico/granny-4.png",
+    "name": "Granny 4",
+    "url": "/sail/embed/#glseries.net/assets/applications/content/granny-4/",
+    "engine": "tglsc"
+  },
+  {
+    "img": "https://math-question-generator.dk-ubg.workers.dev/assets/data/bundles/li.ico/granny-prison-escape.png",
+    "name": "Granny Prison Escape",
+    "url": "/sail/embed/#glseries.net/assets/applications/content/granny-prison-escape/",
+    "engine": "tglsc"
+  },
+  {
+    "img": "https://math-question-generator.dk-ubg.workers.dev/assets/data/bundles/li.ico/granny-forest-escape.png",
+    "name": "Granny Forest Escape",
+    "url": "/sail/embed/#glseries.net/assets/applications/content/granny-forest-escape/",
+    "engine": "tglsc"
+  },
+  {
+    "img": "https://math-question-generator.dk-ubg.workers.dev/assets/data/bundles/li.ico/granny-classroom-nightmare.png",
+    "name": "Granny's Classroom Nightmare",
+    "url": "/sail/embed/#glseries.net/assets/applications/content/granny-classroom-nightmare/",
+    "engine": "tglsc"
+  },
+  {
+    "img": "https://math-question-generator.dk-ubg.workers.dev/assets/data/bundles/li.ico/shoot-granny.png",
+    "name": "Shoot Granny",
+    "url": "/sail/embed/#glseries.net/assets/applications/content/shoot-granny/",
+    "engine": "tglsc"
+  }
+]
