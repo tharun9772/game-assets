@@ -2,21 +2,25 @@
   {
     "name": "Solitare",
     "img": "https://raw.githack.com/3kh0/3kh0-lite/main/projects/solitaire/screen-shot.png",
-    "url": "/app-viewer/3kh0/lite/?view=projects%2Fsolitaire%2Findex.html"
+    "url": "/app-viewer/3kh0/lite/?view=projects%2Fsolitaire%2Findex.html",
+    "engine": "3kh0"
   },
   {
     "name": "Solitarie Social",
     "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/img/solitare-socialede.webp",
-    "url": "/sail/embed/#https://nowgg.lol/apps/kosmos-games/51904/solitaire-social.html"
+    "url": "/sail/embed/#https://nowgg.lol/apps/kosmos-games/51904/solitaire-social.html",
+    "engine": "nowgg"
   },
   {
     "name": "Uno",
     "img": "https://cdn.jsdelivr.net/gh/carbonicality/ChickenKingsVault@main/gameimages/uno.jpg",
-    "url": "/app-viewer/chicken-kings-vault/?view=unogame.html"
+    "url": "/app-viewer/chicken-kings-vault/?view=unogame.html",
+    "engine": "ckv"
   },
   {
     "name": "Balatro",
     "img": "/gameFiles/balatro/baltro.jpg",
-    "url": "/app-viewer/?view=/gameFiles/balatro"
+    "url": "/app-viewer/?view=/gameFiles/balatro",
+    "engine": "blox"
   }
 ]
