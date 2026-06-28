@@ -168,18 +168,6 @@
     "engine": "elite"
   },
   {
-    "name": "Paper.io 2",
-    "img": "/1f3ae.png",
-    "url": "/app-viewer/sea-bean?view=107",
-    "engine": "sea"
-  },
-  {
-    "name": "Snowbattle.io",
-    "img": "/1f3ae.png",
-    "url": "/app-viewer/sea-bean?view=132",
-    "engine": "sea"
-  },
-  {
     "name": "Agar.io",
     "img": "https://cdn.jsdelivr.net/gh/carbonicality/ChickenKingsVault@main/gameimages/agario.jpg",
     "url": "/app-viewer/chicken-kings-vault/?view=agario.html",
@@ -211,7 +199,7 @@
   },
   {
     "name": "Growden.io",
-    "img": "https://cdn.jsdelivr.net/gh/carbonicality/ChickenKingsVault@main/gameimages/growdenio.jpg",
+    "img": "https://cdn.jsdelivr.gh/carbonicality/ChickenKingsVault@main/gameimages/growdenio.jpg",
     "url": "/app-viewer/chicken-kings-vault/?view=growdenio.html",
     "engine": "ckv"
   },
@@ -307,7 +295,7 @@
   },
   {
     "name": "Growden.io",
-    "img": "https://cdn.jsdelivr.gh/tharuniscool/hydra-assets@main/thumbs/growden.io.avif",
+    "img": "https://cdn.jsdelivr.net/gh/tharuniscool/hydra-assets@main/thumbs/growden.io.avif",
     "url": "/app-viewer/hydra-network/?view=growden.io.html",
     "engine": "hydra"
   },
@@ -410,7 +398,7 @@
   {
     "name": "YoHoHo.io",
     "img": "https://math-question-generator.dk-ubg.workers.dev/assets/data/bundles/li.ico/yohoho-io.png",
-    "url": "/sail/embed/#glseries.net/assets/applications/content/yohoho-io/"
+    "url": "/sail/embed/#glseries.net/assets/applications/content/yohoho-io/",
     "engine": "tglsc"
   },
   {
@@ -441,7 +429,7 @@
     "name": "Yohoho.io",
     "img": "https://math-quests-cc.dk-ubg.workers.dev/resources/semag/yohoho/cover.png",
     "url": "/sail/embed/#https://selenite.cc/resources/semag/yohoho/index.html",
-    "engine": "selenite",
+    "engine": "selenite"
   },
   {
     "name": "paper.io",
