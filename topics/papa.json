@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Papa's Bakeria",
+    "img": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main//218.png",
+    "url": "/app-viewer/gn-math/?gn-id=218",
+    "engine": "gn"
+  },
+  {
+    "name": "Papa's Burgeria",
+    "img": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main//219.png",
+    "url": "/app-viewer/gn-math/?gn-id=219",
+    "engine": "gn"
+  },
+  {
+    "name": "Papa's Cheeseria",
+    "img": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main//220.png",
+    "url": "/app-viewer/gn-math/?gn-id=220",
+    "engine": "gn"
+  },
+  {
+    "name": "Papa's Cupcakeria",
+    "img": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main//221.png",
+    "url": "/app-viewer/gn-math/?gn-id=221",
+    "engine": "gn"
+  },
+  {
+    "name": "Papa's Donuteria",
+    "img": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main//222.png",
+    "url": "/app-viewer/gn-math/?gn-id=222",
+    "engine": "gn"
+  },
+  {
+    "name": "Papa's Freezeria",
+    "img": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main//223.png",
+    "url": "/app-viewer/gn-math/?gn-id=223",
+    "engine": "gn"
+  },
+  {
+    "name": "Papa's Hot Doggeria",
+    "img": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main//224.png",
+    "url": "/app-viewer/gn-math/?gn-id=224",
+    "engine": "gn"
+  },
+  {
+    "name": "Papa's Pancakeria",
+    "img": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main//225.png",
+    "url": "/app-viewer/gn-math/?gn-id=225",
+    "engine": "gn"
+  },
+  {
+    "name": "Papa's Pastaria",
+    "img": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main//226.png",
+    "url": "/app-viewer/gn-math/?gn-id=226",
+    "engine": "gn"
+  },
+  {
+    "name": "Papa's Pizzeria",
+    "img": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main//227.png",
+    "url": "/app-viewer/gn-math/?gn-id=227",
+    "engine": "gn"
+  },
+  {
+    "name": "Papa's Scooperia",
+    "img": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main//228.png",
+    "url": "/app-viewer/gn-math/?gn-id=228",
+    "engine": "gn"
+  },
+  {
+    "name": "Papa's Sushiria",
+    "img": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main//229.png",
+    "url": "/app-viewer/gn-math/?gn-id=229",
+    "engine": "gn"
+  },
+  {
+    "name": "Papa's Taco Mia",
+    "img": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main//230.png",
+    "url": "/app-viewer/gn-math/?gn-id=230",
+    "engine": "gn"
+  },
+  {
+    "name": "Papa's Wingeria",
+    "img": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main//231.png",
+    "url": "/app-viewer/gn-math/?gn-id=231",
+    "engine": "gn"
+  }
+]
