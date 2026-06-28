@@ -1,0 +1,500 @@
+[
+  {
+    "name": "Idle Mining Clicker",
+    "img": "/assets_curser_gameicon.png",
+    "url": "/app-viewer/?view=/gameFiles/idle-mining-clicker",
+    "engine": "blox"
+  },
+  {
+    "name": "Ultimate Clicker Game",
+    "img": "/assets_curser_gameicon.png",
+    "url": "/app-viewer/?view=/gameFiles/ultimate-clicker-game",
+    "engine": "blox"
+  },
+  {
+    "name": "Brainrot (Brain Rot) Clicker",
+    "img": "/assets_curser_gameicon.png",
+    "url": "/app-viewer/?view=/gameFiles/custom-brainrot-clicker",
+    "engine": "blox"
+  },
+  {
+    "name": "Bloxy Cookie Clicker",
+    "img": "/gamecookie_item.png",
+    "url": "/app-viewer/?view=/gameFiles/bloxy-cookie-clicker",
+    "engine": "blox"
+  },
+  {
+    "name": "Square Clicker",
+    "img": "/1f3ae.png",
+    "url": "/app-viewer/?view=/gameFiles/square-clicker",
+    "engine": "blox"
+  },
+  {
+    "name": "Banana Clicker",
+    "img": "/gamebanana_item.png",
+    "url": "/app-viewer/?view=/gameFiles/banana-clicker",
+    "engine": "blox"
+  },
+  {
+    "name": "Apple Clicker",
+    "img": "/apple_gameclicker_bloxcraft.png",
+    "url": "/app-viewer/?view=/gameFiles/apple-clicker",
+    "engine": "blox"
+  },
+  {
+    "name": "Planet Clicker",
+    "img": "/planet-clicker-image.png",
+    "url": "/app-viewer/?view=/gameFiles/planet-clicker",
+    "engine": "blox"
+  },
+  {
+    "name": "Cookie Clicker",
+    "img": "/cookie-clicker-image.png",
+    "url": "/app-viewer/?view=/gameFiles/cookie-clicker",
+    "engine": "blox"
+  },
+  {
+    "name": "Chocolate Clicker",
+    "img": "/chocolate_emoji.png",
+    "url": "/app-viewer/?view=/refined-beta/chocolate-clicker",
+    "engine": "blox"
+  },
+  {
+    "name": "Duck Duck Clicker",
+    "img": "/gameFiles/duck-duck-clicker/bloxcraft-ubg-is-ubg.png",
+    "url": "/app-viewer/?view=/gameFiles/duck-duck-clicker/",
+    "engine": "blox"
+  },
+  {
+    "name": "Candy Clicker",
+    "img": "/gameFiles/candy-clicker/candy-clicker-icon.png",
+    "url": "/app-viewer/?view=/gameFiles/candy-clicker/",
+    "engine": "blox"
+  },
+  {
+    "name": "Cookie Clicker",
+    "img": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main//82.png",
+    "url": "/app-viewer/gn-math/?gn-id=82",
+    "engine": "gn"
+  },
+  {
+    "name": "Spacebar Clicker",
+    "img": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main//473.png",
+    "url": "/app-viewer/gn-math/?gn-id=473",
+    "engine": "gn"
+  },
+  {
+    "name": "Capybara Clicker",
+    "img": "https://cdn.jsdelivr.net/gh/tharuniscool/elite-gamez.github.io@main/images/egv22026.jpeg",
+    "url": "/app-viewer/elite-gamez?url=g%2FCapybara%20Clicker.html",
+    "engine": "elite"
+  },
+  {
+    "name": "Cookie Clicker",
+    "img": "/1f3ae.png",
+    "url": "/app-viewer/sea-bean?view=41",
+    "engine": "sea"
+  },
+  {
+    "name": "CS:GO Clicker",
+    "img": "/1f3ae.png",
+    "url": "/app-viewer/sea-bean?view=43",
+    "engine": "sea"
+  },
+  {
+    "name": "cookie-clicker",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/5968517.png",
+    "url": "/app-viewer/ugs-files?view=clcookie-clicker.html",
+    "engine": "ugs"
+  },
+  {
+    "name": "cookieclicker",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/5968517.png",
+    "url": "/app-viewer/ugs-files?view=clcookieclicker.html",
+    "engine": "ugs"
+  },
+  {
+    "name": "cookieclickermodmenu",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/5968517.png",
+    "url": "/app-viewer/ugs-files?view=clcookieclickermodmenu.html",
+    "engine": "ugs"
+  },
+  {
+    "name": "csgoclicker",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/5968517.png",
+    "url": "/app-viewer/ugs-files?view=clcsgoclicker.html",
+    "engine": "ugs"
+  },
+  {
+    "name": "roomclicker",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/5968517.png",
+    "url": "/app-viewer/ugs-files?view=clroomclicker.html",
+    "engine": "ugs"
+  },
+  {
+    "name": "spacebarclicker",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/5968517.png",
+    "url": "/app-viewer/ugs-files?view=clspacebarclicker.html",
+    "engine": "ugs"
+  },
+  {
+    "name": "sprunkiclicker",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/5968517.png",
+    "url": "/app-viewer/ugs-files?view=clsprunkiclicker.html",
+    "engine": "ugs"
+  },
+  {
+    "name": "capybaraclicker",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/5968517.png",
+    "url": "/app-viewer/ugs-files?view=clcapybaraclicker.html",
+    "engine": "ugs"
+  },
+  {
+    "name": "cookieclickergood",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/5968517.png",
+    "url": "/app-viewer/ugs-files?view=clcookieclickergood.html",
+    "engine": "ugs"
+  },
+  {
+    "name": "dandysworldclicker",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/5968517.png",
+    "url": "/app-viewer/ugs-files?view=cldandysworldclicker.html",
+    "engine": "ugs"
+  },
+  {
+    "name": "omeganuggetclicker",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/5968517.png",
+    "url": "/app-viewer/ugs-files?view=clomeganuggetclicker.html",
+    "engine": "ugs"
+  },
+  {
+    "name": "cookie clicker",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/cookieclick.jpg",
+    "url": "/app-viewer/seraph/?view=cookieclicker/index.html",
+    "engine": "seraph"
+  },
+  {
+    "name": "clicker heroes",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/clickerheroes.jpg",
+    "url": "/app-viewer/seraph/?view=clickerheroes/index.html",
+    "engine": "seraph"
+  },
+  {
+    "name": "csgo clicker",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/csgoclicker.jpg",
+    "url": "/app-viewer/seraph/?view=csgoclicker/index.html",
+    "engine": "seraph"
+  },
+  {
+    "name": "Capybara Clicker",
+    "img": "https://cdn.jsdelivr.net/gh/carbonicality/ChickenKingsVault@main/gameimages/capybaraclicker.png",
+    "url": "/app-viewer/chicken-kings-vault/?view=capybaraclicker.html",
+    "engine": "ckv"
+  },
+  {
+    "name": "Cookie Clicker",
+    "img": "https://cdn.jsdelivr.net/gh/carbonicality/ChickenKingsVault@main/gameimages/cookieclicker.png",
+    "url": "/app-viewer/chicken-kings-vault/?view=cookieclicker.html",
+    "engine": "ckv"
+  },
+  {
+    "name": "CSGO Clicker",
+    "img": "https://cdn.jsdelivr.net/gh/carbonicality/ChickenKingsVault@main/gameimages/csgoclicker.png",
+    "url": "/app-viewer/chicken-kings-vault/?view=csgoclicker.html",
+    "engine": "ckv"
+  },
+  {
+    "name": "Room Clicker",
+    "img": "https://cdn.jsdelivr.net/gh/carbonicality/ChickenKingsVault@main/gameimages/roomclicker.jpg",
+    "url": "/app-viewer/chicken-kings-vault/?view=roomclicker.html",
+    "engine": "ckv"
+  },
+  {
+    "name": "Spacebar Clicker",
+    "img": "https://cdn.jsdelivr.net/gh/carbonicality/ChickenKingsVault@main/gameimages/spacebarclicker.png",
+    "url": "/app-viewer/chicken-kings-vault/?view=spacebarclicker.html",
+    "engine": "ckv"
+  },
+  {
+    "name": "Capybara Clicker",
+    "img": "https://cdn.jsdelivr.net/gh/tharuniscool/hydra-assets@main/thumbs/capybara-clicker.avif",
+    "url": "/app-viewer/hydra-network/?view=capybara-clicker.html",
+    "engine": "hydra"
+  },
+  {
+    "name": "Cookie Clicker",
+    "img": "https://cdn.jsdelivr.net/gh/tharuniscool/hydra-assets@main/thumbs/cookie-clicker.avif",
+    "url": "/app-viewer/hydra-network/?view=cookie-clicker.html",
+    "engine": "hydra"
+  },
+  {
+    "name": "Omega Nugget Clicker",
+    "img": "https://cdn.jsdelivr.net/gh/tharuniscool/hydra-assets@main/thumbs/omega-nugget-clicker.avif",
+    "url": "/app-viewer/hydra-network/?view=omega-nugget-clicker.html",
+    "engine": "hydra"
+  },
+  {
+    "name": "Room Clicker",
+    "img": "https://cdn.jsdelivr.net/gh/tharuniscool/hydra-assets@main/thumbs/room-clicker.avif",
+    "url": "/app-viewer/hydra-network/?view=room-clicker.html",
+    "engine": "hydra"
+  },
+  {
+    "name": "Space Bar Clicker",
+    "img": "https://cdn.jsdelivr.net/gh/tharuniscool/hydra-assets@main/thumbs/space-bar-clicker.avif",
+    "url": "/app-viewer/hydra-network/?view=space-bar-clicker.html",
+    "engine": "hydra"
+  },
+  {
+    "name": "Sprunki Clicker",
+    "img": "https://cdn.jsdelivr.net/gh/tharuniscool/hydra-assets@main/thumbs/sprunki-clicker.avif",
+    "url": "/app-viewer/hydra-network/?view=sprunki-clicker.html",
+    "engine": "hydra"
+  },
+  {
+    "name": "Spacebar Clicker",
+    "img": "https://cdn.jsdelivr.net/gh/ccported/games@main/game_a0b3_f94edd1ed5f6f/thumb.jpg",
+    "url": "/app-viewer/ccported/?view=41",
+    "engine": "ccported"
+  },
+  {
+    "name": "Cookie Clicker",
+    "img": "https://cdn.jsdelivr.net/gh/ccported/games@main/game_d6fc_1da341a63fda5/thumb.jpg",
+    "url": "/app-viewer/ccported/?view=113",
+    "engine": "ccported"
+  },
+  {
+    "name": "Cookie Clicker",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/Bloxcraft-UBG@main/Google_Classroom_Logo.svg.png",
+    "url": "/app-viewer/google-class/?view=cookie-clicker.html",
+    "engine": "googleclass"
+  },
+  {
+    "name": "Cookie Clicker",
+    "img": "https://cdn.jsdelivr.net/gh/aukak/truffled@main/public/png/games/cookie.webp",
+    "url": "/sail/embed/#https://truffled.lol/games/cookie-clicker/index.html",
+    "engine": "truffled"
+  },
+  {
+    "name": "Csgo Clicker",
+    "img": "https://cdn.jsdelivr.net/gh/aukak/truffled@main/public/png/games/csgo.webp",
+    "url": "/sail/embed/#https://truffled.lol/games/csgo-clicker/index.html",
+    "engine": "truffled"
+  },
+  {
+    "name": "Case Clicker",
+    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/case%20clicker.webp",
+    "url": "/app-viewer/alexr-world-s/?view=Case%20Clicker",
+    "engine": "alexrworlds"
+  },
+  {
+    "name": "Cookie Clicker",
+    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/dskjfoisjfsjio.github.io/main/assets/game%20images/cookieclicker.jpg",
+    "url": "/app-viewer/alexr-world-s/?view=Cookie%20Clicker",
+    "engine": "alexrworlds"
+  },
+  {
+    "name": "Capybara Clicker",
+    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/capybaraclicker.jpeg",
+    "url": "/app-viewer/alexr-world-s/?view=Capybara%20Clicker",
+    "engine": "alexrworlds"
+  },
+  {
+    "name": "Spacebar Clicker",
+    "img": "/1f3ae.png",
+    "url": "/app-viewer/alexr-world-s/?view=Spacebar%20Clicker",
+    "engine": "alexrworlds"
+  },
+  {
+    "name": "cookie-clicker",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/LupineVault@main/assets/images/games/tile/cookie-clicker.png",
+    "url": "/app-viewer/LupineVault/?view=cookie-clicker",
+    "engine": "lupine"
+  },
+  {
+    "name": "csgo-clicker",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/LupineVault@main/assets/images/games/tile/csgo-clicker.png",
+    "url": "/app-viewer/LupineVault/?view=csgo-clicker",
+    "engine": "lupine"
+  },
+  {
+    "name": "particle-clicker",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/LupineVault@main/assets/images/games/tile/particle-clicker.png",
+    "url": "/app-viewer/LupineVault/?view=particle-clicker",
+    "engine": "lupine"
+  },
+  {
+    "name": "cookie-clicker",
+    "img": "/1f3ae.png",
+    "url": "/app-viewer/3kh0/?view=cookie-clicker",
+    "engine": "3kh0"
+  },
+  {
+    "name": "csgo-clicker",
+    "img": "/1f3ae.png",
+    "url": "/app-viewer/3kh0/?view=csgo-clicker",
+    "engine": "3kh0"
+  },
+  {
+    "name": "particle-clicker",
+    "img": "/1f3ae.png",
+    "url": "/app-viewer/3kh0/?view=particle-clicker",
+    "engine": "3kh0"
+  },
+  {
+    "name": "particleclicker",
+    "img": "/1f3ae.png",
+    "url": "/app-viewer/3kh0/?view=particleclicker",
+    "engine": "3kh0"
+  },
+  {
+    "name": "robuxclicker",
+    "img": "/1f3ae.png",
+    "url": "/app-viewer/3kh0/?view=robuxclicker",
+    "engine": "3kh0"
+  },
+  {
+    "name": "Cookie Clicker",
+    "img": "https://raw.githack.com/3kh0/3kh0-lite/main/projects/cookie-clicker/cookie1.jpeg",
+    "url": "/app-viewer/3kh0/lite/?view=projects%2Fcookie-clicker%2Findex.html",
+    "engine": "3kh0lite"
+  },
+  {
+    "name": "Doge Miner",
+    "img": "https://cdn.jsdelivr.net/gh/freebuisness/covers@main//511.png",
+    "url": "/app-viewer/gn-math/?gn-id=511",
+    "engine": "gn"
+  },
+  {
+    "name": "Doge Miner",
+    "img": "/1f3ae.png",
+    "url": "/app-viewer/sea-bean?view=53",
+    "engine": "sea"
+  },
+  {
+    "name": "dogeminer",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/5968517.png",
+    "url": "/app-viewer/ugs-files?view=cldogeminer.html",
+    "engine": "ugs"
+  },
+  {
+    "name": "dogeminer2",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/5968517.png",
+    "url": "/app-viewer/ugs-files?view=cldogeminer2.html",
+    "engine": "ugs"
+  },
+  {
+    "name": "doge miner",
+    "img": "https://cdn.jsdelivr.net/gh/a456pur/seraph@main/images/thumbnails/dogeminer.jpg",
+    "url": "/app-viewer/seraph/?view=dogeminer/index.html",
+    "engine": "seraph"
+  },
+  {
+    "name": "Doge Miner",
+    "img": "https://cdn.jsdelivr.net/gh/carbonicality/ChickenKingsVault@main/gameimages/dogeminer.png",
+    "url": "/app-viewer/chicken-kings-vault/?view=dogeminer.html",
+    "engine": "ckv"
+  },
+  {
+    "name": "Doge Miner 2",
+    "img": "https://cdn.jsdelivr.net/gh/carbonicality/ChickenKingsVault@main/gameimages/dogeminer2.png",
+    "url": "/app-viewer/chicken-kings-vault/?view=dogeminer2.html",
+    "engine": "ckv"
+  },
+  {
+    "name": "Doge Miner",
+    "img": "https://cdn.jsdelivr.net/gh/tharuniscool/hydra-assets@main/thumbs/doge-miner.avif",
+    "url": "/app-viewer/hydra-network/?view=doge-miner.html",
+    "engine": "hydra"
+  },
+  {
+    "name": "Doge Miner 2",
+    "img": "https://cdn.jsdelivr.net/gh/tharuniscool/hydra-assets@main/thumbs/doge-miner-2.avif",
+    "url": "/app-viewer/hydra-network/?view=doge-miner-2.html",
+    "engine": "hydra"
+  },
+  {
+    "name": "Doge Miner",
+    "img": "https://cdn.jsdelivr.net/gh/aukak/truffled@main/public/png/games/doge.webp",
+    "url": "/sail/embed/#https://truffled.lol/gamefile/Doge Miner.html",
+    "engine": "truffled"
+  },
+  {
+    "name": "Doge Miner 2",
+    "img": "https://cdn.jsdelivr.net/gh/aukak/truffled@main/public/png/games/dogeminer2.webp",
+    "url": "/sail/embed/#https://truffled.lol/gamefile/dm2.html",
+    "engine": "truffled"
+  },
+  {
+    "name": "Doge Miner",
+    "img": "https://raw.githubusercontent.com/dskjfoisjfsjio/Standalone-games/main/assets/doge miner.webp",
+    "url": "/app-viewer/alexr-world-s/?view=Doge%20Miner",
+    "engine": "alexrworlds"
+  },
+  {
+    "name": "doge-miner",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/LupineVault@main/assets/images/games/tile/doge-miner.png",
+    "url": "/app-viewer/LupineVault/?view=doge-miner",
+    "engine": "lupine"
+  },
+  {
+    "name": "doge-miner-2",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/LupineVault@main/assets/images/games/tile/doge-miner-2.png",
+    "url": "/app-viewer/LupineVault/?view=doge-miner-2",
+    "engine": "lupine"
+  },
+  {
+    "name": "DogeMiner",
+    "img": "/1f3ae.png",
+    "url": "/app-viewer/3kh0/?view=DogeMiner",
+    "engine": "3kh0"
+  },
+  {
+    "name": "Dogeminer2",
+    "img": "/1f3ae.png",
+    "url": "/app-viewer/3kh0/?view=Dogeminer2",
+    "engine": "3kh0"
+  },
+  {
+    "name": "doge2048",
+    "img": "/1f3ae.png",
+    "url": "/app-viewer/3kh0/?view=doge2048",
+    "engine": "3kh0"
+  },
+  {
+    "name": "Doge Miner",
+    "img": "https://raw.githack.com/3kh0/3kh0-lite/main/projects/DogeMiner/img/dogeminer_300x300.png",
+    "url": "/app-viewer/3kh0/lite/?view=projects%2FDogeMiner%2Findex.html",
+    "engine": "3kh0lite"
+  },
+  {
+    "name": "Doge Miner",
+    "img": "https://math-quests-cc.dk-ubg.workers.dev/resources/semag/dogeminer/img/dogeminer_300x300.png",
+    "url": "/sail/embed/#https://selenite.cc/resources/semag/dogeminer/index.html",
+    "engine": "selenite"
+  },
+  {
+    "name": "Doge Miner 2",
+    "img": "https://math-quests-cc.dk-ubg.workers.dev/resources/semag/dogeminer2/dogeloader.svg",
+    "url": "/sail/embed/#https://selenite.cc/resources/semag/dogeminer2/index.html",
+    "engine": "selenite"
+  },
+  {
+    "name": "Doge Miner",
+    "img": "https://math-of-cc.dk-ubg.workers.dev/assets/games/dogeminer.png",
+    "url": "/sail/embed/#https://velara.cc/assets/games/dogeminer.html",
+    "engine": "velera"
+  },
+  {
+    "name": "Dogeminer 2",
+    "img": "https://math-of-cc.dk-ubg.workers.dev/assets/games/dogeminer2.png",
+    "url": "/sail/embed/#https://velara.cc/assets/games/dogeminer2.html",
+    "engine": "velera"
+  },
+  {
+    "name": "DogeMiner",
+    "img": "https://multible-questions.dk-ubg.workers.dev/bloxcraft/imagebloxy67/https://mathsframe.github.io/alllogo/DogeMiner/logo.jpg",
+    "url": "/sail/embed/#https://hva2021.github.io/DogeMiner/index.html",
+    "engine": "ubg42"
+  }
+]
