@@ -1,32 +1,28 @@
-const CACHE_NAME = 'newtab-offline-cache-v1';
-const OFFLINE_URL = '/newtab';
-
+const CACHE_NAME = 'newtab-complete-cache-v1';
+const NEWTAB_PATH = '/newtab';
 
 self.addEventListener('install', (event) => {
     event.waitUntil(
         caches.open(CACHE_NAME).then((cache) => {
-       
-            return cache.add(OFFLINE_URL);
+            return cache.add(NEWTAB_PATH);
         }).then(() => self.skipWaiting())
     );
 });
-
 
 self.addEventListener('activate', (event) => {
     event.waitUntil(self.clients.claim());
 });
 
-
 self.addEventListener('fetch', (event) => {
-    const url = new URL(event.request.url);
+    const requestUrl = new URL(event.request.url);
+    const isMainNewTabRequest = requestUrl.pathname === NEWTAB_PATH;
+    const isAssetFromNewTabPage = event.request.referrer && event.request.referrer.includes(NEWTAB_PATH);
 
-
-    if (url.pathname === '/newtab') {
+    if (isMainNewTabRequest || isAssetFromNewTabPage) {
         event.respondWith(
             fetch(event.request)
                 .then((networkResponse) => {
-            
-                    if (networkResponse.status === 200) {
+                    if (networkResponse.status === 200 || networkResponse.type === 'opaque') {
                         const responseClone = networkResponse.clone();
                         caches.open(CACHE_NAME).then((cache) => {
                             cache.put(event.request, responseClone);
@@ -35,9 +31,16 @@ self.addEventListener('fetch', (event) => {
                     return networkResponse;
                 })
                 .catch(() => {
-                  
-                    return caches.match(OFFLINE_URL);
+                    return caches.match(event.request).then((cachedResponse) => {
+                        if (cachedResponse) {
+                            return cachedResponse;
+                        }
+                        if (event.request.mode === 'navigate') {
+                            return caches.match(NEWTAB_PATH);
+                        }
+                    });
                 })
         );
     }
 });
+
