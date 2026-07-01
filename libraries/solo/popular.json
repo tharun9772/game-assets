@@ -1,0 +1,27 @@
+[
+  {
+    "name": "minecraft",
+    "img": "https://stromg-quests.dk-ubg.workers.dev/books/minecraft.webp",
+    "url": "/sail/embed/#play.qatual.com/selfhosted/minemath/"
+  },
+  {
+    "name": "roblox",
+    "img": "https://stromg-quests.dk-ubg.workers.dev/books/roblox.webp",
+    "url": "/sail/embed/#play.qatual.com/gxmez/roblox.html"
+  },
+  {
+    "name": "fortnite",
+    "img": "https://stromg-quests.dk-ubg.workers.dev/books/fortnite.webp",
+    "url": "/sail/embed/#play.qatual.com/gxmez/fortnite.html"
+  },
+  {
+    "name": "among us",
+    "img": "https://stromg-quests.dk-ubg.workers.dev/books/among.webp",
+    "url": "/sail/embed/#play.qatual.com/gsrc/amongus/index.html"
+  },
+  {
+    "name": "subway surfers",
+    "img": "https://stromg-quests.dk-ubg.workers.dev/books/subway.webp",
+    "url": "/sail/embed/#play.qatual.com/gsrc/subway/index.html"
+  }
+]
