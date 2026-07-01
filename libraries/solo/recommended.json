@@ -1,0 +1,27 @@
+[
+  {
+    "name": "undertale",
+    "img": "https://stromg-quests.dk-ubg.workers.dev/books/undertale.webp",
+    "url": "/sail/embed/#play.qatual.com/gsrc/undertale.html"
+  },
+  {
+    "name": "hollow knight",
+    "img": "https://stromg-quests.dk-ubg.workers.dev/books/hollow-knight.webp",
+    "url": "/sail/embed/#play.qatual.com/gxmez/hollow-knight.html"
+  },
+  {
+    "name": "celeste",
+    "img": "https://stromg-quests.dk-ubg.workers.dev/books/celeste.webp",
+    "url": "/sail/embed/#play.qatual.com/gsrc/celeste/index.html"
+  },
+  {
+    "name": "infinite craft",
+    "img": "https://stromg-quests.dk-ubg.workers.dev/books/infinitecraft.webp",
+    "url": "/sail/embed/#play.qatual.com/gxmez/infinitecraft.html"
+  },
+  {
+    "name": "super mario 64",
+    "img": "https://stromg-quests.dk-ubg.workers.dev/books/super-mario-64.webp",
+    "url": "/sail/embed/#play.qatual.com/emulatorjs/m64/index.html"
+  }
+]
