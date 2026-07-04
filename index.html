@@ -1,128 +1,638 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Math Hub</title>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Roboto', sans-serif;
-      background-color: #f4f6f9;
-      color: #333;
-    }
-    header {
-      background-color: #003366;
-      color: white;
-      padding: 20px;
-      text-align: center;
-    }
-    header h1 {
-      margin: 0;
-      font-size: 2.2em;
-    }
-    nav {
-      background-color: #0055a5;
-      display: flex;
-      justify-content: center;
-      padding: 10px 0;
-    }
-    nav a {
-      color: white;
-      margin: 0 15px;
-      text-decoration: none;
-      font-weight: bold;
-      transition: 0.3s;
-    }
-    nav a:hover {
-      text-decoration: underline;
-    }
-    .hero {
-      background: url('https://images.unsplash.com/photo-1609992320905-6cc88ecad75f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80') center/cover no-repeat;
-      height: 300px;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      color: white;
-      font-size: 2em;
-      font-weight: bold;
-      text-shadow: 2px 2px 8px rgba(0,0,0,0.7);
-    }
-    .container {
-      max-width: 1100px;
-      margin: 30px auto;
-      padding: 0 20px;
-      display: grid;
-      grid-template-columns: 2fr 1fr;
-      gap: 20px;
-    }
-    .card {
-      background: white;
-      padding: 20px;
-      border-radius: 10px;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-      margin-bottom: 20px;
-    }
-    .card h2 {
-      margin-top: 0;
-      color: #003366;
-    }
-    footer {
-      background-color: #003366;
-      color: white;
-      text-align: center;
-      padding: 15px;
-      margin-top: 30px;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Academic Study Center | 100+ Term Glossary & Quiz</title>
+    <style>
+        :root {
+            --primary-color: #1e3a8a;
+            --secondary-color: #0284c7;
+            --accent-color: #f59e0b;
+            --background-color: #f8fafc;
+            --text-color: #334155;
+            --card-bg: #ffffff;
+            --success-color: #22c55e;
+            --danger-color: #ef4444;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            background-color: var(--background-color);
+            color: var(--text-color);
+            line-height: 1.6;
+        }
+
+        header {
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            color: white;
+            padding: 2.5rem 1rem;
+            text-align: center;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        nav {
+            display: flex;
+            justify-content: center;
+            background: #ffffff;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        nav a {
+            color: var(--text-color);
+            text-decoration: none;
+            padding: 1rem 2rem;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+        nav a:hover, nav a.active {
+            color: var(--secondary-color);
+            border-bottom: 3px solid var(--secondary-color);
+        }
+
+        main {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+
+        .search-container {
+            margin-bottom: 2rem;
+            text-align: center;
+        }
+
+        .search-bar {
+            width: 100%;
+            max-width: 600px;
+            padding: 0.8rem 1.5rem;
+            font-size: 1rem;
+            border: 2px solid #e2e8f0;
+            border-radius: 50px;
+            outline: none;
+            transition: border-color 0.3s;
+        }
+
+        .search-bar:focus {
+            border-color: var(--secondary-color);
+        }
+
+        .subject-section {
+            margin-bottom: 3rem;
+        }
+
+        .subject-title {
+            color: var(--primary-color);
+            border-bottom: 2px solid #e2e8f0;
+            padding-bottom: 0.5rem;
+            margin-bottom: 1.5rem;
+            font-size: 1.8rem;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .card {
+            background: var(--card-bg);
+            border-radius: 8px;
+            padding: 1.5rem;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.02);
+            border-left: 4px solid var(--secondary-color);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.05);
+        }
+
+        .card h3 {
+            color: var(--primary-color);
+            margin-bottom: 0.5rem;
+        }
+
+        /* Quiz Styles */
+        .quiz-container {
+            background: white;
+            border-radius: 12px;
+            padding: 2rem;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .quiz-question {
+            font-size: 1.2rem;
+            font-weight: 600;
+            margin-bottom: 1.5rem;
+        }
+
+        .quiz-options {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .option-btn {
+            background: #f1f5f9;
+            border: 2px solid #e2e8f0;
+            border-radius: 6px;
+            padding: 1rem;
+            text-align: left;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .option-btn:hover {
+            background: #e2e8f0;
+        }
+
+        .option-btn.correct {
+            background: #dcfce7;
+            border-color: var(--success-color);
+            color: #166534;
+        }
+
+        .option-btn.wrong {
+            background: #fee2e2;
+            border-color: var(--danger-color);
+            color: #991b1b;
+        }
+
+        .quiz-actions {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .btn {
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+            padding: 0.75rem 1.5rem;
+            font-size: 1rem;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 600;
+        }
+
+        .btn:hover {
+            background-color: var(--secondary-color);
+        }
+
+        .score-display {
+            font-size: 1.1rem;
+            font-weight: bold;
+        }
+
+        .hidden {
+            display: none !important;
+        }
+
+        footer {
+            text-align: center;
+            padding: 2rem;
+            background: #1e293b;
+            color: #94a3b8;
+            margin-top: 4rem;
+        }
+    </style>
 </head>
 <body>
-  <header>
-    <h1>Math Hub</h1>
-    <p>Excellence • Integrity • Community</p>
-  </header>
 
-  <nav>
-    <a href="#home">Home</a>
-    <a href="https://bloxcraft-ubg.pages.dev/games">Math Website</a>
-    <a href="/math-sheets">Math Sheets</a>
-    <a href="#about">About Us</a>
-    <a href="#math">Math</a>
-  </nav>
+    <header>
+        <h1>Academic Master Glossary & Study Hub</h1>
+        <p>An interactive directory housing 108 essential terms across 4 core subjects</p>
+    </header>
 
-  <div class="hero">
-    Welcome to Math Hub!
-  </div>
+    <nav>
+        <a href="#" id="nav-glossary" class="active" onclick="showView('glossary')">Glossary Directory</a>
+        <a href="#" id="nav-quiz" onclick="showView('quiz')">Interactive Quiz</a>
+    </nav>
 
-  <div class="container">
-    <div>
-      <div class="card">
-        <h2>Message</h2>
-        <p>Welcome to the site! print cool worksheets and play math games!</p>
-      </div>
+    <main>
+        <div id="glossary-view">
+            <div class="search-container">
+                <input type="text" id="searchBar" class="search-bar" placeholder="Type to search terms or definition keywords instantly...">
+            </div>
 
-      <div class="card">
-        <h2>Top Math Games</h2>
-        <ul>
-          <li>Partnering</li>
-          <li>2048</li>
-          <li>Long Divison</li>
-        </ul>
-      </div>
-    </div>
+            <section class="subject-section">
+                <h2 class="subject-title">📐 Mathematics</h2>
+                <div class="grid" id="math-grid">
+                    <div class="card" data-term="absolute value"><h3>Absolute Value</h3><p>The distance of a number from zero on a number line, ignoring whether it is positive or negative.</p></div>
+                    <div class="card" data-term="acute angle"><h3>Acute Angle</h3><p>An angle that measures greater than 0° and less than 90°.</p></div>
+                    <div class="card" data-term="algorithm"><h3>Algorithm</h3><p>A step-by-step set of operations or instructions to be followed in calculations or problem-solving.</p></div>
+                    <div class="card" data-term="area"><h3>Area</h3><p>The total size of a two-dimensional surface contained within a specific boundary.</p></div>
+                    <div class="card" data-term="asymptote"><h3>Asymptote</h3><p>A straight line that a curve approaches closer and closer but never quite touches or crosses.</p></div>
+                    <div class="card" data-term="binomial"><h3>Binomial</h3><p>An algebraic expression that contains exactly two terms (such as x + y).</p></div>
+                    <div class="card" data-term="calculus"><h3>Calculus</h3><p>The branch of mathematics that deals with the finding and properties of derivatives and integrals of functions.</p></div>
+                    <div class="card" data-term="circumference"><h3>Circumference</h3><p>The linear distance around the outside edge of a circle.</p></div>
+                    <div class="card" data-term="coefficient"><h3>Coefficient</h3><p>A number or constant value placed before and multiplying a variable (such as the 4 in 4x).</p></div>
+                    <div class="card" data-term="denominator"><h3>Denominator</h3><p>The bottom integer in a fraction that represents the total number of equal parts into which a whole is divided.</p></div>
+                    <div class="card" data-term="diameter"><h3>Diameter</h3><p>A straight line passing from one side of a circle to another through its exact center.</p></div>
+                    <div class="card" data-term="equation"><h3>Equation</h3><p>A mathematical statement containing an equals sign (=) to show that two expressions have the same value.</p></div>
+                    <div class="card" data-term="exponent"><h3>Exponent</h3><p>A number that tells how many times a base number is multiplied by itself.</p></div>
+                    <div class="card" data-term="factor"><h3>Factor</h3><p>A whole number that divides into another number exactly without leaving a remainder.</p></div>
+                    <div class="card" data-term="fraction"><h3>Fraction</h3><p>A part of a whole number, written as one value over another separated by a dividing line.</p></div>
+                    <div class="card" data-term="geometry"><h3>Geometry</h3><p>The branch of mathematics that studies the sizes, shapes, positions, and dimensions of things.</p></div>
+                    <div class="card" data-term="hypotenuse"><h3>Hypotenuse</h3><p>The longest side of a right-angled triangle, always located directly opposite the right angle.</p></div>
+                    <div class="card" data-term="integer"><h3>Integer</h3><p>Any whole number that can be positive, negative, or zero (with no decimals or fractions).</p></div>
+                    <div class="card" data-term="matrix"><h3>Matrix</h3><p>A grid or rectangular array of numbers arranged in horizontal rows and vertical columns.</p></div>
+                    <div class="card" data-term="mean"><h3>Mean</h3><p>The mathematical average of a set of numbers, found by adding them all together and dividing by the total count.</p></div>
+                    <div class="card" data-term="median"><h3>Median</h3><p>The middle value in a list of numbers sorted in order from smallest to largest.</p></div>
+                    <div class="card" data-term="mode"><h3>Mode</h3><p>The specific number or value that appears most frequently in a given data set.</p></div>
+                    <div class="card" data-term="numerator"><h3>Numerator</h3><p>The top integer in a fraction that shows how many parts of the whole are being counted.</p></div>
+                    <div class="card" data-term="obtuse angle"><h3>Obtuse Angle</h3><p>An angle that measures greater than 90° but less than 180°.</p></div>
+                    <div class="card" data-term="parabola"><h3>Parabola</h3><p>A U-shaped symmetrical curve formed by the graph of a quadratic equation.</p></div>
+                    <div class="card" data-term="perimeter"><h3>Perimeter</h3><p>The total distance around the outermost edge of a two-dimensional shape.</p></div>
+                </div>
+                <div class="card" data-term="abscissa"><h3>Abscissa</h3><p>The horizontal (x) coordinate of a point on the Cartesian plane.</p></div>
+                
+<div class="card" data-term="addend"><h3>Addend</h3><p>A number that is added to another number to form a sum.</p></div>
+<div class="card" data-term="algebra"><h3>Algebra</h3><p>The branch of mathematics that uses symbols and variables to represent numbers and relationships.</p></div>
+<div class="card" data-term="angle bisector"><h3>Angle Bisector</h3><p>A ray or line that divides an angle into two equal angles.</p></div>
+<div class="card" data-term="annulus"><h3>Annulus</h3><p>The region between two concentric circles.</p></div>
+<div class="card" data-term="apothem"><h3>Apothem</h3><p>The perpendicular distance from the center of a regular polygon to one of its sides.</p></div>
+<div class="card" data-term="arc"><h3>Arc</h3><p>A portion of the circumference of a circle.</p></div>
+<div class="card" data-term="arithmetic"><h3>Arithmetic</h3><p>The study of numbers and the basic operations of addition, subtraction, multiplication, and division.</p></div>
+<div class="card" data-term="associative property"><h3>Associative Property</h3><p>A property stating that changing the grouping of numbers does not change the result.</p></div>
+<div class="card" data-term="axis"><h3>Axis</h3><p>A reference line used to measure coordinates or symmetry.</p></div>
 
-    <div>
-      <div class="card">
-        <h2>Announcements</h2>
-        <p>New math games! we added fun and educational games!</p>
-        <p>New math worksheets!</p>
-      </div>
-    </div>
-  </div>
+<div class="card" data-term="base"><h3>Base</h3><p>The bottom side of a geometric figure or the number raised to a power.</p></div>
+<div class="card" data-term="bijection"><h3>Bijection</h3><p>A function where every input maps to a unique output and every output has exactly one input.</p></div>
+<div class="card" data-term="boundary"><h3>Boundary</h3><p>The edge or limit surrounding a geometric region.</p></div>
+<div class="card" data-term="cardinality"><h3>Cardinality</h3><p>The number of elements contained in a set.</p></div>
+<div class="card" data-term="cartesian plane"><h3>Cartesian Plane</h3><p>A coordinate system formed by perpendicular x- and y-axes.</p></div>
+<div class="card" data-term="center"><h3>Center</h3><p>The point equidistant from every point on a circle or sphere.</p></div>
+<div class="card" data-term="central angle"><h3>Central Angle</h3><p>An angle whose vertex is at the center of a circle.</p></div>
+<div class="card" data-term="chord"><h3>Chord</h3><p>A line segment joining two points on a circle.</p></div>
+<div class="card" data-term="commutative property"><h3>Commutative Property</h3><p>A property stating that changing the order of numbers does not change the result for addition or multiplication.</p></div>
+<div class="card" data-term="complementary angles"><h3>Complementary Angles</h3><p>Two angles whose measures add up to 90 degrees.</p></div>
 
-  <footer>
-    <p>Math Hub - Ultimate Place To Do Math</p>
-  </footer>
+<div class="card" data-term="complex number"><h3>Complex Number</h3><p>A number containing both a real part and an imaginary part.</p></div>
+<div class="card" data-term="cone"><h3>Cone</h3><p>A three-dimensional shape with one circular base and a single vertex.</p></div>
+<div class="card" data-term="congruent"><h3>Congruent</h3><p>Having the same size and shape.</p></div>
+<div class="card" data-term="constant"><h3>Constant</h3><p>A fixed value that does not change.</p></div>
+<div class="card" data-term="coordinate"><h3>Coordinate</h3><p>A value that identifies the location of a point.</p></div>
+<div class="card" data-term="coordinate plane"><h3>Coordinate Plane</h3><p>A flat surface formed by two perpendicular number lines.</p></div>
+<div class="card" data-term="coprime"><h3>Coprime</h3><p>Two integers whose greatest common factor is 1.</p></div>
+<div class="card" data-term="correlation"><h3>Correlation</h3><p>A measure of the relationship between two variables.</p></div>
+<div class="card" data-term="cube"><h3>Cube</h3><p>A three-dimensional solid with six equal square faces.</p></div>
+<div class="card" data-term="cube root"><h3>Cube Root</h3><p>A number that, when multiplied by itself three times, equals a given value.</p></div>
+
+<div class="card" data-term="cylinder"><h3>Cylinder</h3><p>A solid with two parallel circular bases connected by a curved surface.</p></div>
+<div class="card" data-term="decimal"><h3>Decimal</h3><p>A number written using a decimal point to separate whole and fractional parts.</p></div>
+<div class="card" data-term="degree"><h3>Degree</h3><p>A unit used to measure angles.</p></div>
+<div class="card" data-term="diagonal"><h3>Diagonal</h3><p>A line segment connecting two non-adjacent vertices of a polygon.</p></div>
+<div class="card" data-term="difference"><h3>Difference</h3><p>The result obtained by subtraction.</p></div>
+<div class="card" data-term="digit"><h3>Digit</h3><p>Any of the symbols 0 through 9 used to write numbers.</p></div>
+<div class="card" data-term="dimension"><h3>Dimension</h3><p>A measurable extent such as length, width, or height.</p></div>
+<div class="card" data-term="direct variation"><h3>Direct Variation</h3><p>A relationship where one variable changes proportionally with another.</p></div>
+<div class="card" data-term="dividend"><h3>Dividend</h3><p>The number being divided.</p></div>
+<div class="card" data-term="divisor"><h3>Divisor</h3><p>The number by which another number is divided.</p></div>
+
+<div class="card" data-term="domain"><h3>Domain</h3><p>The complete set of possible input values for a function.</p></div>
+<div class="card" data-term="edge"><h3>Edge</h3><p>The line where two faces of a solid meet.</p></div>
+<div class="card" data-term="ellipse"><h3>Ellipse</h3><p>A closed curve where the sum of distances to two fixed points is constant.</p></div>
+<div class="card" data-term="empty set"><h3>Empty Set</h3><p>A set containing no elements.</p></div>
+<div class="card" data-term="estimate"><h3>Estimate</h3><p>An approximate calculation or value.</p></div>
+<div class="card" data-term="even number"><h3>Even Number</h3><p>An integer divisible by 2 without a remainder.</p></div>
+<div class="card" data-term="expression"><h3>Expression</h3><p>A mathematical phrase made of numbers, variables, and operations.</p></div>
+<div class="card" data-term="face"><h3>Face</h3><p>A flat surface on a three-dimensional figure.</p></div>
+<div class="card" data-term="finite"><h3>Finite</h3><p>Having a limited number of elements or size.</p></div>
+<div class="card" data-term="formula"><h3>Formula</h3><p>A mathematical rule expressed using symbols.</p></div>
+
+<div class="card" data-term="function"><h3>Function</h3><p>A relation where each input has exactly one output.</p></div>
+<div class="card" data-term="geometric sequence"><h3>Geometric Sequence</h3><p>A sequence where each term is multiplied by the same constant ratio.</p></div>
+<div class="card" data-term="greatest common factor"><h3>Greatest Common Factor</h3><p>The largest factor shared by two or more numbers.</p></div>
+<div class="card" data-term="hexagon"><h3>Hexagon</h3><p>A polygon with six sides and six angles.</p></div>
+<div class="card" data-term="identity"><h3>Identity</h3><p>An equation that is true for all values of its variables.</p></div>
+<div class="card" data-term="imaginary number"><h3>Imaginary Number</h3><p>A number involving the square root of negative one.</p></div>
+<div class="card" data-term="improper fraction"><h3>Improper Fraction</h3><p>A fraction whose numerator is greater than or equal to its denominator.</p></div>
+<div class="card" data-term="inequality"><h3>Inequality</h3><p>A mathematical statement comparing values using symbols like &lt; or &gt;.</p></div>
+<div class="card" data-term="infinite"><h3>Infinite</h3><p>Without any limit or end.</p></div>
+<div class="card" data-term="intercept"><h3>Intercept</h3><p>The point where a graph crosses an axis.</p></div>
+
+<div class="card" data-term="intersection"><h3>Intersection</h3><p>The set of elements common to two or more sets.</p></div>
+<div class="card" data-term="inverse"><h3>Inverse</h3><p>An operation or function that reverses the effect of another.</p></div>
+<div class="card" data-term="irrational number"><h3>Irrational Number</h3><p>A number that cannot be written as a simple fraction.</p></div>
+<div class="card" data-term="isosceles triangle"><h3>Isosceles Triangle</h3><p>A triangle with at least two equal sides.</p></div>
+<div class="card" data-term="least common multiple"><h3>Least Common Multiple</h3><p>The smallest multiple shared by two or more numbers.</p></div>
+<div class="card" data-term="line"><h3>Line</h3><p>A straight path extending infinitely in both directions.</p></div>
+<div class="card" data-term="line segment"><h3>Line Segment</h3><p>A part of a line with two endpoints.</p></div>
+<div class="card" data-term="linear equation"><h3>Linear Equation</h3><p>An equation whose graph forms a straight line.</p></div>
+<div class="card" data-term="logarithm"><h3>Logarithm</h3><p>The exponent needed to produce a number from a given base.</p></div>
+<div class="card" data-term="magnitude"><h3>Magnitude</h3><p>The size or absolute value of a quantity.</p></div>
+
+<div class="card" data-term="multiple"><h3>Multiple</h3><p>The product of a number and an integer.</p></div>
+<div class="card" data-term="natural number"><h3>Natural Number</h3><p>A positive counting number.</p></div>
+<div class="card" data-term="negative number"><h3>Negative Number</h3><p>A number less than zero.</p></div>
+<div class="card" data-term="octagon"><h3>Octagon</h3><p>A polygon with eight sides.</p></div>
+<div class="card" data-term="odd number"><h3>Odd Number</h3><p>An integer not divisible by 2.</p></div>
+<div class="card" data-term="origin"><h3>Origin</h3><p>The point (0,0) on the coordinate plane.</p></div>
+<div class="card" data-term="parallel lines"><h3>Parallel Lines</h3><p>Lines that never intersect because they remain the same distance apart.</p></div>
+<div class="card" data-term="pentagon"><h3>Pentagon</h3><p>A polygon with five sides.</p></div>
+<div class="card" data-term="percent"><h3>Percent</h3><p>A ratio expressed out of one hundred.</p></div>
+<div class="card" data-term="perpendicular lines"><h3>Perpendicular Lines</h3><p>Lines that intersect to form right angles.</p></div>
+
+<div class="card" data-term="plane"><h3>Plane</h3><p>A flat two-dimensional surface extending infinitely in all directions.</p></div>
+<div class="card" data-term="point"><h3>Point</h3><p>An exact location with no size or dimensions.</p></div>
+<div class="card" data-term="polygon"><h3>Polygon</h3><p>A closed plane figure made of straight line segments.</p></div>
+<div class="card" data-term="polyhedron"><h3>Polyhedron</h3><p>A three-dimensional solid with flat polygonal faces.</p></div>
+<div class="card" data-term="positive number"><h3>Positive Number</h3><p>A number greater than zero.</p></div>
+<div class="card" data-term="prime number"><h3>Prime Number</h3><p>A whole number greater than one with exactly two positive factors.</p></div>
+<div class="card" data-term="prism"><h3>Prism</h3><p>A solid with two parallel congruent polygonal bases.</p></div>
+<div class="card" data-term="probability"><h3>Probability</h3><p>The likelihood that an event will occur.</p></div>
+<div class="card" data-term="product"><h3>Product</h3><p>The result of multiplication.</p></div>
+<div class="card" data-term="proportion"><h3>Proportion</h3><p>An equation showing two ratios are equal.</p></div>
+
+<div class="card" data-term="pyramid"><h3>Pyramid</h3><p>A solid with a polygonal base and triangular faces meeting at one vertex.</p></div>
+<div class="card" data-term="quadrilateral"><h3>Quadrilateral</h3><p>A polygon with four sides.</p></div>
+<div class="card" data-term="quadratic"><h3>Quadratic</h3><p>An expression or equation involving a variable squared.</p></div>
+<div class="card" data-term="quotient"><h3>Quotient</h3><p>The result of division.</p></div>
+<div class="card" data-term="radius"><h3>Radius</h3><p>The distance from the center of a circle to its edge.</p></div>
+<div class="card" data-term="range"><h3>Range</h3><p>The complete set of possible output values of a function.</p></div>
+<div class="card" data-term="ratio"><h3>Ratio</h3><p>A comparison of two quantities using division.</p></div>
+<div class="card" data-term="ray"><h3>Ray</h3><p>A part of a line with one endpoint extending infinitely in one direction.</p></div>
+<div class="card" data-term="reciprocal"><h3>Reciprocal</h3><p>A number that, when multiplied by the original number, equals one.</p></div>
+<div class="card" data-term="reflection"><h3>Reflection</h3><p>A transformation that flips a figure across a line.</p></div>
+
+<div class="card" data-term="regular polygon"><h3>Regular Polygon</h3><p>A polygon with all sides and angles equal.</p></div>
+<div class="card" data-term="rhombus"><h3>Rhombus</h3><p>A quadrilateral with four equal sides.</p></div>
+<div class="card" data-term="rotation"><h3>Rotation</h3><p>A transformation that turns a figure around a fixed point.</p></div>
+<div class="card" data-term="scalar"><h3>Scalar</h3><p>A quantity having magnitude but no direction.</p></div>
+<div class="card" data-term="secant"><h3>Secant</h3><p>A line that intersects a circle at two points.</p></div>
+<div class="card" data-term="sequence"><h3>Sequence</h3><p>An ordered list of numbers following a pattern.</p></div>
+<div class="card" data-term="set"><h3>Set</h3><p>A well-defined collection of distinct objects.</p></div>
+<div class="card" data-term="similar figures"><h3>Similar Figures</h3><p>Figures with the same shape but not necessarily the same size.</p></div>
+<div class="card" data-term="slope"><h3>Slope</h3><p>A measure of the steepness of a line.</p></div>
+<div class="card" data-term="sphere"><h3>Sphere</h3><p>A perfectly round three-dimensional object with every point equally distant from its center.</p></div> 
+            </section>
+
+            <section class="subject-section">
+                <h2 class="subject-title">🔬 Science</h2>
+                <div class="grid" id="science-grid">
+                    <div class="card" data-term="acid"><h3>Acid</h3><p>A chemical substance with a pH less than 7 that can donate a hydrogen ion and typically tastes sour.</p></div>
+                    <div class="card" data-term="allele"><h3>Allele</h3><p>A variant or different version of a specific gene that determines a particular trait.</p></div>
+                    <div class="card" data-term="atom"><h3>Atom</h3><p>The basic, smallest unit of a chemical element, composed of protons, neutrons, and electrons.</p></div>
+                    <div class="card" data-term="bacteria"><h3>Bacteria</h3><p>Single-celled, microscopic organisms that lack a distinct nucleus and can be beneficial or pathogenic.</p></div>
+                    <div class="card" data-term="base"><h3>Base</h3><p>A chemical substance with a pH greater than 7 that accepts hydrogen ions and typically feels slippery.</p></div>
+                    <div class="card" data-term="catalyst"><h3>Catalyst</h3><p>A substance that speeds up the rate of a chemical reaction without being consumed or altered itself.</p></div>
+                    <div class="card" data-term="cell"><h3>Cell</h3><p>The fundamental structural, functional, and biological unit of all living organisms.</p></div>
+                    <div class="card" data-term="chromosome"><h3>Chromosome</h3><p>A thread-like structure made of DNA and proteins found in the nucleus of a cell, carrying genetic data.</p></div>
+                    <div class="card" data-term="compound"><h3>Compound</h3><p>A pure substance made of two or more different chemical elements chemically bonded together.</p></div>
+                    <div class="card" data-term="dna"><h3>DNA</h3><p>Deoxyribonucleic acid; the molecule that carries genetic instructions for the development and functioning of living things.</p></div>
+                    <div class="card" data-term="ecosystem"><h3>Ecosystem</h3><p>A community of living organisms interacting with each other and their non-living physical environment.</p></div>
+                    <div class="card" data-term="electron"><h3>Electron</h3><p>A tiny, subatomic particle with a negative electric charge that orbits the nucleus of an atom.</p></div>
+                    <div class="card" data-term="element"><h3>Element</h3><p>A pure substance consisting entirely of atoms that all share the exact same number of protons.</p></div>
+                    <div class="card" data-term="evolution"><h3>Evolution</h3><p>The gradual process of change in the inherited traits of a population over successive generations.</p></div>
+                    <div class="card" data-term="homeostasis"><h3>Homeostasis</h3><p>The process by which a living organism maintains a stable internal environment despite external changes.</p></div>
+                    <div class="card" data-term="ion"><h3>Ion</h3><p>An atom or molecule that has gained or lost one or more electrons, giving it a net electric charge.</p></div>
+                    <div class="card" data-term="isotope"><h3>Isotope</h3><p>Forms of the same chemical element that have the same number of protons but different numbers of neutrons.</p></div>
+                    <div class="card" data-term="mitosis"><h3>Mitosis</h3><p>A process of cell division where a single cell divides into two genetically identical daughter cells.</p></div>
+                    <div class="card" data-term="molecule"><h3>Molecule</h3><p>The smallest particle of a specific compound, formed when two or more atoms are chemically joined.</p></div>
+                    <div class="card" data-term="neutron"><h3>Neutron</h3><p>A subatomic particle located in the nucleus of an atom that carries no electrical charge.</p></div>
+                    <div class="card" data-term="photosynthesis"><h3>Photosynthesis</h3><p>The process by which plants use sunlight, water, and carbon dioxide to create oxygen and energy in the form of sugar.</p></div>
+                    <div class="card" data-term="proton"><h3>Proton</h3><p>A subatomic particle located in the nucleus of an atom that carries a positive electrical charge.</p></div>
+                    <div class="card" data-term="respiration"><h3>Respiration</h3><p>The cellular process by which organisms convert nutrients into usable energy, often utilizing oxygen.</p></div>
+                    <div class="card" data-term="species"><h3>Species</h3><p>A specific group of living organisms that share common characteristics and are capable of interbreeding.</p></div>
+                    <div class="card" data-term="valence"><h3>Valence</h3><p>The combining capacity of an atom, determined by the number of electrons in its outermost shell.</p></div>
+                    <div class="card" data-term="acceleration"><h3>Acceleration</h3><p>The rate at which an object changes its velocity over a specific period of time.</p></div>
+                    <div class="card" data-term="atmosphere"><h3>Atmosphere</h3><p>The layers of gases surrounding a planet, held in place by that planet's gravity.</p></div>
+                    <div class="card" data-term="density"><h3>Density</h3><p>The measure of how much mass is contained within a specific unit of volume of a substance.</p></div>
+                    <div class="card" data-term="energy"><h3>Energy</h3><p>The quantitative property that must be transferred to an object in order to perform work on, or to heat, the object.</p></div>
+                    <div class="card" data-term="force"><h3>Force</h3><p>Any push or pull exerted on an object that can cause it to change its velocity or direction.</p></div>
+                    <div class="card" data-term="friction"><h3>Friction</h3><p>The resisting force that occurs when the surface of one object slides or rubs past another.</p></div>
+                    <div class="card" data-term="gravity"><h3>Gravity</h3><p>The natural attractive force that pulls objects with mass toward one another.</p></div>
+                    <div class="card" data-term="inertia"><h3>Inertia</h3><p>The natural tendency of an object to resist any change in its current state of motion or rest.</p></div>
+                    <div class="card" data-term="kinetic energy"><h3>Kinetic Energy</h3><p>The energy an object possesses due to being in active motion.</p></div>
+                    <div class="card" data-term="magma"><h3>Magma</h3><p>Molten or semi-molten rock located beneath the Earth's surface.</p></div>
+                    <div class="card" data-term="potential energy"><h3>Potential Energy</h3><p>The stored energy an object possesses because of its position, state, or configuration.</p></div>
+                    <div class="card" data-term="velocity"><h3>Velocity</h3><p>The speed of an object moving in a specified, particular direction.</p></div>
+                </div>
+            </section>
+
+            <section class="subject-section">
+                <h2 class="subject-title">✍️ Language & Literature</h2>
+                <div class="grid" id="language-grid">
+                    <div class="card" data-term="adjective"><h3>Adjective</h3><p>A descriptive part of speech that modifies, describes, or quantifies a noun or pronoun.</p></div>
+                    <div class="card" data-term="adverb"><h3>Adverb</h3><p>A word that modifies or describes a verb, adjective, or other adverb, often explaining how, when, where, or to what degree.</p></div>
+                    <div class="card" data-term="alliteration"><h3>Alliteration</h3><p>The repetition of the same consonant sound at the beginning of closely connected words.</p></div>
+                    <div class="card" data-term="analogy"><h3>Analogy</h3><p>A detailed comparison made between two different things to highlight a point of similarity or explanation.</p></div>
+                    <div class="card" data-term="antonym"><h3>Antonym</h3><p>A word that possesses the opposite meaning of another given word.</p></div>
+                    <div class="card" data-term="conjunction"><h3>Conjunction</h3><p>A joining word used to link phrases, clauses, or words together within a sentence (such as and, but, or).</p></div>
+                    <div class="card" data-term="dialect"><h3>Dialect</h3><p>A regional or social variety of a language distinguished by its unique pronunciation, grammar, or vocabulary.</p></div>
+                    <div class="card" data-term="etymology"><h3>Etymology</h3><p>The historical study of the origins of words and how their structures and meanings have evolved over time.</p></div>
+                    <div class="card" data-term="euphemism"><h3>Euphemism</h3><p>A polite, mild, or indirect word used to replace a term that sounds too harsh, blunt, or unpleasant.</p></div>
+                    <div class="card" data-term="hyperbole"><h3>Hyperbole</h3><p>An intentional, extreme exaggeration used to emphasize a point rather than be taken literally.</p></div>
+                    <div class="card" data-term="idiom"><h3>Idiom</h3><p>An established expression whose collective meaning cannot be understood from the literal definitions of its individual words.</p></div>
+                    <div class="card" data-term="irony"><h3>Irony</h3><p>A literary device where the intended meaning of words is the opposite of their literal meaning, or when an outcome is contrary to expectations.</p></div>
+                    <div class="card" data-term="metaphor"><h3>Metaphor</h3><p>A direct comparison between two unrelated things that states one thing is another, without using "like" or "as."</p></div>
+                    <div class="card" data-term="noun"><h3>Noun</h3><p>A fundamental part of speech that names a person, place, thing, or abstract idea.</p></div>
+                    <div class="card" data-term="onomatopoeia"><h3>Onomatopoeia</h3><p>A word that phonetically mimics, imitates, or resembles the sound that it describes (such as buzz or hiss).</p></div>
+                    <div class="card" data-term="oxymoron"><h3>Oxymoron</h3><p>A figure of speech that pairs two completely contradictory terms right next to each other (such as deafening silence).</p></div>
+                    <div class="card" data-term="paradox"><h3>Paradox</h3><p>A statement that seems self-contradictory or absurd on the surface but may reveal an underlying truth upon deeper inspection.</p></div>
+                    <div class="card" data-term="personification"><h3>Personification</h3><p>A literary technique where human qualities, emotions, or actions are given to non-human things or ideas.</p></div>
+                    <div class="card" data-term="preposition"><h3>Preposition</h3><p>A word that indicates spatial, temporal, or logical relationships between a noun or pronoun and other words (such as under, over, before).</p></div>
+                    <div class="card" data-term="pronoun"><h3>Pronoun</h3><p>A substitute word used in place of a noun to prevent repetitive phrasing (such as he, she, they, it).</p></div>
+                    <div class="card" data-term="satire"><h3>Satire</h3><p>A literary work that uses humor, irony, exaggeration, or ridicule to critique or mock human vices, folly, or social institutions.</p></div>
+                    <div class="card" data-term="simile"><h3>Simile</h3><p>An explicit comparison between two different things using comparative words such as "like" or "as."</p></div>
+                    <div class="card" data-term="synonym"><h3>Synonym</h3><p>A word that has the exact same or highly similar meaning to another word in the same language.</p></div>
+                    <div class="card" data-term="syntax"><h3>Syntax</h3><p>The structural rules that govern how words and phrases are arranged to construct grammatically proper sentences.</p></div>
+                    <div class="card" data-term="verb"><h3>Verb</h3><p>A fundamental word type that expresses an action, an occurrence, or a state of being.</p></div>
+                </div>
+            </section>
+
+            <section class="subject-section">
+                <h2 class="subject-title">🌍 History & Social Studies</h2>
+                <div class="grid" id="history-grid">
+                    <div class="card" data-term="alliance"><h3>Alliance</h3><p>A formal agreement or pact made between nations or groups to cooperate for mutual benefit or defense.</p></div>
+                    <div class="card" data-term="anarchy"><h3>Anarchy</h3><p>A state of total societal disorder resulting from the complete absence or collapse of governing authority.</p></div>
+                    <div class="card" data-term="archaeology"><h3>Archaeology</h3><p>The scientific study of past human life and cultures through the excavation and analysis of artifacts and physical remains.</p></div>
+                    <div class="card" data-term="autocracy"><h3>Autocracy</h3><p>A system of governance where supreme, absolute power is concentrated in the hands of a single ruler.</p></div>
+                    <div class="card" data-term="barter"><h3>Barter</h3><p>An economic system of trading goods or services directly for other goods or services without using currency.</p></div>
+                    <div class="card" data-term="capitalism"><h3>Capitalism</h3><p>An economic framework where a country's trade and industries are controlled by private owners for profit, rather than by the state.</p></div>
+                    <div class="card" data-term="century"><h3>Century</h3><p>A chronological unit of time equal to exactly one hundred consecutive years.</p></div>
+                    <div class="card" data-term="civics"><h3>Civics</h3><p>The educational study of the rights, duties, privileges, and responsibilities of citizenship in a society.</p></div>
+                    <div class="card" data-term="constitution"><h3>Constitution</h3><p>The fundamental system of laws and principles according to which a nation or organization is governed.</p></div>
+                    <div class="card" data-term="culture"><h3>Culture</h3><p>The shared customs, arts, social institutions, values, and achievements of a particular group of people.</p></div>
+                    <div class="card" data-term="democracy"><h3>Democracy</h3><p>A system of government where the supreme power is vested in the people, who rule directly or via elected representatives.</p></div>
+                    <div class="card" data-term="dictator"><h3>Dictator</h3><p>A ruler who wields absolute, unrestricted power over a country, typically acquired and maintained through force.</p></div>
+                    <div class="card" data-term="economy"><h3>Economy</h3><p>The entire system of production, distribution, consumption, and exchange of goods and services within a region or country.</p></div>
+                    <div class="card" data-term="geography"><h3>Geography</h3><p>The comprehensive study of the physical features of the Earth, its atmospheres, and human interaction with environments.</p></div>
+                    <div class="card" data-term="globalization"><h3>Globalization</h3><p>The accelerating integration and interdependence of national economies, cultures, and policies across the globe.</p></div>
+                    <div class="card" data-term="imperialism"><h3>Imperialism</h3><p>A policy or practice where a powerful nation extends its influence and control over weaker nations through diplomacy or military force.</p></div>
+                    <div class="card" data-term="monarchy"><h3>Monarchy</h3><p>A traditional form of government where a single hereditary ruler, such as a king or queen, serves as the head of state.</p></div>
+                    <div class="card" data-term="oligarchy"><h3>Oligarchy</h3><p>A power structure where control over a country, institution, or organization is held by a small, elite group of individuals.</p></div>
+                    <div class="card" data-term="republic"><h3>Republic</h3><p>A form of government where power resides in the citizens who are entitled to vote, and is exercised by elected representatives.</p></div>
+                    <div class="card" data-term="suffrage"><h3>Suffrage</h3><p>The legal and political right to cast a vote in public elections.</p></div>
+                </div>
+            </section>
+        </div>
+
+        <div id="quiz-view" class="hidden">
+            <div class="quiz-container">
+                <div class="quiz-actions" style="margin-bottom: 1rem;">
+                    <h2>Vocabulary Challenge</h2>
+                    <span class="score-display" id="score-box">Score: 0/0</span>
+                </div>
+                <hr style="margin-bottom: 1.5rem; border: 1px solid #f1f5f9;">
+                <div id="question-text" class="quiz-question">Loading question...</div>
+                <div id="options-box" class="quiz-options"></div>
+                <div class="quiz-actions">
+                    <span id="feedback-text" style="font-weight: bold;"></span>
+                    <button id="next-btn" class="btn hidden" onclick="loadNextQuestion()">Next Question</button>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Academic Study Center. Learning simplified.</p>
+    </footer>
+
+    <script>
+        // Expanded dynamic Quiz Dataset based directly on your terms
+        const quizData = [
+            { q: "What is an angle that measures greater than 0° and less than 90°?", a: "Acute Angle", o: ["Obtuse Angle", "Acute Angle", "Asymptote", "Absolute Value"] },
+            { q: "Which chemical substance has a pH less than 7 and typically tastes sour?", a: "Acid", o: ["Base", "Catalyst", "Ion", "Acid"] },
+            { q: "What is the historical study of the origins of words and how their meanings have evolved?", a: "Etymology", o: ["Syntax", "Etymology", "Alliteration", "Idiom"] },
+            { q: "What system of government features power vested in the people, ruling directly or via elected representatives?", a: "Democracy", o: ["Oligarchy", "Autocracy", "Democracy", "Monarchy"] },
+            { q: "What is an intentional, extreme exaggeration used to emphasize a point called?", a: "Hyperbole", o: ["Metaphor", "Onomatopoeia", "Hyperbole", "Simile"] },
+            { q: "What is the process by which a living organism maintains a stable internal environment?", a: "Homeostasis", o: ["Mitosis", "Homeostasis", "Photosynthesis", "Respiration"] },
+            { q: "The distance of a number from zero on a number line, ignoring positive or negative signs, is called what?", a: "Absolute Value", o: ["Integer", "Coefficient", "Absolute Value", "Median"] },
+            { q: "Which subatomic particle has no electrical charge and resides in the nucleus?", a: "Neutron", o: ["Proton", "Electron", "Ion", "Neutron"] },
+            { q: "What structural rules govern how words and phrases are arranged to construct proper sentences?", a: "Syntax", o: ["Syntax", "Dialect", "Etymology", "Analogy"] },
+            { q: "What is an economic system based on trading goods or services directly without using money?", a: "Barter", o: ["Capitalism", "Barter", "Economy", "Oligarchy"] },
+            { q: "What is a straight line that a curve approaches closer and closer but never quite touches?", a: "Asymptote", o: ["Diameter", "Hypotenuse", "Parabola", "Asymptote"] },
+            { q: "What is the term for a variant or different version of a specific gene?", a: "Allele", o: ["Chromosome", "Allele", "Cell", "Isotope"] },
+            { q: "Which figure of speech pairs two completely contradictory terms right next to each other?", a: "Oxymoron", o: ["Paradox", "Oxymoron", "Irony", "Euphemism"] },
+            { q: "What is the legal and political right to cast a vote in public elections?", a: "Suffrage", o: ["Civics", "Alliance", "Suffrage", "Republic"] }
+        ];
+
+        let currentQuestionIndex = 0;
+        let score = 0;
+        let totalAnswered = 0;
+        let canAnswer = true;
+
+        // Set up real-time search immediately
+        document.getElementById('searchBar').addEventListener('keyup', function() {
+            let input = this.value.toLowerCase();
+            let cards = document.getElementsByClassName('card');
+            
+            for (let i = 0; i < cards.length; i++) {
+                let term = cards[i].getAttribute('data-term');
+                let definition = cards[i].getElementsByTagName('p')[0].innerText.toLowerCase();
+                if (term.includes(input) || definition.includes(input)) {
+                    cards[i].style.display = "";
+                } else {
+                    cards[i].style.display = "none";
+                }
+            }
+        });
+
+        // Toggle Views
+        function showView(view) {
+            document.getElementById('glossary-view').classList.add('hidden');
+            document.getElementById('quiz-view').classList.add('hidden');
+            document.getElementById('nav-glossary').classList.remove('active');
+            document.getElementById('nav-quiz').classList.remove('active');
+
+            if(view === 'glossary') {
+                document.getElementById('glossary-view').classList.remove('hidden');
+                document.getElementById('nav-glossary').classList.add('active');
+            } else if(view === 'quiz') {
+                document.getElementById('quiz-view').classList.remove('hidden');
+                document.getElementById('nav-quiz').classList.add('active');
+                initQuiz();
+            }
+        }
+
+        // Quiz Mechanics
+        function initQuiz() {
+            currentQuestionIndex = 0;
+            score = 0;
+            totalAnswered = 0;
+            document.getElementById('score-box').innerText = `Score: ${score}/${totalAnswered}`;
+            loadQuestion();
+        }
+
+        function loadQuestion() {
+            canAnswer = true;
+            document.getElementById('next-btn').classList.add('hidden');
+            document.getElementById('feedback-text').innerText = "";
+            
+            let currentData = quizData[currentQuestionIndex];
+            document.getElementById('question-text').innerText = `${currentQuestionIndex + 1}. ${currentData.q}`;
+            
+            let optionsBox = document.getElementById('options-box');
+            optionsBox.innerHTML = "";
+            
+            currentData.o.forEach(option => {
+                let btn = document.createElement('button');
+                btn.className = "option-btn";
+                btn.innerText = option;
+                btn.onclick = () => checkAnswer(btn, option, currentData.a);
+                optionsBox.appendChild(btn);
+            });
+        }
+
+        function checkAnswer(selectedBtn, selectedOption, correctOption) {
+            if (!canAnswer) return;
+            canAnswer = false;
+            totalAnswered++;
+            
+            let buttons = document.getElementsByClassName('option-btn');
+            
+            if (selectedOption === correctOption) {
+                selectedBtn.classList.add('correct');
+                document.getElementById('feedback-text').innerText = "✨ Correct! Fantastic job.";
+                document.getElementById('feedback-text').style.color = "var(--success-color)";
+                score++;
+            } else {
+                selectedBtn.classList.add('wrong');
+                document.getElementById('feedback-text').innerText = `❌ Incorrect. The correct answer was: ${correctOption}`;
+                document.getElementById('feedback-text').style.color = "var(--danger-color)";
+                
+                for(let btn of buttons) {
+                    if(btn.innerText === correctOption) {
+                        btn.classList.add('correct');
+                    }
+                }
+            }
+            
+            document.getElementById('score-box').innerText = `Score: ${score}/${totalAnswered}`;
+            document.getElementById('next-btn').classList.remove('hidden');
+        }
+
+        function loadNextQuestion() {
+            currentQuestionIndex = (currentQuestionIndex + 1) % quizData.length;
+            loadQuestion();
+        }
+    </script>
 </body>
 </html>
