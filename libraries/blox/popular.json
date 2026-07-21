@@ -11,17 +11,17 @@
   },
   {
     "name": "Duck Duck Clicker",
-    "img": "/gameFiles/duck-duck-clicker/bloxcraft-ubg-is-ubg.png",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/Bloxcraft-UBG@main/gameFiles/duck-duck-clicker/bloxcraft-ubg-is-ubg.png",
     "url": "/app-viewer/?view=/gameFiles/duck-duck-clicker/"
   },
     {
     "name": "Baldi's Basics : Birthday bash/dash (Baldis Basic's)",
-    "img": "/gameFiles/baldi-basic-bday/bday.jpeg",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/Bloxcraft-UBG@main/gameFiles/baldi-basic-bday/bday.jpeg",
     "url": "/app-viewer/?view=/gameFiles/baldi-basic-bday/"
   },
    {
     "name": "Paper.io 3D (Paper io)",
-    "img": "/gameFiles/paper-io-3d/icon.jpeg",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/Bloxcraft-UBG@main/gameFiles/paper-io-3d/icon.jpeg",
     "url": "/app-viewer/?view=/gameFiles/paper-io-3d/"
   }
 ]
