@@ -11,7 +11,7 @@
   },
   {
     "name": "Fortnight",
-    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/imgfortnite.webp",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/img/fortnite.webp",
     "url": "nowgg.lol/apps/aptoide/5874/aptoide.html?deep_link=aptoidesearch://com.epicgames.fortnite"
   },
   {
@@ -80,13 +80,8 @@
     "url": "nowgg.lol/apps/meta-platforms-inc/1226/facebook.html"
   },
   {
-    "name": "App Launcher (now.gg)",
-    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/img/nowgg-app-launcher-rocket-ai.webp",
-    "url": "nowgg.lol/apps/uncube/7074/now.html"
-  },
-  {
     "name": "TikTok (Tik Tok)",
-    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/img/tiktok-the-clock-is-waiting.webpp",
+    "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/img/tiktok-the-clock-is-waiting.webp",
     "url": "nowgg.lol/apps/tiktok/4478/tiktok.html"
   },
   {
@@ -218,5 +213,445 @@
     "name": "ArmedForces.io (Armed Forces . IO)",
     "img": "https://cdn.jsdelivr.net/gh/tharun9772/game-assets@main/nowgg.fun/img/armedforces-is-an-io.webp",
     "url": "nowgg.lol/apps/julgames/51325/armedforces-io.html"
+  },
+  {
+    "name": "Bloxd.io",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub511.app51240/game-tiles/bloxd-io.jpg",
+    "url": "https://nowgg.lol/apps/bloxd/51240/bloxd-io.html"
+  },
+  {
+    "name": "Solitaire Social",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/51904/game-tiles/solitaire-social.jpg",
+    "url": "https://nowgg.lol/apps/kosmos-games/51904/solitaire-social.html"
+  },
+  {
+    "name": "App Launcher",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.uncube.launcher3/game-tiles/now.jpg",
+    "url": "https://nowgg.lol/apps/uncube/7074/now.html"
+  },
+  {
+    "name": "Gacha Life 2",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/air.com.lunime.gachalife2/game-tiles/gacha-life-2.jpg",
+    "url": "https://nowgg.lol/apps/lunime/5691/gacha-life-2.html"
+  },
+  {
+    "name": "Slow Roads",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub501.app51727/game-tiles/slow-roads.jpg",
+    "url": "https://nowgg.lol/apps/anslo/51727/slow-roads.html"
+  },
+  {
+    "name": "Smash Karts",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub560.app51304/game-tiles/smash-karts.jpg",
+    "url": "https://nowgg.lol/apps/tall-team/51304/smash-karts.html"
+  },
+  {
+    "name": "Ink Game",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/19906/game-tiles/ink-game.jpg",
+    "url": "https://nowgg.lol/apps/mini-games-rb/19906/ink-game.html"
+  },
+  {
+    "name": "Five Nights at Freddy's",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub501.app51750/game-tiles/five-nights-at-freddy-s.jpg",
+    "url": "https://nowgg.lol/apps/scott-cawthon/51750/five-nights-at-freddy-s.html"
+  },
+  {
+    "name": "Combat Online",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub501.app51619/game-tiles/combat-online.jpg",
+    "url": "https://nowgg.lol/apps/nadgames/51619/combat-online.html"
+  },
+  {
+    "name": "Gacha Club",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/air.com.lunime.gachaclub/game-tiles/gacha-club.jpg",
+    "url": "https://nowgg.lol/apps/lunime/2132/gacha-club.html"
+  },
+  {
+    "name": "Five Nights at Freddy's 2",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub501.app51767/game-tiles/five-nights-at-freddy-s-2.jpg",
+    "url": "https://nowgg.lol/apps/scott-cawthon/51767/five-nights-at-freddy-s-2.html"
+  },
+  {
+    "name": "Update 65 Anime Rangers X",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/19910/game-tiles/update-65-anime-rang.jpg",
+    "url": "https://nowgg.lol/apps/update-65-anime-rang/19910/update-65-anime-rang.html"
+  },
+  {
+    "name": "UPD Fish It",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/19907/game-tiles/upd-fish-it.jpg",
+    "url": "https://nowgg.lol/apps/upd-fish-it/19907/upd-fish-it.html"
+  },
+  {
+    "name": "RIVALS",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/19911/game-tiles/rivals.jpg",
+    "url": "https://nowgg.lol/apps/rivals/19911/rivals.html"
+  },
+  {
+    "name": "Evad",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/19914/game-tiles/evad.jpg",
+    "url": "https://nowgg.lol/apps/evad/19914/evad.html"
+  },
+  {
+    "name": "Grow a Garden",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/19903/game-tiles/Grow-a-Garden.jpg",
+    "url": "https://nowgg.lol/apps/Grow-a-Garden/19903/Grow-a-Garden.html"
+  },
+  {
+    "name": "Slasher Forsaken",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/19909/game-tiles/slasher-forsaken.jpg",
+    "url": "https://nowgg.lol/apps/slasher-forsaken/19909/slasher-forsaken.html"
+  },
+  {
+    "name": "Ludo classic : a dice game",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub565.app51367/game-tiles/ludo-classic-a-dice-game.jpg",
+    "url": "https://nowgg.lol/apps/playtouch/51367/ludo-classic-a-dice-game.html"
+  },
+  {
+    "name": "Mergest Kingdom",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub483.app51044/game-tiles/mergest-kingdom.jpg",
+    "url": "https://nowgg.lol/apps/clever-apps-pte-ltd-/51044/mergest-kingdom.html"
+  },
+  {
+    "name": "Dandys World ALPHA",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/19929/game-tiles/dandys-world-alpha.jpg",
+    "url": "https://nowgg.lol/apps/dandys-world-alpha/19929/dandys-world-alpha.html"
+  },
+  {
+    "name": "The Strongest Battlegrounds",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/19913/game-tiles/the-strongest-battle.jpg",
+    "url": "https://nowgg.lol/apps/the-strongest-battle/19913/the-strongest-battle.html"
+  },
+  {
+    "name": "99 Nights in the Forest",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/19902/game-tiles/99-Nights.jpg",
+    "url": "https://nowgg.lol/apps/99-Nights/19902/99-Nights.html"
+  },
+  {
+    "name": "Avatar World: City Life",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.pazugames.avatarworld/game-tiles/avatar-world-city-life.jpg",
+    "url": "https://nowgg.lol/apps/pazu-games/2767/avatar-world-city-life.html"
+  },
+  {
+    "name": "Adopt Me",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/19912/game-tiles/adopt-me.jpg",
+    "url": "https://nowgg.lol/apps/adopt-me/19912/adopt-me.html"
+  },
+  {
+    "name": "Brookhaven",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/19905/game-tiles/Brookhaven.jpg",
+    "url": "https://nowgg.lol/apps/Brookhaven/19905/Brookhaven.html"
+  },
+  {
+    "name": "Blox-fruit",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/19901/game-tiles/b.jpg",
+    "url": "https://nowgg.lol/apps/Blox-fruit/19901/Blox-fruit.html"
+  },
+  {
+    "name": "Gacha Life",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/air.com.lunime.gachalife/game-tiles/gacha-life.jpg",
+    "url": "https://nowgg.lol/apps/lunime/5767/gacha-life.html"
+  },
+  {
+    "name": "Impostor Rescue",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/8840/game-tiles/impostor-rescue.jpg",
+    "url": "https://nowgg.lol/apps/mobaso/8840/impostor-rescue.html"
+  },
+  {
+    "name": "Indian Bikes Driving 3D",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/8822/game-tiles/indian-bikes-driving-3d.jpg",
+    "url": "https://nowgg.lol/apps/rohit-gaming-studio/8822/indian-bikes-driving-3d.html"
+  },
+  {
+    "name": "Rumble Club",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/8697/game-tiles/rumble-club.jpg",
+    "url": "https://nowgg.lol/apps/lightfox-games-inc/8697/rumble-club.html"
+  },
+  {
+    "name": "Escape Lockdown",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/51907/game-tiles/escape-lockdown.jpg",
+    "url": "https://nowgg.lol/apps/spatial-io/51907/escape-lockdown.html"
+  },
+  {
+    "name": "Comfy Girl",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/8730/game-tiles/comfy-girl.jpg",
+    "url": "https://nowgg.lol/apps/plug-in-digital/8730/comfy-girl.html"
+  },
+  {
+    "name": "Idle Prison Empire Tycoon",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/8695/game-tiles/idle-prison-empire-tycoon.jpg",
+    "url": "https://nowgg.lol/apps/wazzapps-global-limited/8695/idle-prison-empire-tycoon.html"
+  },
+  {
+    "name": "Dynamons 7",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/51917/game-tiles/dynamons-7.jpg",
+    "url": "https://nowgg.lol/apps/azerion-casual-games/51917/dynamons-7.html"
+  },
+  {
+    "name": "Battle Through the Heavens",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/9089/game-tiles/battle-through-the-heavens.jpg",
+    "url": "https://nowgg.lol/apps/juefeng-games/9089/battle-through-the-heavens.html"
+  },
+  {
+    "name": "Roller Coaster Life Theme Park",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/8698/game-tiles/roller-coaster-life-theme-park.jpg",
+    "url": "https://nowgg.lol/apps/sparkling-society-park-building-island-v/8698/roller-coaster-life-theme-park.html"
+  },
+  {
+    "name": "War Master",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/8692/game-tiles/war-master.jpg",
+    "url": "https://nowgg.lol/apps/nese-dijital/8692/war-master.html"
+  },
+  {
+    "name": "Paranormal Inc.",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/8264/game-tiles/paranormal-inc.jpg",
+    "url": "https://nowgg.lol/apps/plug-in-digital/8264/paranormal-inc.html"
+  },
+  {
+    "name": "Army Tycoon : Idle Base",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/8688/game-tiles/army-tycoon-idle-base.jpg",
+    "url": "https://nowgg.lol/apps/hello-games-team/8688/army-tycoon-idle-base.html"
+  },
+  {
+    "name": "Counter Attack",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/8258/game-tiles/counter-attack.jpg",
+    "url": "https://nowgg.lol/apps/plug-in-digital/8258/counter-attack.html"
+  },
+  {
+    "name": "Poppy Playtime",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.MOBGames.PoppyMobileChap1/game-tiles/poppy-playtime.jpg",
+    "url": "https://nowgg.lol/apps/mob-games-studio/1293/poppy-playtime.html"
+  },
+  {
+    "name": "Neon Ghost RPG",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/51885/game-tiles/neon-ghost-rpg.jpg",
+    "url": "https://nowgg.lol/apps/spatial-io/51885/neon-ghost-rpg.html"
+  },
+  {
+    "name": "Mostly Only Up",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub813.app51692/game-tiles/mostly-only-up.jpg",
+    "url": "https://nowgg.lol/apps/spatial-io/51692/mostly-only-up.html"
+  },
+  {
+    "name": "Narrow One",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub501.app51551/game-tiles/narrow-one.jpg",
+    "url": "https://nowgg.lol/apps/pelican-party-studios/51551/narrow-one.html"
+  },
+  {
+    "name": "Vlad and Niki: Car Service",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.psv.vlad_and_niki.car_service.psv/game-tiles/vlad-and-niki-car-service.jpg",
+    "url": "https://nowgg.lol/apps/tuut/7611/vlad-and-niki-car-service.html"
+  },
+  {
+    "name": "Taming.io",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub706.app51545/game-tiles/taming-io.jpg",
+    "url": "https://nowgg.lol/apps/lapamauve/51545/taming-io.html"
+  },
+  {
+    "name": "Solar Smash",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.paradyme.solarsmash/game-tiles/solar-smash.jpg",
+    "url": "https://nowgg.lol/apps/paradyme-games/2629/solar-smash.html"
+  },
+  {
+    "name": "Oscar the Pet: Virtual Cat",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.oscarthecat.myvirtualpetPLD/game-tiles/oscar-the-pet-virtual-cat.jpg",
+    "url": "https://nowgg.lol/apps/playades/7553/oscar-the-pet-virtual-cat.html"
+  },
+  {
+    "name": "Merge Survivor Zombie",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub813.app51843/game-tiles/merge-survivor-zombie.jpg",
+    "url": "https://nowgg.lol/apps/spatial-io/51843/merge-survivor-zombie.html"
+  },
+  {
+    "name": "Punch Hero",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub813.app51691/game-tiles/punch-hero.jpg",
+    "url": "https://nowgg.lol/apps/spatial-io/51691/punch-hero.html"
+  },
+  {
+    "name": "Rush Team",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub501.app51642/game-tiles/rush-team.jpg",
+    "url": "https://nowgg.lol/apps/roka-gaming-style/51642/rush-team.html"
+  },
+  {
+    "name": "Clicker heroes",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/51875/game-tiles/clicker-heroes.jpg",
+    "url": "https://nowgg.lol/apps/playsaurus/51875/clicker-heroes.html"
+  },
+  {
+    "name": "POLYBLICY",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub501.app51643/game-tiles/polyblicy.jpg",
+    "url": "https://nowgg.lol/apps/roka-gaming-style/51643/polyblicy.html"
+  },
+  {
+    "name": "Racing Empire",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub813.app51693/game-tiles/racing-empire.jpg",
+    "url": "https://nowgg.lol/apps/spatial-io/51693/racing-empire.html"
+  },
+  {
+    "name": "Stickman Brawler Advanced",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub474.app51806/game-tiles/stickman-brawler-advanced.jpg",
+    "url": "https://nowgg.lol/apps/marketjs/51806/stickman-brawler-advanced.html"
+  },
+  {
+    "name": "Moto X3M",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub483.app51036/game-tiles/moto-x3m.jpg",
+    "url": "https://nowgg.lol/apps/madpuffers/51036/moto-x3m.html"
+  },
+  {
+    "name": "Stickman Ragdoll Playground",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub483.app51847/game-tiles/stickman-ragdoll-playground.jpg",
+    "url": "https://nowgg.lol/apps/no/51847/stickman-ragdoll-playground.html"
+  },
+  {
+    "name": "King Kong Kart Racing",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub474.app51807/game-tiles/king-kong-kart-racing.jpg",
+    "url": "https://nowgg.lol/apps/marketjs/51807/king-kong-kart-racing.html"
+  },
+  {
+    "name": "Papa's Scooperia",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub807.app51682/game-tiles/papa-s-scooperia.jpg",
+    "url": "https://nowgg.lol/apps/flipline-studios/51682/papa-s-scooperia.html"
+  },
+  {
+    "name": "Papa's Sushiria",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub807.app51698/game-tiles/papa-s-sushiria.jpg",
+    "url": "https://nowgg.lol/apps/flipline-studios/51698/papa-s-sushiria.html"
+  },
+  {
+    "name": "Shooty Shooty",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub813.app51690/game-tiles/shooty-shooty.jpg",
+    "url": "https://nowgg.lol/apps/spatial-io/51690/shooty-shooty.html"
+  },
+  {
+    "name": "Papa's Freezeria",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub807.app51686/game-tiles/papa-s-freezeria.jpg",
+    "url": "https://nowgg.lol/apps/flipline-studios/51686/papa-s-freezeria.html"
+  },
+  {
+    "name": "Humans Playground",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub483.app51641/game-tiles/humans-playground.jpg",
+    "url": "https://nowgg.lol/apps/jimo-game/51641/humans-playground.html"
+  },
+  {
+    "name": "Drift.io",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub501.app51765/game-tiles/drift-io.jpg",
+    "url": "https://nowgg.lol/apps/the-drift-io-team/51765/drift-io.html"
+  },
+  {
+    "name": "Buddy Blitz",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub813.app51823/game-tiles/buddy-blitz.jpg",
+    "url": "https://nowgg.lol/apps/spatial-io/51823/buddy-blitz.html"
+  },
+  {
+    "name": "Tribals.io",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub501.app51726/game-tiles/tribals-io.jpg",
+    "url": "https://nowgg.lol/apps/onrush-studios/51726/tribals-io.html"
+  },
+  {
+    "name": "Ev.io",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub501.app51728/game-tiles/ev-io.jpg",
+    "url": "https://nowgg.lol/apps/eviocontact/51728/ev-io.html"
+  },
+  {
+    "name": "Madalin Cars Multiplayer",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub501.app51752/game-tiles/madalin-cars-multiplayer.jpg",
+    "url": "https://nowgg.lol/apps/madalin-games/51752/madalin-cars-multiplayer.html"
+  },
+  {
+    "name": "Stickman Army : The Resistance",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub565.app51510/game-tiles/stickman-army-the-resistance.jpg",
+    "url": "https://nowgg.lol/apps/playtouch/51510/stickman-army-the-resistance.html"
+  },
+  {
+    "name": "Venge.io",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub501.app51620/game-tiles/venge-io.jpg",
+    "url": "https://nowgg.lol/apps/onrush-studios/51620/venge-io.html"
+  },
+  {
+    "name": "Epic Battle Fantasy 5",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub807.app51684/game-tiles/epic-battle-fantasy-5.jpg",
+    "url": "https://nowgg.lol/apps/kupo-games/51684/epic-battle-fantasy-5.html"
+  },
+  {
+    "name": "Run 3",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub501.app51626/game-tiles/run-3.jpg",
+    "url": "https://nowgg.lol/apps/player-03/51626/run-3.html"
+  },
+  {
+    "name": "Learn to Fly 3",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub807.app51710/game-tiles/learn-to-fly-3.jpg",
+    "url": "https://nowgg.lol/apps/light-bringer/51710/learn-to-fly-3.html"
+  },
+  {
+    "name": "Fleeing the Complex",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub807.app51674/game-tiles/fleeing-the-complex.jpg",
+    "url": "https://nowgg.lol/apps/puffballs-united/51674/fleeing-the-complex.html"
+  },
+  {
+    "name": "Infiltrating the Airship",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub807.app51675/game-tiles/infiltrating-the-airship.jpg",
+    "url": "https://nowgg.lol/apps/puffballsunited/51675/infiltrating-the-airship.html"
+  },
+  {
+    "name": "Escaping the Prison",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub807.app51660/game-tiles/escaping-the-prison.jpg",
+    "url": "https://nowgg.lol/apps/puffballsunited/51660/escaping-the-prison.html"
+  },
+  {
+    "name": "Speed Racing Pro 2",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub501.app51755/game-tiles/speed-racing-pro-2.jpg",
+    "url": "https://nowgg.lol/apps/madalin-games/51755/speed-racing-pro-2.html"
+  },
+  {
+    "name": "Age of War 2",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub807.app51696/game-tiles/age-of-war-2.jpg",
+    "url": "https://nowgg.lol/apps/louissi/51696/age-of-war-2.html"
+  },
+  {
+    "name": "Blockman Go",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.sandboxol.blockymods/game-tiles/blockman-go.jpg",
+    "url": "https://nowgg.lol/apps/blockman-go-studio/8913/blockman-go.html"
+  },
+  {
+    "name": "Papa's Taco Mia",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub807.app51689/game-tiles/papa-s-taco-mia.jpg",
+    "url": "https://nowgg.lol/apps/flipline-studios/51689/papa-s-taco-mia.html"
+  },
+  {
+    "name": "Papa's Pizzeria",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub807.app51680/game-tiles/papa-s-pizzeria.jpg",
+    "url": "https://nowgg.lol/apps/flipline-studios/51680/papa-s-pizzeria.html"
+  },
+  {
+    "name": "EvoWars.io",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub501.app51570/game-tiles/evowars-io.jpg",
+    "url": "https://nowgg.lol/apps/night-steed-games/51570/evowars-io.html"
+  },
+  {
+    "name": "Build Royale",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/com.nowgg.h5.pub706.app51562/game-tiles/build-royale.jpg",
+    "url": "https://nowgg.lol/apps/lapamauve/51562/build-royale.html"
+  },
+  {
+    "name": "World Guessr",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/52095/game-tiles/world-guessr.jpg",
+    "url": "https://nowgg.lol/apps/codergautam/52095/world-guessr.html"
+  },
+  {
+    "name": "Rally Racer Dirt",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/52100/game-tiles/rally-racer-dirt.jpg",
+    "url": "https://nowgg.lol/apps/valvolex/52100/rally-racer-dirt.html"
+  },
+  {
+    "name": "Little Alchemy 2",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/52097/game-tiles/little-alchemy-2.jpg",
+    "url": "https://nowgg.lol/apps/recloak/52097/little-alchemy-2.html"
+  },
+  {
+    "name": "Rocket Bot Royal",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/52099/game-tiles/rocket-bot-royal.jpg",
+    "url": "https://nowgg.lol/apps/winterpixel-games-inc/52099/rocket-bot-royal.html"
+  },
+  {
+    "name": "Ink Game",
+    "img": "https://winf-dictionary.dk-ubg.workers.dev/cdn/proxy/image/https://cdn.now.gg/apps-content/19906/game-tiles/ink-game.jpg",
+    "url": "https://nowgg.lol/apps/ink-game/19906/ink-game.html"
   }
 ]
