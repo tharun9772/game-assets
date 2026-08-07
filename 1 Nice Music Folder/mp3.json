@@ -1,49 +1,198 @@
-A Memory Away.mp3
-Aerith's Theme - Piano arrangement.mp3
-Alagaesia and Eragon - Piano arrangement.mp3
-Assault on Mist Castle.mp3
-Bloody Tears (Castlevania remix).mp3
-Carol of the Bells (Christmas).mp3
-Clowns.mp3
-Crossroads.mp3
-Cyaron's Gate.mp3
-Dark Knight.mp3
-Daybreak.mp3
-Deeper.mp3
-Defiance (long remix).mp3
-Defiance.mp3
-Deserve to be Loved.mp3
-Destiny.mp3
-Faith (love remix).mp3
-Faith.mp3
-Familiar Roads.mp3
-Fate.mp3
-Find You (march remix).mp3
-Find You.mp3
-From Here.mp3
-Halls of Despair.mp3
-Hidden Tears.mp3
-Home.mp3
-Honky-Tonk Villain.mp3
-King of the Desert.mp3
-Leaving Millie (live piano).mp3
-Lost Islands.mp3
-March of the Zargansk.mp3
-Nevermore.mp3
-Now or Never.mp3
-Ominosity.mp3
-Purgatory's Mansion.mp3
-Reign of Anarchy.mp3
-Remember.mp3
-Retribution.mp3
-Surreptitious.mp3
-Syntheticity.mp3
-The Forest Awakes.mp3
-The Haunting.mp3
-The Journey (Kroc's Theme).mp3
-Those Who Fight Further (Final Fantasy 7) - Piano duet.mp3
-Thugs.mp3
-Tiberian National Anthem.mp3
-Unknown.mp3
-White Knight (remix of DragonFyre's original).mp3
-Wild Waters.mp3
+[
+  {
+    "name": "A Memory Away",
+    "url": "A Memory Away.mp3"
+  },
+  {
+    "name": "Aerith's Theme - Piano arrangement",
+    "url": "Aerith's Theme - Piano arrangement.mp3"
+  },
+  {
+    "name": "Alagaesia and Eragon - Piano arrangement",
+    "url": "Alagaesia and Eragon - Piano arrangement.mp3"
+  },
+  {
+    "name": "Assault on Mist Castle",
+    "url": "Assault on Mist Castle.mp3"
+  },
+  {
+    "name": "Bloody Tears (Castlevania remix)",
+    "url": "Bloody Tears (Castlevania remix).mp3"
+  },
+  {
+    "name": "Carol of the Bells (Christmas)",
+    "url": "Carol of the Bells (Christmas).mp3"
+  },
+  {
+    "name": "Clowns",
+    "url": "Clowns.mp3"
+  },
+  {
+    "name": "Crossroads",
+    "url": "Crossroads.mp3"
+  },
+  {
+    "name": "Cyaron's Gate",
+    "url": "Cyaron's Gate.mp3"
+  },
+  {
+    "name": "Dark Knight",
+    "url": "Dark Knight.mp3"
+  },
+  {
+    "name": "Daybreak",
+    "url": "Daybreak.mp3"
+  },
+  {
+    "name": "Deeper",
+    "url": "Deeper.mp3"
+  },
+  {
+    "name": "Defiance (long remix)",
+    "url": "Defiance (long remix).mp3"
+  },
+  {
+    "name": "Defiance",
+    "url": "Defiance.mp3"
+  },
+  {
+    "name": "Deserve to be Loved",
+    "url": "Deserve to be Loved.mp3"
+  },
+  {
+    "name": "Destiny",
+    "url": "Destiny.mp3"
+  },
+  {
+    "name": "Faith (love remix)",
+    "url": "Faith (love remix).mp3"
+  },
+  {
+    "name": "Faith",
+    "url": "Faith.mp3"
+  },
+  {
+    "name": "Familiar Roads",
+    "url": "Familiar Roads.mp3"
+  },
+  {
+    "name": "Fate",
+    "url": "Fate.mp3"
+  },
+  {
+    "name": "Find You (march remix)",
+    "url": "Find You (march remix).mp3"
+  },
+  {
+    "name": "Find You",
+    "url": "Find You.mp3"
+  },
+  {
+    "name": "From Here",
+    "url": "From Here.mp3"
+  },
+  {
+    "name": "Halls of Despair",
+    "url": "Halls of Despair.mp3"
+  },
+  {
+    "name": "Hidden Tears",
+    "url": "Hidden Tears.mp3"
+  },
+  {
+    "name": "Home",
+    "url": "Home.mp3"
+  },
+  {
+    "name": "Honky-Tonk Villain",
+    "url": "Honky-Tonk Villain.mp3"
+  },
+  {
+    "name": "King of the Desert",
+    "url": "King of the Desert.mp3"
+  },
+  {
+    "name": "Leaving Millie (live piano)",
+    "url": "Leaving Millie (live piano).mp3"
+  },
+  {
+    "name": "Lost Islands",
+    "url": "Lost Islands.mp3"
+  },
+  {
+    "name": "March of the Zargansk",
+    "url": "March of the Zargansk.mp3"
+  },
+  {
+    "name": "Nevermore",
+    "url": "Nevermore.mp3"
+  },
+  {
+    "name": "Now or Never",
+    "url": "Now or Never.mp3"
+  },
+  {
+    "name": "Ominosity",
+    "url": "Ominosity.mp3"
+  },
+  {
+    "name": "Purgatory's Mansion",
+    "url": "Purgatory's Mansion.mp3"
+  },
+  {
+    "name": "Reign of Anarchy",
+    "url": "Reign of Anarchy.mp3"
+  },
+  {
+    "name": "Remember",
+    "url": "Remember.mp3"
+  },
+  {
+    "name": "Retribution",
+    "url": "Retribution.mp3"
+  },
+  {
+    "name": "Surreptitious",
+    "url": "Surreptitious.mp3"
+  },
+  {
+    "name": "Syntheticity",
+    "url": "Syntheticity.mp3"
+  },
+  {
+    "name": "The Forest Awakes",
+    "url": "The Forest Awakes.mp3"
+  },
+  {
+    "name": "The Haunting",
+    "url": "The Haunting.mp3"
+  },
+  {
+    "name": "The Journey (Kroc's Theme)",
+    "url": "The Journey (Kroc's Theme).mp3"
+  },
+  {
+    "name": "Those Who Fight Further (Final Fantasy 7) - Piano duet",
+    "url": "Those Who Fight Further (Final Fantasy 7) - Piano duet.mp3"
+  },
+  {
+    "name": "Thugs",
+    "url": "Thugs.mp3"
+  },
+  {
+    "name": "Tiberian National Anthem",
+    "url": "Tiberian National Anthem.mp3"
+  },
+  {
+    "name": "Unknown",
+    "url": "Unknown.mp3"
+  },
+  {
+    "name": "White Knight (remix of DragonFyre's original)",
+    "url": "White Knight (remix of DragonFyre's original).mp3"
+  },
+  {
+    "name": "Wild Waters",
+    "url": "Wild Waters.mp3"
+  }
+]
