@@ -9,7 +9,7 @@ ogg.json
 
 sadly not
 
-elite-gamez.json
+juice-wrld.json
 
 Summary
 =======
