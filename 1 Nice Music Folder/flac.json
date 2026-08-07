@@ -1,20 +1,82 @@
-A Memory Away.flac
-Aerith's Theme - Piano arrangement.flac
-Alagaesia and Eragon - Piano arrangement.flac
-Assault on Mist Castle.flac
-Bloody Tears (Castlevania remix).flac
-Carol of the Bells (Christmas).flac
-Clowns.flac
-Crossroads.flac
-Cyaron's Gate.flac
-Dark Knight.flac
-Daybreak.flac
-Deeper.flac
-Deserve to be Loved.flac
-Destiny.flac
-Familiar Roads.flac
-Find You (march remix).flac
-Find You.flac
-From Here.flac
-King of the Desert.flac
-Those Who Fight Further (Final Fantasy 7) - Piano Duet.flac
+[
+  {
+    "name": "A Memory Away",
+    "url": "A Memory Away.flac"
+  },
+  {
+    "name": "Aerith's Theme - Piano arrangement",
+    "url": "Aerith's Theme - Piano arrangement.flac"
+  },
+  {
+    "name": "Alagaesia and Eragon - Piano arrangement",
+    "url": "Alagaesia and Eragon - Piano arrangement.flac"
+  },
+  {
+    "name": "Assault on Mist Castle",
+    "url": "Assault on Mist Castle.flac"
+  },
+  {
+    "name": "Bloody Tears (Castlevania remix)",
+    "url": "Bloody Tears (Castlevania remix).flac"
+  },
+  {
+    "name": "Carol of the Bells (Christmas)",
+    "url": "Carol of the Bells (Christmas).flac"
+  },
+  {
+    "name": "Clowns",
+    "url": "Clowns.flac"
+  },
+  {
+    "name": "Crossroads",
+    "url": "Crossroads.flac"
+  },
+  {
+    "name": "Cyaron's Gate",
+    "url": "Cyaron's Gate.flac"
+  },
+  {
+    "name": "Dark Knight",
+    "url": "Dark Knight.flac"
+  },
+  {
+    "name": "Daybreak",
+    "url": "Daybreak.flac"
+  },
+  {
+    "name": "Deeper",
+    "url": "Deeper.flac"
+  },
+  {
+    "name": "Deserve to be Loved",
+    "url": "Deserve to be Loved.flac"
+  },
+  {
+    "name": "Destiny",
+    "url": "Destiny.flac"
+  },
+  {
+    "name": "Familiar Roads",
+    "url": "Familiar Roads.flac"
+  },
+  {
+    "name": "Find You (march remix)",
+    "url": "Find You (march remix).flac"
+  },
+  {
+    "name": "Find You",
+    "url": "Find You.flac"
+  },
+  {
+    "name": "From Here",
+    "url": "From Here.flac"
+  },
+  {
+    "name": "King of the Desert",
+    "url": "King of the Desert.flac"
+  },
+  {
+    "name": "Those Who Fight Further (Final Fantasy 7) - Piano Duet",
+    "url": "Those Who Fight Further (Final Fantasy 7) - Piano Duet.flac"
+  }
+]
