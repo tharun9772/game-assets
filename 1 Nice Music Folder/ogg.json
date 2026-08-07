@@ -1,29 +1,118 @@
-A Memory Away.ogg
-Aerith's Theme - Piano arrangement.ogg
-Alagaesia and Eragon - Piano arrangement.ogg
-Assault on Mist Castle.ogg
-Bloody Tears (Castlevania remix).ogg
-Carol of the Bells (Christmas).ogg
-Clowns.ogg
-Crossroads.ogg
-Cyaron's Gate.ogg
-Dark Knight.ogg
-Daybreak.ogg
-Deeper.ogg
-Defiance (long remix).ogg
-Defiance.ogg
-Deserve to be Loved.ogg
-Destiny.ogg
-Faith.ogg
-Familiar Roads.ogg
-Find You (march remix).ogg
-Find You.ogg
-From Here.ogg
-Honky-Tonk Villain.ogg
-King of the Desert.ogg
-Retribution.ogg
-Syntheticity.ogg
-The Forest Awakes.ogg
-Those Who Fight Further (Final Fantasy 7) - Piano Duet.ogg
-Thugs.ogg
-White Knight (remix of DragonFyre's original).ogg
+[
+  {
+    "name": "A Memory Away",
+    "url": "A Memory Away.ogg"
+  },
+  {
+    "name": "Aerith's Theme - Piano arrangement",
+    "url": "Aerith's Theme - Piano arrangement.ogg"
+  },
+  {
+    "name": "Alagaesia and Eragon - Piano arrangement",
+    "url": "Alagaesia and Eragon - Piano arrangement.ogg"
+  },
+  {
+    "name": "Assault on Mist Castle",
+    "url": "Assault on Mist Castle.ogg"
+  },
+  {
+    "name": "Bloody Tears (Castlevania remix)",
+    "url": "Bloody Tears (Castlevania remix).ogg"
+  },
+  {
+    "name": "Carol of the Bells (Christmas)",
+    "url": "Carol of the Bells (Christmas).ogg"
+  },
+  {
+    "name": "Clowns",
+    "url": "Clowns.ogg"
+  },
+  {
+    "name": "Crossroads",
+    "url": "Crossroads.ogg"
+  },
+  {
+    "name": "Cyaron's Gate",
+    "url": "Cyaron's Gate.ogg"
+  },
+  {
+    "name": "Dark Knight",
+    "url": "Dark Knight.ogg"
+  },
+  {
+    "name": "Daybreak",
+    "url": "Daybreak.ogg"
+  },
+  {
+    "name": "Deeper",
+    "url": "Deeper.ogg"
+  },
+  {
+    "name": "Defiance (long remix)",
+    "url": "Defiance (long remix).ogg"
+  },
+  {
+    "name": "Defiance",
+    "url": "Defiance.ogg"
+  },
+  {
+    "name": "Deserve to be Loved",
+    "url": "Deserve to be Loved.ogg"
+  },
+  {
+    "name": "Destiny",
+    "url": "Destiny.ogg"
+  },
+  {
+    "name": "Faith",
+    "url": "Faith.ogg"
+  },
+  {
+    "name": "Familiar Roads",
+    "url": "Familiar Roads.ogg"
+  },
+  {
+    "name": "Find You (march remix)",
+    "url": "Find You (march remix).ogg"
+  },
+  {
+    "name": "Find You",
+    "url": "Find You.ogg"
+  },
+  {
+    "name": "From Here",
+    "url": "From Here.ogg"
+  },
+  {
+    "name": "Honky-Tonk Villain",
+    "url": "Honky-Tonk Villain.ogg"
+  },
+  {
+    "name": "King of the Desert",
+    "url": "King of the Desert.ogg"
+  },
+  {
+    "name": "Retribution",
+    "url": "Retribution.ogg"
+  },
+  {
+    "name": "Syntheticity",
+    "url": "Syntheticity.ogg"
+  },
+  {
+    "name": "The Forest Awakes",
+    "url": "The Forest Awakes.ogg"
+  },
+  {
+    "name": "Those Who Fight Further (Final Fantasy 7) - Piano Duet",
+    "url": "Those Who Fight Further (Final Fantasy 7) - Piano Duet.ogg"
+  },
+  {
+    "name": "Thugs",
+    "url": "Thugs.ogg"
+  },
+  {
+    "name": "White Knight (remix of DragonFyre's original)",
+    "url": "White Knight (remix of DragonFyre's original).ogg"
+  }
+]
