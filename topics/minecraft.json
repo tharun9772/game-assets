@@ -154,5 +154,11 @@
     "img": "https://frogs-questions.dk-ubg.workers.dev/stuff/games/minecraft.jpg",
     "url": "/sail/embed/#frogiesarcade.win/stuff/selfhosted/minecraft/",
     "engine": "frogies"
+  },
+    {
+    "name": "Minecraft 1.20.4",
+    "img": "https://cdn.jsdelivr.net/gh/daknux/covers@main/41.png",
+    "url": "/app-viewer/daknux/?g-id=41",
+    "engine": "daknux"
   }
 ]
