@@ -1,4 +1,10 @@
 [
+    {
+    "name": "Minecraft 26.2",
+    "img": "https://cdn.jsdelivr.net/gh/tharun-official-web/games@main/minecraft.jpg",
+    "url": "/gameFiles/!_RANDOMS_!/mcg-selection.html",
+    "engine": "blox"
+  }
   {
     "name": "Minecraft 1.20.1",
     "img": "https://cdn.jsdelivr.net/gh/tharun-official-web/games@main/minecraft.jpg",
