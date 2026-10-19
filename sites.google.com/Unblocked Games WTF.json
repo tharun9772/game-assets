@@ -1,9 +1,4 @@
 {
-  "name": "99 Nights In The Forest",
-  "url": "https://script.google.com/macros/s/AKfycbw4urIQgR3zAfmFsn3NWFC6kpsGYSWafyi6AWtyVNSyBkySH9O46LVnhej6fW7beFME/exec",
-  "fetch": "google"
-},
-{
   "name": "12 Mini Battles",
   "url": "https://cdn.jsdelivr.net/gh/tharun9772-gaming/Unblocked-Games@main/12%20Minibattles.html",
   "fetch": "jsdelivr"
@@ -23,6 +18,45 @@
   "url": "https://cdn.jsdelivr.net/gh/tharun9772-gaming/Unblocked-Games@main/2048.html",
   "fetch": "jsdelivr"
 },
-
+{
+  "name": "2048 Cupcakes",
+  "url": "https://cdn.jsdelivr.net/gh/tharun9772-gaming/Unblocked-Games@main/2048%20Cupcakes.html",
+  "fetch": "jsdelivr"
+},
+{
+  "name": "2048 Multiplayer",
+  "url": "https://script.google.com/macros/s/AKfycbyGoS0knMkEnvax1bcoPurTcBhrKVIG4qoywsTfkGnTD5ghGG3rMVDGXeVzjHIIIspS/exec",
+  "fetch": "google"
+},
+{
+  "name": "2048 Shoot",
+  "url": "https://script.google.com/macros/s/AKfycbw83uxYRr534DXrzIHS5T6Q5AeQtQnMdkk8Dxxo3i732YYOm6pr6LqO730wHogB7sI/exec",
+  "fetch": "google"
+},
+{
+  "name": "2 Minute Football QB Legend",
+  "url": "https://script.google.com/macros/s/AKfycbzb3Txt9eHRqGSzYjTgyg8VoR7816dep-subH7dJW1BlIK4HuDFqmI3gtHIbcgV-NSt/exec",
+  "fetch": "google"
+},
+{
+  "name": "2 Player Dino Run",
+  "url": "https://script.google.com/macros/s/AKfycbzblFS2xfWNWEfzVJvHHI-t7SiXBaK0M1_rSxf3dcaEFyCUs8eKVc9KEma-a1cRwy2A/exec",
+  "fetch": "google"
+},
+{
+  "name": "99 Balls",
+  "url": "https://script.google.com/macros/s/AKfycbxITALu9oE65UeWVJ59n1d8Z2f6Tda9ijHBb6tPhjz6YQz__GyDSKDl3t9rHxpZQ4_h/exec",
+  "fetch": "google"
+},
+{
+  "name": "99 Nights In The Forest",
+  "url": "https://script.google.com/macros/s/AKfycbw4urIQgR3zAfmFsn3NWFC6kpsGYSWafyi6AWtyVNSyBkySH9O46LVnhej6fW7beFME/exec",
+  "fetch": "google"
+},
+{
+  "name": "A Dance of Fire And Ice",
+  "url": "https://script.google.com/macros/s/AKfycbz3OFREmzT4e81mEypXp05AuZRpouds_D___kSEYZQrYzotlRohTErTei3J_l-CIWRe_w/exec",
+  "fetch": "google"
+},
 
 
