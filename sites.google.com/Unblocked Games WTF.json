@@ -269,4 +269,39 @@
   "url": "https://script.google.com/macros/s/AKfycbyDlu_jOseVJ1vs-727rRdeIgvVzKkUFT9FwBsdsaLmMKt46TmNtM_jYrDJYvPQb0Y_Lw/exec",
   "fetch": "google"
 },
+{
+  "name": "Baker City: Family Bakery",
+  "url": "https://script.google.com/macros/s/AKfycbxLBJq9CTZh65Qdd0SHkt5N2a39dnyFTFaICrP5uyrr2PYPPp_r6ta3I6TXGnVU1hub5w/exec",
+  "fetch": "google"
+},
+{
+  "name": "Baldi Basics",
+  "url": "https://cdn.jsdelivr.net/gh/tharun9772-gaming/Unblocked-Games@main/Baldi%20Basic.html",
+  "fetch": "jsdelivr"
+},
+{
+  "name": "Ball Blast",
+  "url": "https://script.google.com/macros/s/AKfycbxg2UBs9lzH2LXD3XzBX0nNwgwSRyZthUgYw0VXlQ49M7EKdHI0Az4iMMo9bSZj2QH2vg/exec",
+  "fetch": "google"
+},
+  {
+  "name": "Ball Mayhem",
+  "url": "https://script.google.com/macros/s/AKfycbz0vJpwdFNK7IqF0DBo87zxQ3X75H2JLhjCWLcvIOImpWGUm_zq96CMXVAzWEikEAF5/exec",
+  "fetch": "google"
+},
+{
+  "name": "Balls and Bricks",
+  "url": "https://script.google.com/macros/s/AKfycbxfQ05eAKdzWZ_tQuKifaO24uhsBgtwc8HE1eTSSqhKaaJ0WVGnAyTYgVzLcEVWDUV8/exec",
+  "fetch": "google"
+},
+{
+  "name": "Bankin Bacon ('n)",
+  "url": "https://script.google.com/macros/s/AKfycbxfQ05eAKdzWZ_tQuKifaO24uhsBgtwc8HE1eTSSqhKaaJ0WVGnAyTYgVzLcEVWDUV8/exec",
+  "fetch": "google"
+},
+{
+  "name": "Bank Robbery 2",
+  "url": "https://cdn.jsdelivr.net/gh/jurye45/controller@56956cb463babc3c7267ae41ed838e84c1ea4840/src/decorators/class/br2.svg",
+  "fetch": "svg"
+},
 ]
