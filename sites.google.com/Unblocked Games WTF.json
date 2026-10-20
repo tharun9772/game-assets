@@ -159,7 +159,24 @@
   "url": "https://script.google.com/macros/s/AKfycbxZl30P69dDH5OvGB15z-9HE4jNyJP1rCrv1-QLrwPzSSe0z1L0JedDNYrwZX0qPE9-/exec",
   "fetch": "google"
 },
+{
+  "name": "Appel",
+  "url": "https://scratch.mit.edu/projects/60917032/embed",
+  "fetch": "scratch"
+},
+{
+  "name": "Appel (Apple)",
+  "url": "https://scratch.mit.edu/projects/60917032/embed",
+  "fetch": "scratch"
+},
+{
+  "name": "Apple Shooter",
+  "url": "https://script.google.com/macros/s/AKfycbx-v0GY4I7u-xqBQTQU3O_mZ4T5qQa4jAfPSsAsMgZ_eOb0ajHtNqn0FslS5dZ7YEDmxg/exec",
+  "fetch": "google"
+},
+{
+  "name": "Apple Shooter",
+  "url": "https://script.google.com/macros/s/AKfycbx-v0GY4I7u-xqBQTQU3O_mZ4T5qQa4jAfPSsAsMgZ_eOb0ajHtNqn0FslS5dZ7YEDmxg/exec",
+  "fetch": "google"
+},
 ]
-
-
-
