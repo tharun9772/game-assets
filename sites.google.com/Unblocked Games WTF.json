@@ -304,4 +304,39 @@
   "url": "https://cdn.jsdelivr.net/gh/jurye45/controller@56956cb463babc3c7267ae41ed838e84c1ea4840/src/decorators/class/br2.svg",
   "fetch": "svg"
 },
+{
+  "name": "Barry Prison Escape",
+  "url": "https://script.google.com/macros/s/AKfycbxRR9j9VoEVe3ftwVkqAslFNtnJ1UUWj8hLc51en9qR8fsVz2gho9geBFjasY0IV8gJBQ/exec",
+  "fetch": "google"
+},
+{
+  "name": "Bartender The Right Mix",
+  "url": "https://script.google.com/macros/s/AKfycbxIEPt9Rax5RE-7htekkwHccA5WiCNezFPdUUaSH0IyxNaBojzlMNOWl577itzObUug/exec",
+  "fetch": "google"
+},
+{
+  "name": "Baseball Advance",
+  "url": "https://script.google.com/macros/s/AKfycby0HHVblhjYdrB79At2uN6rXlGh1yZu9pFmWFInHTSbVaSXFYESdJj5XunrP8hVwOrT/exec",
+  "fetch": "google"
+},
+{
+  "name": "Baseball Bros",
+  "url": "https://script.google.com/macros/s/AKfycbwyvxP-o1WNt_P4ND0dZ5nG3ytpAeIZsj3tN205-I_WkqGEuWPAS2yBcRWpX_tJ-BtY/exec",
+  "fetch": "google"
+},
+{
+  "name": "Basket Bros",
+  "url": "https://script.google.com/macros/s/AKfycbxUfaDSpH-0SJL0WPKt38JY7OOOGMmtpY9JTSbL8pvtjxS7jSpNHHu6MdZgWUshIU00Kw/exec",
+  "fetch": "google"
+},
+{
+  "name": "Basket & Ball",
+  "url": "https://basket-and-ball.glitch.me/",
+  "fetch": "glitch"
+},
+{
+  "name": "Basket Goal",
+  "url": "https://script.google.com/macros/s/AKfycbzSZOtWceLUCau--rTr0tUy3cQiuJ2jw4ERHrM3lwDOIv4pdty4AWrI0J3JjzLiAOIoNA/exec",
+  "fetch": "google"
+},
 ]
