@@ -424,4 +424,39 @@
   "url": "https://script.google.com/macros/s/AKfycbwbbASHaO2ZYximV7hfnD1yDfuPgwYpeBAbLseJVa5DW8vhsXKCSNnK6XB79Z06seehjw/exec",
   "fetch": "google"
 },
+{
+  "name": "Billiards",
+  "url": "https://script.google.com/macros/s/AKfycbzHRP28wf2JYYG9y12xXol4h8Fg0B7hAfIEu2fVInG2-0oqfdz5v7t46fkjpLzY9ppNFg/exec",
+  "fetch": "google"
+},
+{
+  "name": "Blacksmith Clicker",
+  "url": "https://script.google.com/macros/s/AKfycbzQaAZtrcJFjT3vW7NBFYusYqo6WuBjQy_y0Ky2qpW2Xml3PHAv4sJN3SHNyp89JMOc/exec",
+  "fetch": "google"
+},
+{
+  "name": "Blade Ball",
+  "url": "https://storage.googleapis.com/classroomx/blb.html",
+  "fetch": "googleapis"
+},
+{
+  "name": "Bleach Vs Naruto",
+  "url": "https://script.google.com/macros/s/AKfycbzc5m5Dpz0ZNrAaFfGXDNGN83yp0bLghZ4qiguix5eE371TwcOKuUo7fg0H0GdxJnd5/exec",
+  "fetch": "google"
+},
+{
+  "name": "Block Blast",
+  "url": "https://script.google.com/macros/s/AKfycbxZvtI5agrSjt2PR9Bi4M0UrukDLv22m04S03neCz_La2RwnISHUDQ48n6hlYayZvIs/exec",
+  "fetch": "google"
+},
+{
+  "name": "Block Puzzle",
+  "url": "https://script.google.com/macros/s/AKfycbwdzdcgxdcasskEMqFqEHyqAg51iTjS2O5PmiKyRLe7i07kL_0vIa9JH_bGBMbXMzLEQQ/exec",
+  "fetch": "google"
+},
+{
+  "name": "Block the Pig",
+  "url": "https://script.google.com/macros/s/AKfycbzPIYtMSI87eZo8WUdYsdZ4rBHmQ6q_Jk_52DSKwQiZVxo6IkdZSEztY0MHbs-wIOMwlw/exec",
+  "fetch": "google"
+},
 ]
