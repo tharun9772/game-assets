@@ -339,4 +339,9 @@
   "url": "https://script.google.com/macros/s/AKfycbzSZOtWceLUCau--rTr0tUy3cQiuJ2jw4ERHrM3lwDOIv4pdty4AWrI0J3JjzLiAOIoNA/exec",
   "fetch": "google"
 },
+{
+  "name": "Basket Random",
+  "url": "https://script.google.com/macros/s/AKfycbwiQgeRHVDP8wzJ_CeSE1LyaKCMu1qdlopwylhD4LdBvBVd2y36VjlWY0iyk38WH0JiJA/exec",
+  "fetch": "google"
+},
 ]
