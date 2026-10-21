@@ -379,5 +379,49 @@
   "url": "https://script.google.com/macros/s/AKfycbxy1zNkV2rOD3Y_MXtUDPDNAMdvJ1HgBkOTnzq4e5ZW-WJkznkIoUTr1J1fmEQ_cG4b4Q/exec",
   "fetch": "google"
 },
-]
+{
+  "name": "Battle Soccer Arena",
+  "url": "https://script.google.com/macros/s/AKfycbypNJTV2_4SaNeQ_yGszhhWdue30IzXRZnqpA9d3q9LnYVV_kulbaHCR_csPvFZ3MQf0A/exec",
+  "fetch": "google"
+},
+{
+  "name": "Be like a Lucky Block",
+  "url": "https://script.google.com/macros/s/AKfycbwKbSloha7gt5bCQ7_V430G1BnolTNwzM-5QDkGkwspLLkgvbnUVf8JHr3_TlPieRTMFg/exec",
+  "fetch": "google"
+},
+{
+  "name": "Berzerk Ball 2",
+  "url": "https://script.google.com/macros/s/AKfycbyoTN8z_ECJn1VWgKqa_-ZDuyIFJR5CNKm2SBS1eESynF8vgxS1XgPsbLlSW5eTdgjxDg/exec",
+  "fetch": "google"
+},
+{
+  "name": "Big FLAPPY Tower VS Tiny Square",
+  "url": "https://script.google.com/macros/s/AKfycbwkIVShw_jHb6KEYeJbQSE4jD9KqALkRzVhtOB15llm9_QNC8M_H95_EeMrJMaiqb8rsA/exec",
+  "fetch": "google"
+},
+{
+  "name": "Big ICE Tower Tiny Square",
+  "url": "https://script.google.com/macros/s/AKfycbxmxA4bU30OVDag30Ra0dpZI-o6galTdZx8hd2gT2Hw6kwLuTo72WWMDSCJPeuRdUXy/exec",
+  "fetch": "google"
+},
+{
+  "name": "Big NEON Tower vs Tiny Square",
+  "url": "https://script.google.com/macros/s/AKfycbwVScEA8osExOsKZgsSEzv06OhU5MLCyr_dn9flsUCTbHUMK8-zSnnDgZKzADD0vCt2/exec",
+  "fetch": "google"
+},
+{
+  "name": "Big Tall Small",
+  "url": "https://script.google.com/macros/s/AKfycbz649RZ1PL4DF6cvIR5He95H8xzsHjnAIP14lcS8EDivjYrl_OnxbMlOb2nrW7zdXx-/exec",
+  "fetch": "google"
+},
+{
+  "name": "Big Tower Tiny Square",
+  "url": "https://script.google.com/macros/s/AKfycbw6jKTpI8KoOnlFGBHnzwkJfkIQOGoxL3gc97-GJSCKw_rUTNrEJhZmMN1wtwKfK9I5/exec",
+  "fetch": "google"
+},
+{
+  "name": "Big Tower Tiny Square 2",
+  "url": "https://script.google.com/macros/s/AKfycbwbbASHaO2ZYximV7hfnD1yDfuPgwYpeBAbLseJVa5DW8vhsXKCSNnK6XB79Z06seehjw/exec",
+  "fetch": "google"
+},
 ]
